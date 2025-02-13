@@ -1,0 +1,183 @@
+﻿
+[Params]
+PanTiltShift = 0.0
+ExplodePanTilt = 0
+GroupRGB = 0
+FanPanOffset = 0
+FanTiltOffset = 0
+[Fixture_0]
+ID = 1671299957
+Name = ServoColor4K
+DMX = 66
+Channels = pan,upan,tilt,utilt,pantilt_speed,dimmer,strobe_effect,zoom,red,green,blue,white,color_macro,color_macro_speed,control
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_1]
+ID = 1671300460
+Name = ServoColor4K #2
+DMX = 81
+Channels = pan,upan,tilt,utilt,pantilt_speed,dimmer,strobe_effect,zoom,red,green,blue,white,color_macro,color_macro_speed,control
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_2]
+ID = 1671300461
+Name = ServoColor4K #3
+DMX = 96
+Channels = pan,upan,tilt,utilt,pantilt_speed,dimmer,strobe_effect,zoom,red,green,blue,white,color_macro,color_macro_speed,control
+ReversePan = 1
+ReverseTilt = 1
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_3]
+ID = 1671300462
+Name = ServoColor4K #4
+DMX = 111
+Channels = pan,upan,tilt,utilt,pantilt_speed,dimmer,strobe_effect,zoom,red,green,blue,white,color_macro,color_macro_speed,control
+ReversePan = 1
+ReverseTilt = 1
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_4]
+ID = 1671368260
+Name = ServoColor4K #5
+DMX = 126
+Channels = pan,upan,tilt,utilt,pantilt_speed,dimmer,strobe_effect,zoom,red,green,blue,white,color_macro,color_macro_speed,control
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_5]
+ID = 1671368261
+Name = ServoColor4K #6
+DMX = 141
+Channels = pan,upan,tilt,utilt,pantilt_speed,dimmer,strobe_effect,zoom,red,green,blue,white,color_macro,color_macro_speed,control
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Pan/Tilt/uPan/uTilt]
+Selected = 1
+CurveName = Crown salle
+Transition = 1
+Duration = 70
+Shift = 11.9
+Point_0 = 32932,11857
+Point_1 = 35269,32926
+Point_2 = 38610,11857
+Point_3 = 43960,32926
+Point_4 = 49642,11857
+Point_5 = 52650,32926
+Point_6 = 54992,11857
+Point_7 = 48306,32926
+Point_8 = 43960,11857
+Point_9 = 39613,32926
+[pantilt_speed]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[dimmer]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[strobe_effect]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[zoom]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[red]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[green]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[blue]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[white]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[color_macro]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[color_macro_speed]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[control]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535

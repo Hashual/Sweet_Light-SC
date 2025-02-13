@@ -1,0 +1,39 @@
+﻿ViewType = VIEW_TYPE_NOTHING
+ViewPower = VIEW_POWER_LED30W
+ViewAnglePan = 120
+ViewAngleTilt = 90
+ViewAngleBeam = 16
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 16777215
+3DViewShape = 
+2DViewImage = Briteq/BT-LASER1500-RGB.png
+
+Channel = mode
+ closed,0,63 auto,64,127 audio,128,191 dmx,192,255 
+
+Channel = pattern
+
+Channel = zoom
+ index,0,127 auto,128,255 
+
+Channel = pan
+ indexing,0,127 rotate,128,255 
+
+Channel = tilt
+ indexing,0,127 rotate,128,255 
+
+Channel = z
+ indexing,0,127 rotate,128,255 
+
+Channel = Horizontal Movement
+ index,0,127 speed_control,128,255 
+
+Channel = Vertical Movement
+ index,0,127 speed_control,128,255 
+
+Channel = color_macro
+ no_function,0,63,notusedinlc Yellow-Pink-Cyan,64,127 Red-Green-Blue,128,191 Red-Green-Blue,192,255 
+

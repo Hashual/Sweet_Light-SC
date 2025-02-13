@@ -1,0 +1,69 @@
+﻿
+[Params]
+Version = 0.2
+CommentTimeLine = 0
+LightTimeLines = 20
+MediaTimeLines = 1
+ShowWaveForm = 1
+MaxTime = 0:30:00
+Zoom = 0
+TimeLine_1 = V I D E O   P I C T U R E   T I M E L I N E
+TimeLine_2 = A U D I O   T I M E L I N E
+TimeLine_3 = LYRES COULEUR 1
+TimeLine_4 = LYRES COULEUR 2
+TimeLine_5 = LYRES MOUVEMENT 1
+TimeLine_6 = LYRES MOUVEMENT 2
+TimeLine_7 = LYRES DIMMER 1
+TimeLine_8 = LYRES DIMMER 2
+TimeLine_9 = LIVEKOLOR COULEUR
+TimeLine_10 = LIVEKOLOR EFFECT
+TimeLine_11 = LIVEKOLOR DIMMER
+TimeLine_12 = SCENE EFFECTS
+TimeLine_13 = PC DANSE
+TimeLine_14 = FUMÉE
+TimeLine_15 = DIMMER SALLE
+TimeLine_16 = COULEUR SALLE
+TimeLine_17 = Birdy 1
+TimeLine_18 = Birdy 2
+TimeLine_19 = Birdy 3
+TimeLine_20 = HPE 700 1
+TimeLine_21 = HPE 700 2
+TimeLine_22 = HPE 700 3
+[Event_0]
+TimeLineIndex = 3
+StartTime = 0:00:00.0
+Path = LYRES Placement sol.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_1]
+TimeLineIndex = 4
+StartTime = 0:00:00.0
+Path = LYRES Blanc.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_2]
+TimeLineIndex = 5
+StartTime = 0:00:00.2
+Path = LYRES dimmer continu salle.scex
+Length = 0:00:08.0
+Speed = 100
+SpeedType = 2
+[Event_3]
+TimeLineIndex = 2
+StartTime = 0:00:00.3
+Path = musiques/final_footlosse.wav
+Length = 0:00:23.3
+[Event_4]
+TimeLineIndex = 5
+StartTime = 0:00:22.1
+Path = OFF
+[Event_5]
+TimeLineIndex = 3
+StartTime = 0:00:23.3
+Path = OFF
+[Event_6]
+TimeLineIndex = 4
+StartTime = 0:00:23.3
+Path = OFF

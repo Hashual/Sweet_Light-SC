@@ -1,0 +1,74 @@
+﻿ViewType = VIEW_TYPE_HEAD
+ViewPower = VIEW_POWER_LAMP700W
+ViewAnglePan = 540
+ViewAngleTilt = 252
+ViewAngleBeam = 16
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 16777215
+3DViewShape = 
+2DViewImage = 
+
+Channel = cyan
+
+Channel = magenta
+
+Channel = yellow
+
+Channel = uniform field lens
+ open,0,127 closed,128,255 
+
+Channel = color_macro
+ Blanc,0,0 Blanc + Rouge,8,8 Rouge,15,15 Slow Rotation,128,128 rotate,255,255 
+
+Channel = strobe_effect
+ closed,0,3 Fast Strob,103,103 open,104,107 Slow Strob,108,108 Fast strob,207,207 open,208,212 R_ strob lent,213,225 R_strob moyen,226,238 R_strob fast,239,251 open,252,255 
+
+Channel = dimmer
+
+Channel = Dimmer fine
+
+Channel = iris
+ Ouverture min,0,0 Ouverture max,128,131 Lent pulsation,132,132 Rapide pulsation,171,171 PL / OR,172,172 PR / OR,211,211 PL /FR,212,212 PR / FR,251,251 Ouverture max,255,255 
+
+Channel = Static gobo change
+ macro_1,8,15 macro_2,16,23 macro_3,24,31 macro_4,32,39 macro_5,40,47 macro_6,48,55 macro_7,56,63 macro_8,64,71 
+
+Channel = Rotating gobo change
+ Blanc,0,16 macro_1,17,32 macro_2,33,48 macro_3,49,64 macro_4,65,81 macro_5,82,97 macro_6,98,113 macro_7,114,129 
+
+Channel = gobo_rotate
+ Rotation rapide,128,128 Rotation lente,190,190 
+
+Channel = Gobo fine
+ ,0,0 
+
+Channel = prism
+ reset_prism,0,127 prism,128,255 
+
+Channel = prism_rotate
+ Rotation rapide,128,128 rotate,190,190 
+
+Channel = frost
+ Frost non,0,127 Frost oui,128,255 
+
+Channel = focus
+
+Channel = zoom
+
+Channel = pan
+
+Channel = upan
+
+Channel = tilt
+
+Channel = utilt
+
+Channel = Function
+
+Channel = Reset
+
+Channel = Lamp control
+

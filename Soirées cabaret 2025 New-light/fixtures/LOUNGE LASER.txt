@@ -1,0 +1,16 @@
+﻿ViewType = VIEW_TYPE_NOTHING
+ViewPower = VIEW_POWER_LED30W
+ViewAnglePan = 120
+ViewAngleTilt = 90
+ViewAngleBeam = 16
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 16777215
+3DViewShape = tube
+2DViewImage = JBSystems/LOUNGE_LASER.png
+
+Channel = control
+ closed,0,7 auto random play,8,100 slow random play,101,170 sound random play,171,255 
+

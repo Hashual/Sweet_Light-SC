@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1671300461" name="ServoColor4K #3" model="ServoColor600(16bits)"/>
+    <Fixture id="1671300462" name="ServoColor4K #4" model="ServoColor600(16bits)"/>
+  </Fixtures>
+  <Steps>
+    <Step length="40">
+      <Fixture id="1671300461">
+        <Channel index="5" name="dimmer" value="255"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+      </Fixture>
+      <Fixture id="1671300462">
+        <Channel index="5" name="dimmer" value="255"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

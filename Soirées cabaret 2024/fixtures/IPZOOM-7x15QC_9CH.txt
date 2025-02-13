@@ -1,0 +1,32 @@
+﻿ViewType = VIEW_TYPE_NOTHING
+ViewPower = VIEW_POWER_LED30W
+ViewAnglePan = 120
+ViewAngleTilt = 90
+ViewAngleBeam = 16
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 16777215
+2DViewImage = Contest/Architectural IP series/IPZOOM7X15QC.png
+
+Channel = red
+
+Channel = green
+
+Channel = blue
+
+Channel = white
+
+Channel = dimmer
+
+Channel = shutter
+ closed,0,31 open,32,63 strobe,64,95 open,96,127 pulse_strobe,128,159 open,160,191 random_strobe,192,223 open,224,255 
+
+Channel = color_preset
+ closed,0,7 red,8,15 orange,16,23 yellow,24,31 green,32,39 cyan,40,47 blue,48,55 pink,56,63 magenta,64,71 cold_white,72,79 warm_white,80,87 full_white,88,95 pastel_pale_rose,96,103 pastel_light_apricot,104,111 pastel_light_ocre,112,119 pastel_yellow_green,120,127 pastel_green_pearl,128,135 pastel_grey_pearl,136,143 pastel_pearl,144,151 pastel_blue_pearl,152,159 pastel_veronese_green,160,167 pastel_light_lagoon,168,175 pastel_sky_blue,176,183 pastel_clear_blue,184,191 pastel_cerulean_blue,192,199 macro_1,200,207 macro_2,208,215 macro_3,216,223 macro_4,224,231 macro_5,232,239 macro_6,240,247 macro_7,248,255 
+
+Channel = speed_control
+
+Channel = zoom
+

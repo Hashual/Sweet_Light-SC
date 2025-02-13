@@ -1,0 +1,127 @@
+﻿
+[Params]
+PanTiltShift = 0.0
+ExplodePanTilt = 0
+GroupRGB = 0
+FanPanOffset = 0
+FanTiltOffset = 0
+[Fixture_0]
+ID = 1671368260
+Name = ServoColor4K #5
+DMX = 126
+Channels = pan,upan,tilt,utilt,pantilt_speed,dimmer,strobe_effect,zoom,red,green,blue,white,color_macro,color_macro_speed,control
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_1]
+ID = 1671368261
+Name = ServoColor4K #6
+DMX = 141
+Channels = pan,upan,tilt,utilt,pantilt_speed,dimmer,strobe_effect,zoom,red,green,blue,white,color_macro,color_macro_speed,control
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Pan/Tilt/uPan/uTilt]
+Selected = 1
+CurveName = Default Curve
+Transition = 1
+Duration = 40
+Shift = 0.0
+Point_0 = 33599,52746
+Point_1 = 45575,41357
+[pantilt_speed]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 30
+Shift = 0.0
+Point_0 = 0,13444
+Point_1 = 65535,13444
+[dimmer]
+Selected = 1
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[strobe_effect]
+Selected = 1
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,2054
+Point_1 = 65535,2054
+[zoom]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[red]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[green]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[blue]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[white]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[color_macro]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[color_macro_speed]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[control]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535

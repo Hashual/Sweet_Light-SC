@@ -1,0 +1,65 @@
+﻿ViewType = VIEW_TYPE_NOTHING
+ViewPower = VIEW_POWER_LED30W
+ViewAnglePan = 120
+ViewAngleTilt = 90
+ViewAngleBeam = 16
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 16777215
+3DViewShape = led_64(8u)
+2DViewImage = Showtec/Lasers/Galactic1K20TXT_51344.png
+
+Channel = control
+ closed,0,9 auto,10,49 audio,50,99 Text Mode,100,149 Backgrounds Patterns,150,199 Foreground Patterns,200,255 
+
+Channel = Auto / Sound
+ macro_1,0,29 macro_2,30,59 macro_3,60,89 macro_4,90,119 macro_5,120,149 macro_6,150,179 macro_7,180,209 macro_8,210,239 macro_9,240,255 
+
+Channel = Text Movement / Patterns
+
+Channel = color
+ Default Colors,0,7 red,8,15 green,16,23 yellow,24,31 blue,32,39 purple,40,47 cyan,48,55 white,56,63 macro_1,64,111 macro_2,112,159 macro_3,160,207 strobe,208,255 
+
+Channel = Gradual Pattern Drawing
+ closed,0,0 Manual Pattern drawing,1,127 auto,128,255 
+
+Channel = Zoom
+ Gradual zoom adjustment,0,127 Zoom Out,169,169 Zoom In,170,209 Zoom In/Zoom Out,210,255 
+
+Channel = Zoom Speed
+
+Channel = tilt
+ Gradual Y,0,127 right_rotate,128,191 left_rotate,192,255 
+
+Channel = pantilt_speed
+
+Channel = pan
+ Gradual X,0,127 right_rotate,128,191 left_rotate,192,255 
+
+Channel = pantilt_speed
+
+Channel = z
+ Gradual Z,0,127 right_rotate,128,191 left_rotate,192,255 
+
+Channel = pantilt_speed
+
+Channel = Horizontal Movement
+ Gradual adjustment,0,127 right_rotate,128,191 left_rotate,192,255 
+
+Channel = pantilt_speed
+
+Channel = Vertical Movement
+ Gradual adjustment,0,127 Ascending movement,128,191 Descending movement,192,255 
+
+Channel = pantilt_speed
+
+Channel = Wave Effect
+
+Channel = Wave Frequency
+ macro_1,0,31 macro_2,32,63 macro_3,64,95 macro_4,96,127 macro_5,128,159 macro_6,160,191 macro_7,192,223 macro_8,224,255 
+
+Channel = Wave Speed
+ Gradual wave position adjustment,0,127 Wave effect Speed,128,255 
+

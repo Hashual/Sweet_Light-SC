@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1671300461" name="ServoColor4K #3" model="ServoColor600(16bits)"/>
+  </Fixtures>
+  <Steps>
+    <Step length="500">
+      <Fixture id="1671300461">
+        <Channel index="5" name="dimmer" value="255"/>
+        <Channel index="11" name="white" value="255"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

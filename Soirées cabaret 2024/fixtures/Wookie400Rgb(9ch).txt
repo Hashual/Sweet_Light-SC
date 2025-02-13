@@ -1,0 +1,38 @@
+﻿ViewType = VIEW_TYPE_NOTHING
+ViewPower = VIEW_POWER_LED30W
+ViewAnglePan = 120
+ViewAngleTilt = 90
+ViewAngleBeam = 16
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 16777215
+3DViewShape = 
+2DViewImage = Showtec/Lasers/Galactic Rgb300#51327.png
+
+Channel = mode
+ lamp_off,0,63 auto,64,127 audio,128,191 dmx,192,255 
+
+Channel = color_preset
+ Original Colour,0,63 Red,64,95 Green,96,127 Blue,128,159 Yellow,160,191 Pink,192,223 Cyan,224,255 
+
+Channel = pattern
+
+Channel = zoom
+
+Channel = X Rolling
+ index,0,127 rotate,128,255 
+
+Channel = Y Rolling
+ index,0,127 rotate,128,255 
+
+Channel = z
+ index,0,127 rotate,128,255 
+
+Channel = pan
+ index,0,127 speed_control,128,255 
+
+Channel = tilt
+ index,0,127 speed_control,128,255 
+

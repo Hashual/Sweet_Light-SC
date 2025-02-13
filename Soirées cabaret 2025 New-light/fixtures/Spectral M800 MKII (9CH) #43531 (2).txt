@@ -1,0 +1,34 @@
+﻿ViewType = VIEW_TYPE_COLOR_CHANGER
+ViewPower = VIEW_POWER_LAMP250W
+ViewAnglePan = 120
+ViewAngleTilt = 90
+ViewAngleBeam = 34
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 16777215
+2DViewImage = 
+
+Channel = dimmer
+
+Channel = red
+
+Channel = green
+
+Channel = blue
+
+Channel = color_macro
+ no_function,0,0 Red Down / Green 100% / Blue 0%,20,20 Red 0% / Green 100% / Blue Up,60,60 Red 0% / Green Down / Blue 100%,80,80 Red Up / Green 0% / Blue 100%,100,100 Red 100% / Green 0% / Blue Down,120,120 Red 100% / Green Up / Blue Up,140,140 Red Down / Green Down / Blue 100%,160,160 Red 100% / Green 100% / Blue 100% / White 100%,180,180 3200K - 10000K,201,255 
+
+Channel = shutter
+ no_function,0,0 strobe,10,99 pulse_strobe,110,179 random_strobe,190,255 
+
+Channel = effect_macro
+ no_function,0,0 macro_1,25,25 macro_2,35,35 macro_3,45,45 macro_4,55,55 macro_5,65,65 macro_6,75,75 macro_7,85,85 macro_8,95,95 macro_9,105,105 macro_10,115,115 pattern_01,125,125 pattern_02,135,135 pattern_03,145,145 pattern_04,155,155 pattern_05,165,165 pattern_06,175,175 pattern_07,185,185 pattern_08,195,195 pattern_09,205,205 pattern_10,215,215 
+
+Channel = effect_speed
+
+Channel = dimmer_speed
+ no_function,0,0 linear,20,20 index,30,255 
+

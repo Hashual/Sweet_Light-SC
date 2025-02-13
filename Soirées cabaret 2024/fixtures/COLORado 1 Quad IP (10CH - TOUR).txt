@@ -1,0 +1,41 @@
+﻿ViewType = VIEW_TYPE_COLOR_CHANGER
+ViewPower = VIEW_POWER_LED60W
+ViewAnglePan = 120
+ViewAngleTilt = 120
+ViewAngleBeam = 11
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 0
+2DViewImage = Chauvet/PRO/COLORado1Quad-V1-2D.png
+
+Channel = dimmer
+ dimmer,0,255
+
+Channel = red
+ dimmer,0,255
+
+Channel = green
+ dimmer,0,255
+
+Channel = blue
+ dimmer,0,255
+
+Channel = white
+ dimmer,0,255
+
+Channel = color_macro
+ no_function,0,10 red full/green to full,11,30 red to 0/green full,31,50 green full/Blue to full,51,70 blue full/green to 0,71,90 blue full/red to full,91,110 red full/B to 0,111,130 red full/BlueGreen to full,131,150 RG to 0/B full,151,170 All Full,171,200 white 1,201,205 white 2,206,210 white 3,211,215 white 4,216,220 white 5,221,225 white 6,226,230 white 7,231,235 white 8,236,240 white 9,241,245 white 10,246,250 white 11,251,255
+
+Channel = shutter
+ no_function,0,9 strobe,10,255
+
+Channel = effect_macro
+ no_function,0,40 auto1,41,49 auto2,50,59 auto3,60,69 auto4,70,79 auto5,80,89 auto6,90,99 auto7,100,109 auto8,110,119 auto9,120,129 auto10,130,139 custom1,140,149 custom2,150,159 custom3,160,169 custom4,170,179 custom5,180,189 custom6,190,199 custom7,200,209 custom8,210,219 custom9,220,229 custom10,230,255
+
+Channel = effect_speed
+
+Channel = dimmer_speed
+ dimmer,0,9 linear_dim,10,29 dim_1,30,69 dim_2,70,129 dim_3,130,189 dim_4,190,255
+

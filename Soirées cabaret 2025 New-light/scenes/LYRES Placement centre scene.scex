@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1671299957" name="ServoColor4K" model="ServoColor600(16bits)"/>
+    <Fixture id="1671300460" name="ServoColor4K #2" model="ServoColor600(16bits)"/>
+    <Fixture id="1671300461" name="ServoColor4K #3" model="ServoColor600(16bits)"/>
+    <Fixture id="1671300462" name="ServoColor4K #4" model="ServoColor600(16bits)"/>
+    <Fixture id="1671368260" name="ServoColor4K #5" model="ServoColor600(16bits)"/>
+    <Fixture id="1671368261" name="ServoColor4K #6" model="ServoColor600(16bits)"/>
+  </Fixtures>
+  <Steps>
+    <Step length="500">
+      <Fixture id="1671299957">
+        <Channel index="0" name="pan" value="104"/>
+        <Channel index="1" name="upan" value="0"/>
+        <Channel index="2" name="tilt" value="60"/>
+        <Channel index="3" name="utilt" value="0"/>
+      </Fixture>
+      <Fixture id="1671300460">
+        <Channel index="0" name="pan" value="100"/>
+        <Channel index="1" name="upan" value="0"/>
+        <Channel index="2" name="tilt" value="62"/>
+        <Channel index="3" name="utilt" value="0"/>
+      </Fixture>
+      <Fixture id="1671300461">
+        <Channel index="0" name="pan" value="13"/>
+        <Channel index="1" name="upan" value="0"/>
+        <Channel index="2" name="tilt" value="193"/>
+        <Channel index="3" name="utilt" value="0"/>
+      </Fixture>
+      <Fixture id="1671300462">
+        <Channel index="0" name="pan" value="102"/>
+        <Channel index="1" name="upan" value="0"/>
+        <Channel index="2" name="tilt" value="60"/>
+        <Channel index="3" name="utilt" value="0"/>
+      </Fixture>
+      <Fixture id="1671368260">
+        <Channel index="0" name="pan" value="48"/>
+        <Channel index="1" name="upan" value="0"/>
+        <Channel index="2" name="tilt" value="58"/>
+        <Channel index="3" name="utilt" value="0"/>
+      </Fixture>
+      <Fixture id="1671368261">
+        <Channel index="0" name="pan" value="124"/>
+        <Channel index="1" name="upan" value="0"/>
+        <Channel index="2" name="tilt" value="57"/>
+        <Channel index="3" name="utilt" value="0"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

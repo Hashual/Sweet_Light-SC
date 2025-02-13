@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1738429835" name="BirdyXSIII (10ch)" model="BirdyXSIII (10ch)"/>
+    <Fixture id="1738430290" name="BirdyXSIII (10ch) #2" model="BirdyXSIII (10ch)"/>
+    <Fixture id="1738430291" name="BirdyXSIII (10ch) #3" model="BirdyXSIII (10ch)"/>
+    <Fixture id="1738430292" name="BirdyXSIII (10ch) #4" model="BirdyXSIII (10ch)"/>
+  </Fixtures>
+  <Steps>
+    <Step length="100">
+      <Fixture id="1738429835">
+        <Channel index="1" name="tilt" value="170" fade="1"/>
+      </Fixture>
+      <Fixture id="1738430290">
+        <Channel index="1" name="tilt" value="170" fade="1"/>
+      </Fixture>
+      <Fixture id="1738430291">
+        <Channel index="1" name="tilt" value="170" fade="1"/>
+      </Fixture>
+      <Fixture id="1738430292">
+        <Channel index="1" name="tilt" value="170" fade="1"/>
+      </Fixture>
+    </Step>
+    <Step length="100">
+      <Fixture id="1738429835">
+        <Channel index="1" name="tilt" value="170" fade="1"/>
+      </Fixture>
+      <Fixture id="1738430290">
+        <Channel index="1" name="tilt" value="170" fade="1"/>
+      </Fixture>
+      <Fixture id="1738430291">
+        <Channel index="1" name="tilt" value="170" fade="1"/>
+      </Fixture>
+      <Fixture id="1738430292">
+        <Channel index="1" name="tilt" value="170" fade="1"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

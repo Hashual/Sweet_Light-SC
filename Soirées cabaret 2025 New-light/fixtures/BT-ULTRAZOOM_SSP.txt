@@ -1,0 +1,34 @@
+﻿ViewType = VIEW_TYPE_NOTHING
+ViewPower = VIEW_POWER_LED30W
+ViewAnglePan = 120
+ViewAngleTilt = 90
+ViewAngleBeam = 16
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 16777215
+3DViewShape = 
+2DViewImage = Briteq/BT-ULTRAZOOM.png
+
+Channel = dimmer
+
+Channel = shutter
+ no_function,0,9 strobe,10,99 no_function,100,109,notusedinlc pulse_strobe,110,179 no_function,180,189,notusedinlc random_strobe,190,255 
+
+Channel = zoom
+
+Channel = red
+
+Channel = green
+
+Channel = blue
+
+Channel = white
+
+Channel = mode
+ no_function,0,200,notusedinlc zoom reset,201,220 no_function,221,255,notusedinlc 
+
+Channel = dimmer_mode
+ no_function,0,9 off,10,29 dim1,30,69 dim2,70,129 dim3,130,189 dim4,190,255 
+

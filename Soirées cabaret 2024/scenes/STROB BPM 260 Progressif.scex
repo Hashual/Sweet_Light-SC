@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1663943456" name="Strob" model="STB-520"/>
+  </Fixtures>
+  <Steps>
+    <Step length="100">
+      <Fixture id="1663943456">
+        <Channel index="0" name="strobe_speed" value="190"/>
+        <Channel index="1" name="strobe_dimmer" value="255" fade="1"/>
+      </Fixture>
+    </Step>
+    <Step length="300">
+      <Fixture id="1663943456">
+        <Channel index="0" name="strobe_speed" value="234" fade="1"/>
+        <Channel index="1" name="strobe_dimmer" value="255" fade="1"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

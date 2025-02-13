@@ -1,0 +1,92 @@
+﻿ViewType = VIEW_TYPE_HEAD
+ViewPower = VIEW_POWER_LAMP700W
+ViewAnglePan = 270
+ViewAngleTilt = 90
+ViewAngleBeam = 16
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 16777215
+2DViewImage = 
+
+Channel = cyan
+
+Channel = magenta
+
+Channel = yellow
+
+Channel = CTO
+
+Channel = color
+ white,0,0 red,15,15 cto_2600,30,30 green,45,45 light_green,60,60 lavender,75,75 aquamarine,90,90 orange,105,105 blue,120,120 rotate,128,128
+
+Channel = color_macro
+
+Channel = shutter
+ closed,0,0 strobe,4,103 open,105,105 pulse_strobe,108,207 random_strobe,213,251 open,255,255
+
+Channel = dimmer
+
+Channel = udimmer
+
+Channel = iris
+ index,0,131 pulse_open,132,171 pulse_close,172,211 open,255,255
+
+Channel = gobo
+ Miscellaneous/open,0,0 Miscellaneous/gobo1,12,12 Miscellaneous/gobo2,20,20 Miscellaneous/gobo3,28,28 Miscellaneous/gobo4,36,36 Miscellaneous/gobo5,44,44 Miscellaneous/gobo6,52,52 Miscellaneous/gobo7,60,60 Miscellaneous/gobo8,68,68 Miscellaneous/left_rotate,72,113 Miscellaneous/stop,115,115 Miscellaneous/right_rotate,118,159 Miscellaneous/shake_gobo1,160,171 Miscellaneous/shake_gobo2,172,183 Miscellaneous/shake_gobo3,184,195 Miscellaneous/shake_gobo4,196,207 Miscellaneous/shake_gobo5,208,219 Miscellaneous/shake_gobo6,220,231 Miscellaneous/shake_gobo7,232,243 Miscellaneous/shake_gobo8,244,255
+
+Channel = gobo2
+ Miscellaneous/open,0,0 Miscellaneous/gobo1,25,25 Miscellaneous/gobo2,41,41 Miscellaneous/gobo3,57,57 Miscellaneous/gobo4,73,73 Miscellaneous/gobo5,90,90 Miscellaneous/gobo6,106,106 Miscellaneous/gobo7,122,122 Miscellaneous/shake_gobo1,130,147 Miscellaneous/shake_gobo2,148,165 Miscellaneous/shake_gobo3,166,183 Miscellaneous/shake_gobo4,184,201 Miscellaneous/shake_gobo5,202,219 Miscellaneous/shake_gobo6,220,237 Miscellaneous/shake_gobo7,238,255
+
+Channel = gobo_rotate2
+ index,0,127 right_rotate,128,190 stop,191,191 left_rotate,193,255
+
+Channel = gobo_urotate
+
+Channel = prism
+ no_function,0,0 prism,255,255
+
+Channel = prism_rotate
+ index,0,127 right_rotate,128,190 stop,191,191 left_rotate,193,255
+
+Channel = frost
+
+Channel = animation
+
+Channel = animation_rotate
+ left_rotate,0,124 stop,127,127 right_rotate,131,255
+
+Channel = focus
+ focus_far,0,0 focus_mid,128,128 focus_near,255,255
+
+Channel = focus_fine
+
+Channel = zoom
+ wide,0,0 narrow,255,255
+
+Channel = autofocus_distance
+ off,0,0 4_meters,10,10 6_meters,15,15 8_meters,20,20 10_meters,26,26 100_meters,255,255
+
+Channel = autofocus_adjustment
+
+Channel = effect_macro
+ no_function,0,0 stand_by,10,10 stand_by_black,14,14 macro_1,21,21 macro_2,33,33 macro_3,45,45 macro_4,57,57 macro_5,69,69 macro_6,81,81 macro_7,93,93 macro_8,105,105 macro_9,140,140 macro_10,153,153 macro_11,166,166 macro_12,178,178 macro_13,190,190 macro_14,202,202 macro_15,214,214 macro_16,228,228 stand_by_black,255,255
+
+Channel = pan
+
+Channel = upan
+
+Channel = tilt
+
+Channel = utilt
+
+Channel = control
+ no_function,0,0 fast_xy,20,20 normal_xy,30,30 conventional_dimmer,40,40 linear_dimmer,56,56
+
+Channel = control
+ no_function,0,0 reset_others,50,50 reset_xy,100,100 reset,255,255
+
+Channel = lamp_on
+ no_function,0,0 lamp_off,70,70 lamp_on,255,255
+

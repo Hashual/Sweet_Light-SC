@@ -1,0 +1,27 @@
+﻿ViewType = VIEW_TYPE_COLOR_CHANGER
+ViewPower = VIEW_POWER_LED30W
+ViewAnglePan = 120
+ViewAngleTilt = 90
+ViewAngleBeam = 25
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 16777215
+3DViewShape = 
+2DViewImage = Contest/irLED series/irLEDFLAT-1x30TCb .png
+
+Channel = red
+
+Channel = green
+
+Channel = blue
+
+Channel = dimmer
+
+Channel = shutter
+ no_function,0,0 strobe,1,255 
+
+Channel = color_macro
+ closed,0,15 red,16,30 orange,31,45 yellow,46,50 green,61,75 cyan,76,90 blue,91,105 pink,106,120 magenta,121,135 cold_white,136,150 warm_white,151,165 macro_1,166,178 macro_2,179,191 macro_3,192,204 macro_4,205,217 macro_5,218,230 macro_6,231,243 audio,244,255 
+

@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1664016596" name="Starway LiveKolor #2" model="COLORdash S-Par 1 (11Ch)"/>
+    <Fixture id="1664016597" name="Starway LiveKolor #3" model="COLORdash S-Par 1 (11Ch)"/>
+    <Fixture id="1664016598" name="Starway LiveKolor #4" model="COLORdash S-Par 1 (11Ch)"/>
+    <Fixture id="1671299957" name="ServoColor4K" model="ServoColor600(16bits)"/>
+    <Fixture id="1671300460" name="ServoColor4K #2" model="ServoColor600(16bits)"/>
+    <Fixture id="1671300461" name="ServoColor4K #3" model="ServoColor600(16bits)"/>
+    <Fixture id="1671300462" name="ServoColor4K #4" model="ServoColor600(16bits)"/>
+    <Fixture id="1664018564" name="PC" model="OvationP56VW(1ch)"/>
+    <Fixture id="1664051413" name="Rasants" model="SlimPAR Pro QZ12 USB (6CH)"/>
+    <Fixture id="1663943456" name="Strob" model="STB-520"/>
+    <Fixture id="1671368260" name="ServoColor4K #5" model="ServoColor600(16bits)"/>
+    <Fixture id="1671368261" name="ServoColor4K #6" model="ServoColor600(16bits)"/>
+    <Fixture id="1664019710" name="PC #2" model="OvationP56VW(1ch)"/>
+    <Fixture id="1664019719" name="PAR 56 #2" model="Ovation F-95WW (1CH-UNO)"/>
+    <Fixture id="1664018514" name="PAR 56" model="Ovation F-95WW (1CH-UNO)"/>
+    <Fixture id="1664315814" name="Projecteurs #2" model="Ovation F-95WW (1CH-UNO)"/>
+    <Fixture id="1663943888" name="Brouillard" model="Hurricane Haze 4D"/>
+    <Fixture id="1663958226" name="Starway LiveKolor" model="COLORdash S-Par 1 (11Ch)"/>
+  </Fixtures>
+  <Steps>
+    <Step length="3000"/>
+    <Step length="300">
+      <Fixture id="1664018564">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
+      </Fixture>
+    </Step>
+    <Step length="300">
+      <Fixture id="1664018564">
+        <Channel index="0" name="dimmer" value="255"/>
+      </Fixture>
+      <Fixture id="1664019710">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
+      </Fixture>
+    </Step>
+    <Step length="300">
+      <Fixture id="1664018564">
+        <Channel index="0" name="dimmer" value="255"/>
+      </Fixture>
+      <Fixture id="1664019710">
+        <Channel index="0" name="dimmer" value="255"/>
+      </Fixture>
+      <Fixture id="1664315814">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
+      </Fixture>
+    </Step>
+    <Step length="300">
+      <Fixture id="1664018564">
+        <Channel index="0" name="dimmer" value="255"/>
+      </Fixture>
+      <Fixture id="1664019710">
+        <Channel index="0" name="dimmer" value="255"/>
+      </Fixture>
+      <Fixture id="1664018514">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1664315814">
+        <Channel index="0" name="dimmer" value="255"/>
+      </Fixture>
+    </Step>
+    <Step length="300">
+      <Fixture id="1664018564">
+        <Channel index="0" name="dimmer" value="255"/>
+      </Fixture>
+      <Fixture id="1664019710">
+        <Channel index="0" name="dimmer" value="255"/>
+      </Fixture>
+      <Fixture id="1664019719">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1664018514">
+        <Channel index="0" name="dimmer" value="255"/>
+      </Fixture>
+      <Fixture id="1664315814">
+        <Channel index="0" name="dimmer" value="255"/>
+      </Fixture>
+    </Step>
+    <Step length="300">
+      <Fixture id="1664018564">
+        <Channel index="0" name="dimmer" value="255"/>
+      </Fixture>
+      <Fixture id="1664051413">
+        <Channel index="0" name="red" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1664019710">
+        <Channel index="0" name="dimmer" value="255"/>
+      </Fixture>
+      <Fixture id="1664019719">
+        <Channel index="0" name="dimmer" value="255"/>
+      </Fixture>
+      <Fixture id="1664018514">
+        <Channel index="0" name="dimmer" value="255"/>
+      </Fixture>
+      <Fixture id="1664315814">
+        <Channel index="0" name="dimmer" value="255"/>
+      </Fixture>
+    </Step>
+    <Step length="300">
+      <Fixture id="1664018564">
+        <Channel index="0" name="dimmer" value="255"/>
+      </Fixture>
+      <Fixture id="1664051413">
+        <Channel index="0" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1663943456">
+        <Channel index="0" name="strobe_speed" value="128" fade="1"/>
+        <Channel index="1" name="strobe_dimmer" value="255"/>
+      </Fixture>
+      <Fixture id="1664019710">
+        <Channel index="0" name="dimmer" value="255"/>
+      </Fixture>
+      <Fixture id="1664019719">
+        <Channel index="0" name="dimmer" value="255"/>
+      </Fixture>
+      <Fixture id="1664018514">
+        <Channel index="0" name="dimmer" value="255"/>
+      </Fixture>
+      <Fixture id="1664315814">
+        <Channel index="0" name="dimmer" value="255"/>
+      </Fixture>
+    </Step>
+    <Step length="300"/>
+    <Step length="300">
+      <Fixture id="1663943888">
+        <Channel index="0" name="fan" value="128"/>
+        <Channel index="1" name="smoke_machine" value="128"/>
+      </Fixture>
+      <Fixture id="1663958226">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+    </Step>
+    <Step length="300">
+      <Fixture id="1664016596">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1663943888">
+        <Channel index="0" name="fan" value="128"/>
+        <Channel index="1" name="smoke_machine" value="128"/>
+      </Fixture>
+      <Fixture id="1663958226">
+        <Channel index="0" name="dimmer" value="255"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+    </Step>
+    <Step length="300">
+      <Fixture id="1664016596">
+        <Channel index="0" name="dimmer" value="255"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1664016597">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1663943888">
+        <Channel index="0" name="fan" value="128"/>
+        <Channel index="1" name="smoke_machine" value="128"/>
+      </Fixture>
+      <Fixture id="1663958226">
+        <Channel index="0" name="dimmer" value="255"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+    </Step>
+    <Step length="300">
+      <Fixture id="1664016596">
+        <Channel index="0" name="dimmer" value="255"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1664016597">
+        <Channel index="0" name="dimmer" value="255"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1664016598">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1663943888">
+        <Channel index="0" name="fan" value="128"/>
+        <Channel index="1" name="smoke_machine" value="128"/>
+      </Fixture>
+      <Fixture id="1663958226">
+        <Channel index="0" name="dimmer" value="255"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+    </Step>
+    <Step length="300">
+      <Fixture id="1664016596">
+        <Channel index="0" name="dimmer" value="255"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1664016597">
+        <Channel index="0" name="dimmer" value="255"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1664016598">
+        <Channel index="0" name="dimmer" value="255"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1671299957">
+        <Channel index="2" name="tilt" value="205" fade="1"/>
+        <Channel index="3" name="utilt" value="0" fade="1"/>
+        <Channel index="5" name="dimmer" value="255" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="8" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1663943888">
+        <Channel index="0" name="fan" value="128"/>
+        <Channel index="1" name="smoke_machine" value="128"/>
+      </Fixture>
+      <Fixture id="1663958226">
+        <Channel index="0" name="dimmer" value="255"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+    </Step>
+    <Step length="300">
+      <Fixture id="1664016596">
+        <Channel index="0" name="dimmer" value="255"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1664016597">
+        <Channel index="0" name="dimmer" value="255"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1664016598">
+        <Channel index="0" name="dimmer" value="255"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1671299957">
+        <Channel index="2" name="tilt" value="205"/>
+        <Channel index="3" name="utilt" value="0"/>
+        <Channel index="5" name="dimmer" value="255"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="8" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1671300460">
+        <Channel index="2" name="tilt" value="205" fade="1"/>
+        <Channel index="3" name="utilt" value="0" fade="1"/>
+        <Channel index="5" name="dimmer" value="255" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="8" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1663943888">
+        <Channel index="0" name="fan" value="128"/>
+        <Channel index="1" name="smoke_machine" value="128"/>
+      </Fixture>
+      <Fixture id="1663958226">
+        <Channel index="0" name="dimmer" value="255"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+    </Step>
+    <Step length="300">
+      <Fixture id="1664016596">
+        <Channel index="0" name="dimmer" value="255"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1664016597">
+        <Channel index="0" name="dimmer" value="255"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1664016598">
+        <Channel index="0" name="dimmer" value="255"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1671299957">
+        <Channel index="2" name="tilt" value="205"/>
+        <Channel index="3" name="utilt" value="0"/>
+        <Channel index="5" name="dimmer" value="255"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="8" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1671300460">
+        <Channel index="2" name="tilt" value="205"/>
+        <Channel index="3" name="utilt" value="0"/>
+        <Channel index="5" name="dimmer" value="255"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="8" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1671300461">
+        <Channel index="2" name="tilt" value="50" fade="1"/>
+        <Channel index="3" name="utilt" value="0" fade="1"/>
+        <Channel index="5" name="dimmer" value="255" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="8" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1663943888">
+        <Channel index="0" name="fan" value="128"/>
+        <Channel index="1" name="smoke_machine" value="128"/>
+      </Fixture>
+      <Fixture id="1663958226">
+        <Channel index="0" name="dimmer" value="255"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+    </Step>
+    <Step length="300">
+      <Fixture id="1664016596">
+        <Channel index="0" name="dimmer" value="255"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1664016597">
+        <Channel index="0" name="dimmer" value="255"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1664016598">
+        <Channel index="0" name="dimmer" value="255"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1671299957">
+        <Channel index="2" name="tilt" value="205"/>
+        <Channel index="3" name="utilt" value="0"/>
+        <Channel index="5" name="dimmer" value="255"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="8" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1671300460">
+        <Channel index="2" name="tilt" value="205"/>
+        <Channel index="3" name="utilt" value="0"/>
+        <Channel index="5" name="dimmer" value="255"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="8" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1671300461">
+        <Channel index="2" name="tilt" value="50"/>
+        <Channel index="3" name="utilt" value="0"/>
+        <Channel index="5" name="dimmer" value="255"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="8" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1671300462">
+        <Channel index="2" name="tilt" value="50" fade="1"/>
+        <Channel index="3" name="utilt" value="0" fade="1"/>
+        <Channel index="5" name="dimmer" value="255" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="8" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1663943888">
+        <Channel index="0" name="fan" value="128"/>
+        <Channel index="1" name="smoke_machine" value="128"/>
+      </Fixture>
+      <Fixture id="1663958226">
+        <Channel index="0" name="dimmer" value="255"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+    </Step>
+    <Step length="300">
+      <Fixture id="1664016596">
+        <Channel index="0" name="dimmer" value="255"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1664016597">
+        <Channel index="0" name="dimmer" value="255"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1664016598">
+        <Channel index="0" name="dimmer" value="255"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1671299957">
+        <Channel index="2" name="tilt" value="205"/>
+        <Channel index="3" name="utilt" value="0"/>
+        <Channel index="5" name="dimmer" value="255"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="8" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1671300460">
+        <Channel index="2" name="tilt" value="205"/>
+        <Channel index="3" name="utilt" value="0"/>
+        <Channel index="5" name="dimmer" value="255"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="8" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1671300461">
+        <Channel index="2" name="tilt" value="50"/>
+        <Channel index="3" name="utilt" value="0"/>
+        <Channel index="5" name="dimmer" value="255"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="8" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1671300462">
+        <Channel index="2" name="tilt" value="50"/>
+        <Channel index="3" name="utilt" value="0"/>
+        <Channel index="5" name="dimmer" value="255"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="8" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1671368260">
+        <Channel index="2" name="tilt" value="110" fade="1"/>
+        <Channel index="3" name="utilt" value="0" fade="1"/>
+        <Channel index="5" name="dimmer" value="255" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="8" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1663943888">
+        <Channel index="0" name="fan" value="128"/>
+        <Channel index="1" name="smoke_machine" value="128"/>
+      </Fixture>
+      <Fixture id="1663958226">
+        <Channel index="0" name="dimmer" value="255"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+    </Step>
+    <Step length="300">
+      <Fixture id="1664016596">
+        <Channel index="0" name="dimmer" value="255"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1664016597">
+        <Channel index="0" name="dimmer" value="255"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1664016598">
+        <Channel index="0" name="dimmer" value="255"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1671299957">
+        <Channel index="2" name="tilt" value="205"/>
+        <Channel index="3" name="utilt" value="0"/>
+        <Channel index="5" name="dimmer" value="255"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="8" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1671300460">
+        <Channel index="2" name="tilt" value="205"/>
+        <Channel index="3" name="utilt" value="0"/>
+        <Channel index="5" name="dimmer" value="255"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="8" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1671300461">
+        <Channel index="2" name="tilt" value="50"/>
+        <Channel index="3" name="utilt" value="0"/>
+        <Channel index="5" name="dimmer" value="255"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="8" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1671300462">
+        <Channel index="2" name="tilt" value="50"/>
+        <Channel index="3" name="utilt" value="0"/>
+        <Channel index="5" name="dimmer" value="255"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="8" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1671368260">
+        <Channel index="2" name="tilt" value="110"/>
+        <Channel index="3" name="utilt" value="0"/>
+        <Channel index="5" name="dimmer" value="255"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="8" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1671368261">
+        <Channel index="2" name="tilt" value="110" fade="1"/>
+        <Channel index="3" name="utilt" value="0" fade="1"/>
+        <Channel index="5" name="dimmer" value="255" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="8" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1663943888">
+        <Channel index="0" name="fan" value="128"/>
+        <Channel index="1" name="smoke_machine" value="128"/>
+      </Fixture>
+      <Fixture id="1663958226">
+        <Channel index="0" name="dimmer" value="255"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+    </Step>
+    <Step length="300">
+      <Fixture id="1664016596">
+        <Channel index="0" name="dimmer" value="0" fade="1"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1664016597">
+        <Channel index="0" name="dimmer" value="0" fade="1"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1664016598">
+        <Channel index="0" name="dimmer" value="0" fade="1"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1671299957">
+        <Channel index="0" name="pan" value="255" fade="1"/>
+        <Channel index="1" name="upan" value="0" fade="1"/>
+        <Channel index="2" name="tilt" value="205"/>
+        <Channel index="3" name="utilt" value="0"/>
+        <Channel index="5" name="dimmer" value="0" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="8" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1671300460">
+        <Channel index="0" name="pan" value="255" fade="1"/>
+        <Channel index="1" name="upan" value="0" fade="1"/>
+        <Channel index="2" name="tilt" value="205"/>
+        <Channel index="3" name="utilt" value="0"/>
+        <Channel index="5" name="dimmer" value="0" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="8" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1671300461">
+        <Channel index="0" name="pan" value="255" fade="1"/>
+        <Channel index="1" name="upan" value="0" fade="1"/>
+        <Channel index="2" name="tilt" value="50"/>
+        <Channel index="3" name="utilt" value="0"/>
+        <Channel index="5" name="dimmer" value="0" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="8" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1671300462">
+        <Channel index="0" name="pan" value="255" fade="1"/>
+        <Channel index="1" name="upan" value="0" fade="1"/>
+        <Channel index="2" name="tilt" value="50"/>
+        <Channel index="3" name="utilt" value="0"/>
+        <Channel index="5" name="dimmer" value="0" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="8" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1671368260">
+        <Channel index="0" name="pan" value="255" fade="1"/>
+        <Channel index="1" name="upan" value="0" fade="1"/>
+        <Channel index="2" name="tilt" value="110"/>
+        <Channel index="3" name="utilt" value="0"/>
+        <Channel index="5" name="dimmer" value="0" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="8" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1671368261">
+        <Channel index="0" name="pan" value="255" fade="1"/>
+        <Channel index="1" name="upan" value="0" fade="1"/>
+        <Channel index="2" name="tilt" value="110"/>
+        <Channel index="3" name="utilt" value="0"/>
+        <Channel index="5" name="dimmer" value="0" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="8" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1663943888">
+        <Channel index="0" name="fan" value="255"/>
+      </Fixture>
+      <Fixture id="1663958226">
+        <Channel index="0" name="dimmer" value="0" fade="1"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+    </Step>
+    <Step length="300">
+      <Fixture id="1664016596">
+        <Channel index="0" name="dimmer" value="0"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1664016597">
+        <Channel index="0" name="dimmer" value="0"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1664016598">
+        <Channel index="0" name="dimmer" value="0"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1671299957">
+        <Channel index="0" name="pan" value="255"/>
+        <Channel index="1" name="upan" value="0"/>
+        <Channel index="2" name="tilt" value="205"/>
+        <Channel index="3" name="utilt" value="0"/>
+        <Channel index="5" name="dimmer" value="0"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="8" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1671300460">
+        <Channel index="0" name="pan" value="255"/>
+        <Channel index="1" name="upan" value="0"/>
+        <Channel index="2" name="tilt" value="205"/>
+        <Channel index="3" name="utilt" value="0"/>
+        <Channel index="5" name="dimmer" value="0"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="8" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1671300461">
+        <Channel index="0" name="pan" value="255"/>
+        <Channel index="1" name="upan" value="0"/>
+        <Channel index="2" name="tilt" value="50"/>
+        <Channel index="3" name="utilt" value="0"/>
+        <Channel index="5" name="dimmer" value="0"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="8" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1671300462">
+        <Channel index="0" name="pan" value="255"/>
+        <Channel index="1" name="upan" value="0"/>
+        <Channel index="2" name="tilt" value="50"/>
+        <Channel index="3" name="utilt" value="0"/>
+        <Channel index="5" name="dimmer" value="0"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="8" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1671368260">
+        <Channel index="0" name="pan" value="255"/>
+        <Channel index="1" name="upan" value="0"/>
+        <Channel index="2" name="tilt" value="110"/>
+        <Channel index="3" name="utilt" value="0"/>
+        <Channel index="5" name="dimmer" value="0"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="8" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1671368261">
+        <Channel index="0" name="pan" value="255"/>
+        <Channel index="1" name="upan" value="0"/>
+        <Channel index="2" name="tilt" value="110"/>
+        <Channel index="3" name="utilt" value="0"/>
+        <Channel index="5" name="dimmer" value="0"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="8" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1663943888">
+        <Channel index="0" name="fan" value="255"/>
+      </Fixture>
+      <Fixture id="1663958226">
+        <Channel index="0" name="dimmer" value="0"/>
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

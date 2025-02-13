@@ -1,0 +1,445 @@
+﻿
+[Params]
+Version = 0.2
+CommentTimeLine = 0
+LightTimeLines = 20
+MediaTimeLines = 1
+ShowWaveForm = 1
+MaxTime = 0:30:00
+Zoom = 0
+TimeLine_1 = V I D E O   P I C T U R E   T I M E L I N E
+TimeLine_2 = A U D I O   T I M E L I N E
+TimeLine_3 = LYRES COULEUR 1
+TimeLine_4 = LYRES COULEUR 2
+TimeLine_5 = LYRES MOUVEMENT 1
+TimeLine_6 = LYRES MOUVEMENT 2
+TimeLine_7 = LYRES DIMMER 1
+TimeLine_8 = LYRES DIMMER 2
+TimeLine_9 = LIVEKOLOR COULEUR
+TimeLine_10 = LIVEKOLOR EFFECT
+TimeLine_11 = LIVEKOLOR DIMMER
+TimeLine_12 = SCENE EFFECTS
+TimeLine_13 = PC DANSE
+TimeLine_14 = FUMÉE
+TimeLine_15 = DIMMER SALLE
+TimeLine_16 = COULEUR SALLE
+TimeLine_17 = L I G H T   S C E N E   T I M E L I N E   #   15
+TimeLine_18 = L I G H T   S C E N E   T I M E L I N E   #   16
+TimeLine_19 = L I G H T   S C E N E   T I M E L I N E   #   17
+TimeLine_20 = L I G H T   S C E N E   T I M E L I N E   #   18
+TimeLine_21 = L I G H T   S C E N E   T I M E L I N E   #   19
+TimeLine_22 = L I G H T   S C E N E   T I M E L I N E   #   20
+[Marks]
+Mark_1 = 0:00:16.0
+[Event_0]
+TimeLineIndex = 5
+StartTime = 0:00:00.0
+Path = LYRES plafond.scex
+Length = 0:00:02.0
+Speed = 100
+SpeedType = 2
+[Event_1]
+TimeLineIndex = 3
+StartTime = 0:00:00.0
+Path = LYRES Blanc.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_2]
+TimeLineIndex = 10
+StartTime = 0:00:00.0
+Path = LIVEKOLOR Zoom max (devant) mini (fond).scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_3]
+TimeLineIndex = 6
+StartTime = 0:00:00.0
+Path = LYRES Effet zoom max.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_4]
+TimeLineIndex = 13
+StartTime = 0:00:00.0
+Path = PC (danses).scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_5]
+TimeLineIndex = 9
+StartTime = 0:00:00.0
+Path = LIVEKOLOR Blanc (devant) Rouge (fond).scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_6]
+TimeLineIndex = 14
+StartTime = 0:00:00.0
+Path = Brouillard pendant danse.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_7]
+TimeLineIndex = 19
+StartTime = 0:00:00.0
+Path = Birdy plafond.scex
+Length = 0:00:02.0
+Speed = 100
+SpeedType = 2
+[Event_8]
+TimeLineIndex = 2
+StartTime = 0:00:00.5
+Path = musiques/The Avengers .wav
+Length = 0:01:05.0
+[Event_9]
+TimeLineIndex = 7
+StartTime = 0:00:01.1
+Path = LYRES dimmer continu salle.scex
+Length = 0:00:08.0
+Speed = 100
+SpeedType = 2
+[Event_10]
+TimeLineIndex = 11
+StartTime = 0:00:01.1
+Path = LIVEKOLOR Dimmer in10s.scex
+Length = 0:00:10.0
+Speed = 100
+SpeedType = 2
+[Event_11]
+TimeLineIndex = 18
+StartTime = 0:00:01.1
+Path = Birdy dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_12]
+TimeLineIndex = 4
+StartTime = 0:00:03.0
+Path = LYRES Rouge.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_13]
+TimeLineIndex = 5
+StartTime = 0:00:03.0
+Path = LYRES plafond to sol (8)2s.scex
+Length = 0:00:52.1
+Speed = 100
+SpeedType = 2
+[Event_14]
+TimeLineIndex = 3
+StartTime = 0:00:03.0
+Path = OFF
+[Event_15]
+TimeLineIndex = 17
+StartTime = 0:00:03.0
+Path = Birdy rouge.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_16]
+TimeLineIndex = 19
+StartTime = 0:00:03.0
+Path = OFF
+[Event_17]
+TimeLineIndex = 3
+StartTime = 0:00:05.0
+Path = LYRES Blanc.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_18]
+TimeLineIndex = 16
+StartTime = 0:00:05.1
+Path = Birdy blanc.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_19]
+TimeLineIndex = 17
+StartTime = 0:00:05.1
+Path = OFF
+[Event_20]
+TimeLineIndex = 5
+StartTime = 0:00:05.1
+Path = LYRES sol to plafond (8) 2s.scex
+Length = 0:00:52.1
+Speed = 100
+SpeedType = 2
+[Event_21]
+TimeLineIndex = 4
+StartTime = 0:00:05.1
+Path = OFF
+[Event_22]
+TimeLineIndex = 3
+StartTime = 0:00:07.1
+Path = OFF
+[Event_23]
+TimeLineIndex = 4
+StartTime = 0:00:07.1
+Path = LYRES Rouge.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_24]
+TimeLineIndex = 5
+StartTime = 0:00:07.1
+Path = LYRES plafond to sol (8)2s.scex
+Length = 0:00:52.1
+Speed = 100
+SpeedType = 2
+[Event_25]
+TimeLineIndex = 17
+StartTime = 0:00:07.2
+Path = Birdy rouge.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_26]
+TimeLineIndex = 16
+StartTime = 0:00:07.2
+Path = OFF
+[Event_27]
+TimeLineIndex = 5
+StartTime = 0:00:09.1
+Path = LYRES sol to plafond (8) 2s.scex
+Length = 0:00:52.1
+Speed = 100
+SpeedType = 2
+[Event_28]
+TimeLineIndex = 3
+StartTime = 0:00:09.2
+Path = LYRES Blanc.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_29]
+TimeLineIndex = 4
+StartTime = 0:00:09.2
+Path = OFF
+[Event_30]
+TimeLineIndex = 16
+StartTime = 0:00:09.3
+Path = Birdy blanc.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_31]
+TimeLineIndex = 17
+StartTime = 0:00:09.3
+Path = OFF
+[Event_32]
+TimeLineIndex = 20
+StartTime = 0:00:10.6
+Path = HPE 700 placement mur.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_33]
+TimeLineIndex = 21
+StartTime = 0:00:10.6
+Path = HPE 700 gobo 4 rouge + blanc.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_34]
+TimeLineIndex = 4
+StartTime = 0:00:11.1
+Path = LYRES Rouge.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_35]
+TimeLineIndex = 5
+StartTime = 0:00:11.1
+Path = LYRES plafond to sol (8)2s.scex
+Length = 0:00:52.1
+Speed = 100
+SpeedType = 2
+[Event_36]
+TimeLineIndex = 3
+StartTime = 0:00:11.2
+Path = OFF
+[Event_37]
+TimeLineIndex = 17
+StartTime = 0:00:11.4
+Path = Birdy rouge.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_38]
+TimeLineIndex = 16
+StartTime = 0:00:11.4
+Path = OFF
+[Event_39]
+TimeLineIndex = 5
+StartTime = 0:00:13.1
+Path = LYRES sol to plafond (8) 2s.scex
+Length = 0:00:52.1
+Speed = 100
+SpeedType = 2
+[Event_40]
+TimeLineIndex = 3
+StartTime = 0:00:13.2
+Path = LYRES Blanc.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_41]
+TimeLineIndex = 4
+StartTime = 0:00:13.2
+Path = OFF
+[Event_42]
+TimeLineIndex = 16
+StartTime = 0:00:13.5
+Path = Birdy blanc.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_43]
+TimeLineIndex = 17
+StartTime = 0:00:13.5
+Path = OFF
+[Event_44]
+TimeLineIndex = 16
+StartTime = 0:00:15.6
+Path = OFF
+[Event_45]
+TimeLineIndex = 18
+StartTime = 0:00:15.6
+Path = OFF
+[Event_46]
+TimeLineIndex = 7
+StartTime = 0:00:16.0
+Path = OFF
+[Event_47]
+TimeLineIndex = 6
+StartTime = 0:00:16.0
+Path = OFF
+[Event_48]
+TimeLineIndex = 3
+StartTime = 0:00:16.0
+Path = LYRES Jaune.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_49]
+TimeLineIndex = 5
+StartTime = 0:00:16.0
+Path = LYRES Mouvement crown scène.gpj
+Length = 0:00:08.0
+Speed = 100
+SpeedType = 2
+[Event_50]
+TimeLineIndex = 22
+StartTime = 0:00:16.9
+Path = HPE 700 Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_51]
+TimeLineIndex = 12
+StartTime = 0:00:16.9
+Path = PAR 56 Défilement 2.scex
+Length = 0:00:02.2
+Speed = 100
+SpeedType = 2
+[Event_52]
+TimeLineIndex = 11
+StartTime = 0:00:19.4
+Path = LIVEKOLOR Dimmer continu.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_53]
+TimeLineIndex = 14
+StartTime = 0:00:21.3
+Path = OFF
+[Event_54]
+TimeLineIndex = 6
+StartTime = 0:00:32.0
+Path = LYRES Effet zoom max.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_55]
+TimeLineIndex = 22
+StartTime = 0:00:33.2
+Path = OFF
+[Event_56]
+TimeLineIndex = 21
+StartTime = 0:00:33.2
+Path = OFF
+[Event_57]
+TimeLineIndex = 20
+StartTime = 0:00:33.2
+Path = OFF
+[Event_58]
+TimeLineIndex = 7
+StartTime = 0:00:33.3
+Path = LYRES Dimmer in 3s scene.scex
+Length = 0:00:03.0
+Speed = 100
+SpeedType = 2
+[Event_59]
+TimeLineIndex = 12
+StartTime = 0:00:33.3
+Path = OFF
+[Event_60]
+TimeLineIndex = 14
+StartTime = 0:00:46.8
+Path = Brouillard pendant danse.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_61]
+TimeLineIndex = 7
+StartTime = 0:00:48.4
+Path = LYRES Dimmer out scene 2sec.scex
+Length = 0:00:11.6
+Speed = 100
+SpeedType = 2
+[Event_62]
+TimeLineIndex = 10
+StartTime = 0:00:49.6
+Path = LIVEKOLOR Effet zoom mini-max.scex
+Length = 0:00:04.0
+Speed = 100
+SpeedType = 2
+[Event_63]
+TimeLineIndex = 6
+StartTime = 0:00:49.9
+Path = OFF
+[Event_64]
+TimeLineIndex = 7
+StartTime = 0:00:49.9
+Path = OFF
+[Event_65]
+TimeLineIndex = 5
+StartTime = 0:00:52.1
+Path = OFF
+[Event_66]
+TimeLineIndex = 14
+StartTime = 0:01:03.8
+Path = OFF
+[Event_67]
+TimeLineIndex = 3
+StartTime = 0:01:05.4
+Path = OFF
+[Event_68]
+TimeLineIndex = 13
+StartTime = 0:01:05.6
+Path = OFF
+[Event_69]
+TimeLineIndex = 10
+StartTime = 0:01:05.8
+Path = OFF
+[Event_70]
+TimeLineIndex = 9
+StartTime = 0:01:07.6
+Path = OFF
+[Event_71]
+TimeLineIndex = 11
+StartTime = 0:01:07.6
+Path = OFF

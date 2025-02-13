@@ -1,0 +1,36 @@
+﻿ViewType = VIEW_TYPE_NOTHING
+ViewPower = VIEW_POWER_LED30W
+ViewAnglePan = 120
+ViewAngleTilt = 90
+ViewAngleBeam = 16
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 16777215
+3DViewShape = led_36(5u)
+2DViewImage = Chauvet/DJ/Eclipse RGB.png
+
+Channel = mode
+ lamp_off,0,49 auto,50,100 audio,101,150 Static DMX Patterns,151,200 Dynamic Patterns,201,255 
+
+Channel = pattern
+
+Channel = animation_speed
+
+Channel = pan_macro_speed
+
+Channel = pan
+ index,0,100 Movement Presets,101,255 
+
+Channel = Static Pattern Size
+ Pattern Preset,0,1 Small to Large With Steps,2,63 Small to Large Animated,64,95 Large to Small Animated,96,127 Shrinking and Growing Animated,128,159 Size Static at Last Position,160,255 
+
+Channel = shutter
+ open,0,10 strobe,11,255 
+
+Channel = Mirror
+ Large to Small with Steps,0,79 Small to Large with Steps,80,127 Shrinking and Growing Animated,128,223 Size Static at Last Position,224,255 
+
+Channel = color
+

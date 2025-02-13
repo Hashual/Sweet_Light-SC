@@ -1,0 +1,40 @@
+﻿ViewType = VIEW_TYPE_NOTHING
+ViewPower = VIEW_POWER_LED30W
+ViewAnglePan = 120
+ViewAngleTilt = 90
+ViewAngleBeam = 16
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 16777215
+3DViewShape = led_64(8u)
+2DViewImage = Showtec/Light Effects/Dynamica_43162.png
+
+Channel = uuv, , 1
+
+Channel = uuv, , 2
+
+Channel = strobe_color
+ strobe,0,250 audio,251,255 
+
+Channel = beam_effect_macro_sound
+ no_function,0,5 macro_1,6,13 macro_2,14,21 macro_3,22,29 macro_4,30,37 macro_5,38,45 macro_6,46,53 macro_7,54,61 macro_8,62,69 macro_9,70,77 macro_10,78,85 macro_11,86,93 macro_12,94,101 macro_13,102,109 macro_14,110,117 macro_15,118,125 macro_16,126,133 macro_17,134,141 macro_18,142,149 macro_19,150,157 pattern_20,158,165 pattern_21,166,173 pattern_22,174,181 pattern_23,182,189 pattern_24,190,197 pattern_25,198,205 macro_26,206,213 pattern_27,214,221 pattern_28,222,229 pattern_29,230,237 pattern_30,238,245 mix_macro,246,255 
+
+Channel = effect_speed
+ index,0,250 audio1,251,255 
+
+Channel = laser
+ no_function,0,5 Red Laser On,6,48 Green Laser On,49,89 Red + Green Laser On,90,131 Red Laser Flash + Green Laser On,132,173 Red Laser On + Green Laser Flash,174,215 Red + Green Laser Flash,216,255 
+
+Channel = laser
+ no_function,0,5 strobe,6,250 audio,251,255 
+
+Channel = pattern_speed
+ no_function,0,0 right_rotate,1,127 stop,128,128 left_rotate,129,255 
+
+Channel = effect_macro
+
+Channel = effect_speed
+ index,0,250 audio,251,255 
+
