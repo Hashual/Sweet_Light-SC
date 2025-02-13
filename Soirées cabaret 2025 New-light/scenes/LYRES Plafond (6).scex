@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1671368261" name="ServoColor4K #6" model="ServoColor600(16bits)"/>
+  </Fixtures>
+  <Steps>
+    <Step length="500">
+      <Fixture id="1671368261">
+        <Channel index="0" name="pan" value="77"/>
+        <Channel index="1" name="upan" value="0"/>
+        <Channel index="2" name="tilt" value="83"/>
+        <Channel index="3" name="utilt" value="0"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

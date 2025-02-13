@@ -1,0 +1,47 @@
+﻿ViewType = VIEW_TYPE_HEAD_WASH
+ViewPower = VIEW_POWER_LAMP250W
+ViewAnglePan = 540
+ViewAngleTilt = 270
+ViewAngleBeam = 20
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 16777215
+3DViewShape = 
+2DViewImage = 
+
+Channel = pan
+
+Channel = upan
+
+Channel = tilt
+
+Channel = utilt
+
+Channel = pantilt_speed
+
+Channel = dimmer
+
+Channel = strobe_effect
+ closed,0,4 open,5,10 random_strobe,171,255 
+
+Channel = zoom
+
+Channel = red
+
+Channel = green
+
+Channel = blue
+
+Channel = white
+
+Channel = color_macro
+ no_function,0,0 full_power,8,8 red_100-green_up-blue_0,18,18 red_down-green_100-blue_0,38,38 red_0-green_100-blue_up,59,59 red_0-green_down-blue-100,79,79 red_up-green_0-blue_100,99,99 red_100-green_0-blue_down,119,119 red_100-green_up-blue_up,139,139 red_down-green_down-blue_100,160,160 red_100-green_100-blue_100-white_100,180,180 3200K,203,203 3400K,208,208 4200K,213,213 4900K,218,218 5600K,223,223 5900K,228,228 6500K,233,233 7200K,238,238 8000K,243,243 8500K,248,248 10000K,255,255 
+
+Channel = dimmer_speed
+ preset,0,0 linear,20,20 dimmer1,50,100 dimmer2,105,105 dimmer3,160,160 dimmer4,255,255 
+
+Channel = control
+ no_function,0,0 blackout_moves,30,30 fan_auto,70,70 fan2,90,90 fan3,110,110 fan4,130,130 auto1,145,145 auto2,155,155 reset,210,210 
+

@@ -1,0 +1,45 @@
+﻿ViewType = VIEW_TYPE_NOTHING
+ViewPower = VIEW_POWER_LED30W
+ViewAnglePan = 120
+ViewAngleTilt = 90
+ViewAngleBeam = 16
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 16777215
+3DViewShape = 
+2DViewImage = Showtec/Lasers/Galactic FX RGB-620#51339.png
+
+Channel = mode
+ lamp_off,0,41 dmx,42,83 auto,84,125 Line effect automatic control mode,126,167 Animation effect sound control mode,168,209 audio,210,251 Manual Control Sound Mode,252,255 
+
+Channel = Pattern Group A
+
+Channel = Pattern Group B
+
+Channel = Pattern Rotation
+ index,0,127 right_rotate,128,191 left_rotate,192,255 
+
+Channel = Pattern X Reverse Rotation
+ index,0,127 rotate,128,255 
+
+Channel = Pattern Y Reverse Rotation
+ index,0,127 rotate,128,255 
+
+Channel = pan
+ index,0,127 speed_control,128,128 
+
+Channel = tilt
+ index,0,127 speed_control,128,128 
+
+Channel = Pattern Size
+ Pattern Size Adjustment,0,63 Pattern size zooming speed (from big to small),64,127 Pattern size zooming speed (from small to big),128,191 Pattern zooming (from slow to fast),192,255 
+
+Channel = Pattern Gradual Drawing
+
+Channel = pattern_speed
+ speed_control,0,127 Running Dot Effect,128,255 
+
+Channel = color_preset
+

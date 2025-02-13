@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1663943888" name="Brouillard" model="Hurricane Haze 4D"/>
+  </Fixtures>
+  <Steps>
+    <Step length="9000">
+      <Fixture id="1663943888">
+        <Channel index="0" name="fan" value="0"/>
+        <Channel index="1" name="smoke_machine" value="255"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

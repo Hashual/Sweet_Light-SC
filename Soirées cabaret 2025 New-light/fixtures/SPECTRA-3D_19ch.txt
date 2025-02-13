@@ -1,0 +1,69 @@
+﻿ViewType = VIEW_TYPE_NOTHING
+ViewPower = VIEW_POWER_LED30W
+ViewAnglePan = 120
+ViewAngleTilt = 90
+ViewAngleBeam = 16
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 16777215
+2DViewImage = Briteq/SPECTRA-3D.png
+
+Channel = laser
+ closed,0,18 Auto show,19,36 3D effect auto show,37,54 Beam effect auto show,55,72 Lumia effect auto show,73,90 Burst grating effect auto show,91,108 Universal effect auto show,109,126 Sound 5 effect mixed show,127,144 Sound 3D effect show,145,162 Sound Beam effect show,163,180 Sound Lumia effect show,181,198 Sound Burst effect show,199,216 Sound Universal effect show,217,234 dmx,235,255 
+
+Channel = Group
+ Group1 Pattern,0,51 Group2 Pattern,52,103 Group3 Pattern,104,155 Group4 Pattern,156,207 Group5 Pattern,208,255 
+
+Channel = pattern
+ Every 16 for 1 group, 16 patterns,0,255 
+
+Channel = color
+ Original,0,7 red,8,15 dark_green,16,23 yellow,24,31 blue,32,39 purple,40,47 light_blue,48,55 white,56,63 rotate,64,111 Color jumping,112,159 Color moving,160,207 strobe,208,255 
+
+Channel = Cliping
+ no_function,0,0 fixed pattern clipped from fast to slow,1,127 Clipping speed,128,255 
+
+Channel = zoom
+ Zoom fixed pattern from Max to Min,0,127 Zooming IN,128,169 Zooming OUT,170,209 Alternately Zooming,210,255 pattern_N,0,0 
+
+Channel = Zoom speed
+ From Fast to Slow,0,255 
+
+Channel = Y axis rolling
+ 0-359 degree fixed Y axis rolled,0,127 right_rotate,128,191 left_rotate,192,255 
+
+Channel = Y Roll speed
+ From Fast to Slow,0,255 
+
+Channel = X axis rolling
+ 0-359 degree fixed X axis rolled,0,127 right_rotate,128,191 left_rotate,192,255 
+
+Channel = X Roll speed
+ From Fast to Slow,0,255 
+
+Channel = Z axis rolling
+ 0-359 degree fixed Z axis rolled,0,127 right_rotate,128,191 left_rotate,192,255 
+
+Channel = Z Roll speed
+ From Fast to Slow,0,255 
+
+Channel = Y axis moving
+ 128 different fixed position on Y axis,0,127 right_rotate,128,191 left_rotate,192,255 
+
+Channel = Y Move speed
+ From Fast to Slow,0,255 
+
+Channel = X axis moving
+ 128 different fixed position on X axis,0,127 right_rotate,128,191 left_rotate,192,255 
+
+Channel = X Move speed
+ From Fast to Slow,0,255 
+
+Channel = Grating Rotation
+ no_function,0,4 right_rotate,5,127 stop,128,133 left_rotate,134,255 
+
+Channel = Grating Effect
+ 3D effect,0,31 Scanned Beam effect,32,63 Laser Lumia effect,64,95 Scanned Beam effect,96,127 Burst Gratting effect,128,159 Scanned Beam effect,160,191 Laser Universal effect,192,223 Scanned Beam effect,224,255 
+

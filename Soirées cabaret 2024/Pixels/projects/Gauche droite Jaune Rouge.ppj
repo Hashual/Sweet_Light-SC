@@ -1,0 +1,20 @@
+﻿
+[Effect_0]
+Selected = 1
+Name = CHASER
+X = 14
+Y = 13
+Width = 10
+Height = 1
+Type = CHASER
+Parameter_Delay = 50
+Parameter_Height = 1
+Parameter_Direction = 0
+Parameter_Type = 0
+Parameter_Color1 = 65535
+Parameter_Color2 = 255
+Parameter_Width = 1
+Parameter_PingPong = 0
+Parameter_Nb = 1
+Parameter_Mirror = 0
+Parameter_Step = 1

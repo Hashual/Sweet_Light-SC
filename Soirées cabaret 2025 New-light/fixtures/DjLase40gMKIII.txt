@@ -1,0 +1,37 @@
+﻿ViewType = VIEW_TYPE_NOTHING
+ViewPower = VIEW_POWER_LED30W
+ViewAnglePan = 120
+ViewAngleTilt = 90
+ViewAngleBeam = 16
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 16777215
+3DViewShape = 
+2DViewImage = Chauvet/DJ/Abyss USB.png
+
+Channel = mode
+ lamp_off,0,63 auto,64,127 audio,128,191 dmx,192,255 
+
+Channel = pattern
+ pattern_00,0,7 pattern_01,8,15 pattern_02,16,23 pattern_03,24,31 pattern_04,32,39 pattern_05,40,47 pattern_06,48,55 pattern_07,56,63 pattern_08,64,71 pattern_09,72,79 pattern_10,80,87 pattern_11,88,95 pattern_12,96,103 pattern_13,104,111 pattern_14,112,119 pattern_15,120,127 pattern_16,128,135 pattern_17,136,143 pattern_18,144,151 pattern_19,152,159 pattern_20,160,167 pattern_21,168,175 pattern_22,176,183 pattern_23,184,191 pattern_24,192,199 pattern_25,200,207 pattern_26,208,215 pattern_27,216,223 pattern_28,224,231 pattern_29,232,239 pattern_30,240,247 pattern_31,248,255 
+
+Channel = zoom
+ index,0,127 Zooming In Effect,128,169 Zooming Out Effect,170,209 Zooming In Effect,210,255 
+
+Channel = Y Rotation
+ indexing,0,127 right_rotate,128,191 left_rotate,192,255 
+
+Channel = X Rotation
+ indexing,0,127 right_rotate,128,191 left_rotate,192,255 
+
+Channel = Z Rotation
+ indexing,0,127 right_rotate,128,191 left_rotate,192,255 
+
+Channel = pan
+ index,0,127 right_rotate,128,191 left_rotate,192,255 
+
+Channel = tilt
+ index,0,127 right_rotate,128,191 left_rotate,192,255 
+

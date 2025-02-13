@@ -1,0 +1,263 @@
+﻿
+[Params]
+Version = 0.2
+CommentTimeLine = 0
+LightTimeLines = 8
+MediaTimeLines = 1
+ShowWaveForm = 1
+MaxTime = 0:30:00
+Zoom = 2
+TimeLine_1 = V I D E O   P I C T U R E   T I M E L I N E
+TimeLine_2 = A U D I O   T I M E L I N E
+TimeLine_3 = L I G H T   S C E N E   T I M E L I N E   #   1
+TimeLine_4 = L I G H T   S C E N E   T I M E L I N E   #   2
+TimeLine_5 = L I G H T   S C E N E   T I M E L I N E   #   3
+TimeLine_6 = L I G H T   S C E N E   T I M E L I N E   #   4
+TimeLine_7 = L I G H T   S C E N E   T I M E L I N E   #   5
+TimeLine_8 = L I G H T   S C E N E   T I M E L I N E   #   6
+TimeLine_9 = L I G H T   S C E N E   T I M E L I N E   #   7
+TimeLine_10 = L I G H T   S C E N E   T I M E L I N E   #   8
+[Event_0]
+TimeLineIndex = 3
+StartTime = 0:00:00.0
+Path = LIVEKOLOR Defilement couleurs lent.scex
+Length = 0:00:14.0
+Speed = 100
+SpeedType = 2
+[Event_1]
+TimeLineIndex = 2
+StartTime = 0:00:00.0
+Path = C:/Users/dodo2/Desktop/Musiques programmes/Justin Bieber Ft Ludacris - Baby Instrumental [Free Download].mp3
+Length = 0:03:34.9
+[Event_2]
+TimeLineIndex = 7
+StartTime = 0:00:00.0
+Path = LYRES Multicouleurs lent.scex
+Length = 0:00:14.0
+FadeOut = 1
+Speed = 100
+SpeedType = 2
+[Event_3]
+TimeLineIndex = 5
+StartTime = 0:00:00.1
+Path = LYRES Mouvement circle scène lent.gpj
+Length = 0:00:30.0
+FadeOut = 1
+Speed = 100
+SpeedType = 2
+[Event_4]
+TimeLineIndex = 8
+StartTime = 0:00:00.1
+Path = LYRES Effet zoom mini.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_5]
+TimeLineIndex = 4
+StartTime = 0:00:00.7
+Path = LIVEKOLOR Dimmer continu.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_6]
+TimeLineIndex = 6
+StartTime = 0:00:00.7
+Path = LYRES Dimmer continu.gpj
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_7]
+TimeLineIndex = 9
+StartTime = 0:00:00.7
+Path = PC-Projecteurs moitier.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_8]
+TimeLineIndex = 7
+StartTime = 0:00:44.7
+Path = LYRES Multicouleurs.scex
+Length = 0:00:06.0
+FadeIn = 100
+FadeOut = 100
+Speed = 100
+SpeedType = 2
+[Event_9]
+TimeLineIndex = 3
+StartTime = 0:00:44.7
+Path = LIVEKOLOR Defilement couleurs vitesse moyenne.scex
+Length = 0:00:07.0
+Speed = 100
+SpeedType = 2
+[Event_10]
+TimeLineIndex = 5
+StartTime = 0:00:44.7
+Path = LYRES Mouvement circle scène vitesse moyenne.gpj
+Length = 0:00:10.0
+FadeIn = 100
+FadeOut = 100
+Speed = 100
+SpeedType = 2
+[Event_11]
+TimeLineIndex = 7
+StartTime = 0:01:14.8
+Path = LYRES Multicouleurs lent.scex
+Length = 0:00:14.0
+FadeIn = 100
+FadeOut = 100
+Speed = 100
+SpeedType = 2
+[Event_12]
+TimeLineIndex = 5
+StartTime = 0:01:14.8
+Path = LYRES Mouvement circle scène lent.gpj
+Length = 0:00:30.0
+FadeIn = 100
+FadeOut = 100
+Speed = 100
+SpeedType = 2
+[Event_13]
+TimeLineIndex = 3
+StartTime = 0:01:14.8
+Path = LIVEKOLOR Defilement couleurs lent.scex
+Length = 0:00:14.0
+Speed = 100
+SpeedType = 2
+[Event_14]
+TimeLineIndex = 5
+StartTime = 0:01:43.8
+Path = LYRES Mouvement circle scène vitesse moyenne.gpj
+Length = 0:00:10.0
+FadeIn = 100
+Speed = 100
+SpeedType = 2
+[Event_15]
+TimeLineIndex = 7
+StartTime = 0:01:43.8
+Path = LYRES Multicouleurs.scex
+Length = 0:00:06.0
+FadeIn = 100
+Speed = 100
+SpeedType = 2
+[Event_16]
+TimeLineIndex = 3
+StartTime = 0:01:43.8
+Path = LIVEKOLOR Defilement couleurs vitesse moyenne.scex
+Length = 0:00:07.0
+Speed = 100
+SpeedType = 2
+[Event_17]
+TimeLineIndex = 7
+StartTime = 0:02:13.6
+Path = LYRES Multicouleurs lent.scex
+Length = 0:00:14.0
+FadeIn = 100
+FadeOut = 100
+Speed = 100
+SpeedType = 2
+[Event_18]
+TimeLineIndex = 5
+StartTime = 0:02:13.6
+Path = LYRES Mouvement circle scène lent.gpj
+Length = 0:00:30.0
+FadeIn = 100
+FadeOut = 100
+Speed = 100
+SpeedType = 2
+[Event_19]
+TimeLineIndex = 3
+StartTime = 0:02:13.6
+Path = LIVEKOLOR Defilement couleurs lent.scex
+Length = 0:00:14.0
+Speed = 100
+SpeedType = 2
+[Event_20]
+TimeLineIndex = 5
+StartTime = 0:02:42.4
+Path = LYRES Mouvement circle scène vitesse moyenne.gpj
+Length = 0:00:10.0
+FadeIn = 100
+Speed = 100
+SpeedType = 2
+[Event_21]
+TimeLineIndex = 7
+StartTime = 0:02:42.4
+Path = LYRES Multicouleurs.scex
+Length = 0:00:06.0
+FadeIn = 100
+Speed = 100
+SpeedType = 2
+[Event_22]
+TimeLineIndex = 3
+StartTime = 0:02:42.4
+Path = LIVEKOLOR Defilement couleurs vitesse moyenne.scex
+Length = 0:00:07.0
+Speed = 100
+SpeedType = 2
+[Event_23]
+TimeLineIndex = 6
+StartTime = 0:03:13.6
+Path = LYRES Dimmer out scene 6sec.scex
+Length = 0:00:33.0
+Speed = 100
+SpeedType = 2
+[Event_24]
+TimeLineIndex = 4
+StartTime = 0:03:20.8
+Path = LIVEKOLOR Dimmer out.scex
+Length = 0:00:26.1
+Speed = 100
+SpeedType = 2
+[Event_25]
+TimeLineIndex = 8
+StartTime = 0:03:20.8
+Path = LYRES Effet zoom mini-max.scex
+Length = 0:00:07.0
+Speed = 100
+SpeedType = 2
+[Event_26]
+TimeLineIndex = 7
+StartTime = 0:03:23.6
+Path = LYRES Blanc.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_27]
+TimeLineIndex = 8
+StartTime = 0:03:23.6
+Path = OFF
+[Event_28]
+TimeLineIndex = 3
+StartTime = 0:03:23.6
+Path = LIVEKOLOR Blanc.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_29]
+TimeLineIndex = 9
+StartTime = 0:03:23.6
+Path = OFF
+[Event_30]
+TimeLineIndex = 6
+StartTime = 0:03:27.2
+Path = OFF
+[Event_31]
+TimeLineIndex = 5
+StartTime = 0:03:27.2
+Path = OFF
+[Event_32]
+TimeLineIndex = 4
+StartTime = 0:03:27.2
+Path = OFF
+[Event_33]
+TimeLineIndex = 7
+StartTime = 0:03:27.2
+Path = OFF
+[Event_34]
+TimeLineIndex = 2
+StartTime = 0:03:27.2
+Path = OFF
+[Event_35]
+TimeLineIndex = 3
+StartTime = 0:03:27.2
+Path = OFF

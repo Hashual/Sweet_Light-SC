@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1664019719" name="PAR 56 #2" model="Ovation F-95WW (1CH-UNO)"/>
+    <Fixture id="1664018514" name="PAR 56" model="Ovation F-95WW (1CH-UNO)"/>
+  </Fixtures>
+  <Steps>
+    <Step length="15">
+      <Fixture id="1664019719">
+        <Channel index="0" name="dimmer" value="0"/>
+      </Fixture>
+      <Fixture id="1664018514">
+        <Channel index="0" name="dimmer" value="255"/>
+      </Fixture>
+    </Step>
+    <Step length="25">
+      <Fixture id="1664019719">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1664018514">
+        <Channel index="0" name="dimmer" value="0" fade="1"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

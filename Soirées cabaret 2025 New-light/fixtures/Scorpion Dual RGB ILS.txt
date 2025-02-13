@@ -1,0 +1,35 @@
+﻿ViewType = VIEW_TYPE_COLOR_PANEL
+ViewPower = VIEW_POWER_LED30W
+ViewAnglePan = 120
+ViewAngleTilt = 90
+ViewAngleBeam = 16
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 16777215
+3DViewShape = 
+2DViewImage = Chauvet/DJ/Scorpion Dual.png
+
+Channel = mode
+ Manual Control mode,0,17 auto,18,136 audio,137,255 
+
+Channel = pattern
+ dimmer,0,255 
+
+Channel = strobe_effect
+ no_function,0,4 strobe,5,255 
+
+Channel = Spot and Line
+
+Channel = pan
+ Manual Pan,0,127 auto,128,191 Reverse,192,255 
+
+Channel = tilt
+ Manual tilt,0,127 auto,128,191 Reverse,192,255 
+
+Channel = zoom
+ Manual zoom 100-5%,0,127 auto,128,255 
+
+Channel = reserved
+

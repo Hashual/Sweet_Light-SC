@@ -1,0 +1,42 @@
+﻿ViewType = VIEW_TYPE_COLOR_CHANGER
+ViewPower = VIEW_POWER_LED30W
+ViewAnglePan = 120
+ViewAngleTilt = 90
+ViewAngleBeam = 16
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 16777215
+3DViewShape = 
+2DViewImage = Showtec/Light Effects/Dynamica_43162.png
+
+Channel = effect_macro, , 1
+ no_function,0,7,notusedinlc rainbow_color,8,45 rainbow_fade,46,64 Fast Pulse,65,83 Slow Pulse,84,102 Left-Right Jump,103,121 flash_macro,122,140 Left-Right Flash,141,159 Left-Right Fade,160,200 audio,201,255 
+
+Channel = effect_speed, , 1
+
+Channel = shutter, , 1
+ open,0,7 strobe,8,255 
+
+Channel = effect_macro, , 2
+ no_function,0,7,notusedinlc auto,8,200 audio,201,255 
+
+Channel = effect_speed, , 2
+
+Channel = shutter, , 2
+ open,0,7 strobe,8,255 
+
+Channel = effect_macro, , 3
+ no_function,0,7,notusedinlc Both LED Spots Single Color Full Display,8,34 Both LED Spots Single Color Half Display,35,61 Both LED Spots Contrasting Single Color Half ,62,88 Alternating LED Spots Single Color Half Display,89,115 Alternating LED Spots Single Color Full Display,116,142 Alternating LED Spots Pinwheel,143,160 Both LED Spots Pinwheel,161,178 Both LED Spots Single/Dual/Triple/All Color ,179,187 Both LED Spots All Color Spin,188,200 audio,201,255 
+
+Channel = effect_speed, , 3
+
+Channel = shutter, , 3
+ open,0,7 strobe,8,255 
+
+Channel = pattern, , 4
+ no_function,0,7,notusedinlc auto,8,200 audio,201,255 
+
+Channel = pattern_speed, , 4
+

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1664016596" name="Starway LiveKolor #2" model="COLORdash S-Par 1 (11Ch)"/>
+    <Fixture id="1664016597" name="Starway LiveKolor #3" model="COLORdash S-Par 1 (11Ch)"/>
+    <Fixture id="1664016598" name="Starway LiveKolor #4" model="COLORdash S-Par 1 (11Ch)"/>
+    <Fixture id="1663958226" name="Starway LiveKolor" model="COLORdash S-Par 1 (11Ch)"/>
+  </Fixtures>
+  <Steps>
+    <Step length="100">
+      <Fixture id="1664016596">
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1664016597">
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1664016598">
+        <Channel index="1" name="red" value="255"/>
+        <Channel index="2" name="green" value="255"/>
+      </Fixture>
+      <Fixture id="1663958226">
+        <Channel index="1" name="red" value="255"/>
+        <Channel index="2" name="green" value="255"/>
+      </Fixture>
+    </Step>
+    <Step length="100">
+      <Fixture id="1664016596">
+        <Channel index="1" name="red" value="255"/>
+        <Channel index="2" name="green" value="127"/>
+      </Fixture>
+      <Fixture id="1664016597">
+        <Channel index="1" name="red" value="255"/>
+        <Channel index="2" name="green" value="127"/>
+      </Fixture>
+      <Fixture id="1664016598">
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1663958226">
+        <Channel index="1" name="red" value="255"/>
+      </Fixture>
+    </Step>
+    <Step length="100">
+      <Fixture id="1664016596">
+        <Channel index="1" name="red" value="255"/>
+        <Channel index="2" name="green" value="255"/>
+      </Fixture>
+      <Fixture id="1664016597">
+        <Channel index="1" name="red" value="255"/>
+        <Channel index="2" name="green" value="255"/>
+      </Fixture>
+      <Fixture id="1664016598">
+        <Channel index="1" name="red" value="255"/>
+        <Channel index="2" name="green" value="127"/>
+      </Fixture>
+      <Fixture id="1663958226">
+        <Channel index="1" name="red" value="255"/>
+        <Channel index="2" name="green" value="127"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

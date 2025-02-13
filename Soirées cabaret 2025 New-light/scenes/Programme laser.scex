@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1664051139" name="Laser" model="Scorpion Dual RGB ILS"/>
+  </Fixtures>
+  <Steps>
+    <Step length="500">
+      <Fixture id="1664051139">
+        <Channel index="0" name="mode" value="23"/>
+        <Channel index="1" name="pattern" value="192"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

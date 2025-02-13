@@ -1,0 +1,47 @@
+﻿ViewType = VIEW_TYPE_COLOR_CHANGER
+ViewPower = VIEW_POWER_LAMP250W
+ViewAnglePan = 120
+ViewAngleTilt = 90
+ViewAngleBeam = 15
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 16777215
+3DViewShape = 
+2DViewImage = Chauvet/PRO/Colordash S-Par 1-2D.png
+
+Channel = dimmer
+ dimmer,0,255 
+
+Channel = red
+ dimmer,0,255 
+
+Channel = green
+ dimmer,0,255 
+
+Channel = blue
+ dimmer,0,255 
+
+Channel = white
+ dimmer,0,255 
+
+Channel = color_macro
+ no_function,0,10 red_100-green_up-blue_0,11,30 red_down-green_100-blue_0,31,50 red_0-green_100-blue_up,51,70 red_0-green_down-blue-100,71,90 red_up-green_0-blue_100,91,110 red_100-green_0-blue_down,111,130 red_100-green_up-blue_up,131,150 red_down-green_down-blue_100,151,170 red_100-green_100-blue_100-white_100,171,190 2700K,191,200 3000K,201,205 3200K,206,210 3500K,211,215 4000K,216,220 4200K,221,225 4500K,226,230 5600K,231,235 6000K,236,240 6500K,241,245 7200K,246,250 8000K,251,255 
+
+Channel = strobe_effect
+ no_function,0,9 ?,10,254 pulse_strobe,255,255 
+
+Channel = control
+ no_function,0,99 Internal Program01,100,119 Internal Program02,120,139 Internal Program03,140,159 Internal Program04,160,179 Internal Program05,180,199 Internal Program06,200,219 Internal Program07,220,239 Sound control,240,255 
+
+Channel = Color Temp
+ no_function,0,5 Warm White 1,6,25 Warm White 2,26,50 Warm White 3,51,75 Neutral White 1,76,100 Neutral White 2,101,125 Neutral White 3,126,150 Daylight 1,151,175 Daylight 2,176,200 Daylight 3,201,225 Moving Head White,226,250 no_function,251,255 
+
+Channel = zoom
+ zoom,0,255 
+
+Channel = ?
+
+Channel = ?
+

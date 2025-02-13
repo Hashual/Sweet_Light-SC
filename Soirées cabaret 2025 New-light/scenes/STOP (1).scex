@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures/>
+  <Steps>
+    <Step length="500"/>
+  </Steps>
+</Scene>

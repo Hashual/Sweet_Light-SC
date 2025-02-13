@@ -1,0 +1,49 @@
+﻿ViewType = VIEW_TYPE_NOTHING
+ViewPower = VIEW_POWER_LED30W
+ViewAnglePan = 120
+ViewAngleTilt = 90
+ViewAngleBeam = 16
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 16777215
+3DViewShape = 
+2DViewImage = Chauvet/DJ/Abyss USB.png
+
+Channel = mode
+ lamp_off,0,63 audio,64,127 auto1,128,159 auto2,160,191 dmx,192,255 
+
+Channel = pattern
+ Graphics patterns,0,87 Beam patterns,88,253 closed,254,255 
+
+Channel = shutter
+ open,0,0 strobe,1,255 
+
+Channel = pan
+ index,0,167 Movement left to right (slow to fast),168,188 Movement right to left,189,209 Movement left to right,210,254 stop,255,255 
+
+Channel = tilt
+ index,0,167 Movement top to bottom (slow to fast),168,188 Movement bottom to top,189,209 Movement top to bottom,210,254 stop,255,255 
+
+Channel = zoom
+ no_function,0,10 index,11,104 Small to big (increasing speed),105,154 Big to small (increasing speed),155,204 Big <--> small (increasing speed),205,254 Opposite zoom of X- and Y-axis,255,255 
+
+Channel = tilt_continuous
+ index,0,150 rotate,151,255 
+
+Channel = pan_continuous
+ index,0,150 rotate,151,255 
+
+Channel = z
+ index,0,180 right_rotate,181,217 left_rotate,218,255 
+
+Channel = Blanking
+ no_function,0,70 Dot visibility (fast to slow),71,139 Dashed lines,140,209 Point selection,210,255 
+
+Channel = Sinus Movement
+ index,0,127 Left to right (fast to slow),128,191 Right to left (fast to slow),192,255 
+
+Channel = color
+ white,0,0 red,20,20 green,40,40 blue,60,60 yellow,80,80 purple,100,100 cyan,120,120 Multi-colour,139,164 Changing multi-color (fast to slow),165,248 Changing multi-color 2,249,254 Multi-color 2 (no red),255,255 
+

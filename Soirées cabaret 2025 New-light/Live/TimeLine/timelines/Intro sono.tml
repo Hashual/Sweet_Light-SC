@@ -1,0 +1,600 @@
+﻿
+[Params]
+Version = 0.2
+CommentTimeLine = 0
+LightTimeLines = 20
+MediaTimeLines = 1
+ShowWaveForm = 1
+MaxTime = 0:30:00
+Zoom = 0
+TimeLine_1 = V I D E O   P I C T U R E   T I M E L I N E
+TimeLine_2 = A U D I O   T I M E L I N E
+TimeLine_3 = LYRES COULEUR 1
+TimeLine_4 = LYRES COULEUR 2
+TimeLine_5 = LYRES MOUVEMENT 1
+TimeLine_6 = LYRES MOUVEMENT 2
+TimeLine_7 = LYRES DIMMER 1
+TimeLine_8 = LYRES DIMMER 2
+TimeLine_9 = LIVEKOLOR COULEUR
+TimeLine_10 = LIVEKOLOR EFFECT
+TimeLine_11 = LIVEKOLOR DIMMER
+TimeLine_12 = SCENE EFFECTS
+TimeLine_13 = PC DANSE
+TimeLine_14 = FUMÉE
+TimeLine_15 = DIMMER SALLE
+TimeLine_16 = COULEUR SALLE
+TimeLine_17 = Birdy 1
+TimeLine_18 = Birdy 2
+TimeLine_19 = Birdy 3
+TimeLine_20 = HPE 700 1
+TimeLine_21 = HPE 700 2
+TimeLine_22 = HPE 700 3
+[Event_0]
+TimeLineIndex = 15
+StartTime = 0:00:00.0
+Path = HPE 700 balayement salle.gpj
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_1]
+TimeLineIndex = 16
+StartTime = 0:00:00.0
+Path = HPE 700 jaune.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_2]
+TimeLineIndex = 5
+StartTime = 0:00:00.0
+Path = LYRES balayment  salle.gpj
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_3]
+TimeLineIndex = 4
+StartTime = 0:00:00.0
+Path = LYRES Orange.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_4]
+TimeLineIndex = 2
+StartTime = 0:00:00.7
+Path = musiques/Intro sono.wav
+Length = 0:01:30.0
+[Event_5]
+TimeLineIndex = 14
+StartTime = 0:00:02.4
+Path = HPE 700 Dimmer in 1.5s.scex
+Length = 0:00:01.5
+Speed = 100
+SpeedType = 2
+[Event_6]
+TimeLineIndex = 17
+StartTime = 0:00:11.7
+Path = Birdy rouge.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_7]
+TimeLineIndex = 18
+StartTime = 0:00:11.7
+Path = Birdy dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_8]
+TimeLineIndex = 8
+StartTime = 0:00:11.9
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_9]
+TimeLineIndex = 8
+StartTime = 0:00:20.2
+Path = OFF
+[Event_10]
+TimeLineIndex = 14
+StartTime = 0:00:20.2
+Path = OFF
+[Event_11]
+TimeLineIndex = 15
+StartTime = 0:00:20.2
+Path = OFF
+[Event_12]
+TimeLineIndex = 5
+StartTime = 0:00:20.2
+Path = LYRES plafond.scex
+Length = 0:00:02.0
+Speed = 100
+SpeedType = 2
+[Event_13]
+TimeLineIndex = 6
+StartTime = 0:00:20.2
+Path = HPE 700 placement plafond.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_14]
+TimeLineIndex = 18
+StartTime = 0:00:20.3
+Path = OFF
+[Event_15]
+TimeLineIndex = 21
+StartTime = 0:00:21.0
+Path = Birdy positions aléatoires.gpj
+Length = 0:00:10.0
+Speed = 100
+SpeedType = 2
+[Event_16]
+TimeLineIndex = 18
+StartTime = 0:00:21.0
+Path = Birdy dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_17]
+TimeLineIndex = 20
+StartTime = 0:00:21.0
+Path = Birdy gobo 1.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_18]
+TimeLineIndex = 19
+StartTime = 0:00:21.0
+Path = Birdy dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_19]
+TimeLineIndex = 8
+StartTime = 0:00:21.2
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_20]
+TimeLineIndex = 14
+StartTime = 0:00:21.2
+Path = HPE 700 Dimmer.scex
+Length = 0:00:03.0
+Speed = 100
+SpeedType = 2
+[Event_21]
+TimeLineIndex = 8
+StartTime = 0:00:21.4
+Path = OFF
+[Event_22]
+TimeLineIndex = 14
+StartTime = 0:00:21.4
+Path = OFF
+[Event_23]
+TimeLineIndex = 8
+StartTime = 0:00:22.7
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_24]
+TimeLineIndex = 14
+StartTime = 0:00:22.7
+Path = HPE 700 Dimmer.scex
+Length = 0:00:03.0
+Speed = 100
+SpeedType = 2
+[Event_25]
+TimeLineIndex = 8
+StartTime = 0:00:22.9
+Path = OFF
+[Event_26]
+TimeLineIndex = 14
+StartTime = 0:00:22.9
+Path = OFF
+[Event_27]
+TimeLineIndex = 8
+StartTime = 0:00:24.6
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_28]
+TimeLineIndex = 14
+StartTime = 0:00:24.6
+Path = HPE 700 Dimmer.scex
+Length = 0:00:03.0
+Speed = 100
+SpeedType = 2
+[Event_29]
+TimeLineIndex = 8
+StartTime = 0:00:24.8
+Path = OFF
+[Event_30]
+TimeLineIndex = 14
+StartTime = 0:00:24.8
+Path = OFF
+[Event_31]
+TimeLineIndex = 8
+StartTime = 0:00:26.6
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_32]
+TimeLineIndex = 14
+StartTime = 0:00:26.6
+Path = HPE 700 Dimmer.scex
+Length = 0:00:03.0
+Speed = 100
+SpeedType = 2
+[Event_33]
+TimeLineIndex = 14
+StartTime = 0:00:26.8
+Path = OFF
+[Event_34]
+TimeLineIndex = 8
+StartTime = 0:00:26.8
+Path = OFF
+[Event_35]
+TimeLineIndex = 13
+StartTime = 0:00:28.0
+Path = PC.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_36]
+TimeLineIndex = 13
+StartTime = 0:00:28.3
+Path = OFF
+[Event_37]
+TimeLineIndex = 13
+StartTime = 0:00:29.0
+Path = PC.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_38]
+TimeLineIndex = 13
+StartTime = 0:00:29.3
+Path = OFF
+[Event_39]
+TimeLineIndex = 13
+StartTime = 0:00:30.0
+Path = PC.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_40]
+TimeLineIndex = 14
+StartTime = 0:00:30.3
+Path = HPE 700 Dimmer.scex
+Length = 0:00:03.0
+Speed = 100
+SpeedType = 2
+[Event_41]
+TimeLineIndex = 8
+StartTime = 0:00:30.3
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_42]
+TimeLineIndex = 13
+StartTime = 0:00:30.3
+Path = OFF
+[Event_43]
+TimeLineIndex = 14
+StartTime = 0:00:30.5
+Path = OFF
+[Event_44]
+TimeLineIndex = 8
+StartTime = 0:00:30.5
+Path = OFF
+[Event_45]
+TimeLineIndex = 13
+StartTime = 0:00:31.0
+Path = PC.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_46]
+TimeLineIndex = 13
+StartTime = 0:00:31.3
+Path = OFF
+[Event_47]
+TimeLineIndex = 14
+StartTime = 0:00:32.0
+Path = HPE 700 Dimmer.scex
+Length = 0:00:03.0
+Speed = 100
+SpeedType = 2
+[Event_48]
+TimeLineIndex = 8
+StartTime = 0:00:32.0
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_49]
+TimeLineIndex = 13
+StartTime = 0:00:32.0
+Path = PC.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_50]
+TimeLineIndex = 14
+StartTime = 0:00:32.2
+Path = OFF
+[Event_51]
+TimeLineIndex = 8
+StartTime = 0:00:32.2
+Path = OFF
+[Event_52]
+TimeLineIndex = 13
+StartTime = 0:00:32.3
+Path = OFF
+[Event_53]
+TimeLineIndex = 13
+StartTime = 0:00:33.0
+Path = PC.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_54]
+TimeLineIndex = 13
+StartTime = 0:00:33.3
+Path = OFF
+[Event_55]
+TimeLineIndex = 14
+StartTime = 0:00:33.9
+Path = HPE 700 Dimmer.scex
+Length = 0:00:03.0
+Speed = 100
+SpeedType = 2
+[Event_56]
+TimeLineIndex = 8
+StartTime = 0:00:33.9
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_57]
+TimeLineIndex = 13
+StartTime = 0:00:34.0
+Path = PC.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_58]
+TimeLineIndex = 14
+StartTime = 0:00:34.1
+Path = OFF
+[Event_59]
+TimeLineIndex = 8
+StartTime = 0:00:34.1
+Path = OFF
+[Event_60]
+TimeLineIndex = 13
+StartTime = 0:00:34.3
+Path = OFF
+[Event_61]
+TimeLineIndex = 13
+StartTime = 0:00:35.0
+Path = PC.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_62]
+TimeLineIndex = 13
+StartTime = 0:00:35.3
+Path = OFF
+[Event_63]
+TimeLineIndex = 21
+StartTime = 0:00:36.5
+Path = OFF
+[Event_64]
+TimeLineIndex = 18
+StartTime = 0:00:36.5
+Path = OFF
+[Event_65]
+TimeLineIndex = 19
+StartTime = 0:00:36.5
+Path = OFF
+[Event_66]
+TimeLineIndex = 17
+StartTime = 0:00:36.5
+Path = OFF
+[Event_67]
+TimeLineIndex = 16
+StartTime = 0:00:36.5
+Path = OFF
+[Event_68]
+TimeLineIndex = 20
+StartTime = 0:00:36.5
+Path = OFF
+[Event_69]
+TimeLineIndex = 7
+StartTime = 0:00:36.7
+Path = LYRES Chenillard (salles (8)).scex
+Length = 0:00:01.9
+Speed = 100
+SpeedType = 2
+[Event_70]
+TimeLineIndex = 6
+StartTime = 0:00:36.7
+Path = OFF
+[Event_71]
+TimeLineIndex = 5
+StartTime = 0:00:36.7
+Path = OFF
+[Event_72]
+TimeLineIndex = 4
+StartTime = 0:00:36.7
+Path = OFF
+[Event_73]
+TimeLineIndex = 8
+StartTime = 0:00:36.7
+Path = LYRES Couleurs chaudes (salle (8)).scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_74]
+TimeLineIndex = 13
+StartTime = 0:00:36.7
+Path = LYRES Plafond (salle (8)).scex
+Length = 0:00:02.0
+Speed = 100
+SpeedType = 2
+[Event_75]
+TimeLineIndex = 7
+StartTime = 0:00:44.1
+Path = STROB Complet sans positions et couleur.scex
+Length = 0:00:00.2
+Speed = 100
+SpeedType = 2
+[Event_76]
+TimeLineIndex = 9
+StartTime = 0:00:49.4
+Path = HPE 700 placement mur.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_77]
+TimeLineIndex = 11
+StartTime = 0:00:49.4
+Path = HPE 700 gobo rotatif 4 multicouleurs.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_78]
+TimeLineIndex = 10
+StartTime = 0:00:51.2
+Path = HPE 700 Dimmer.scex
+Length = 0:00:03.0
+Speed = 100
+SpeedType = 2
+[Event_79]
+TimeLineIndex = 17
+StartTime = 0:00:51.2
+Path = Birdy multicouleurs.scex
+Length = 0:00:10.0
+Speed = 100
+SpeedType = 2
+[Event_80]
+TimeLineIndex = 18
+StartTime = 0:00:51.2
+Path = Birdy dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_81]
+TimeLineIndex = 19
+StartTime = 0:00:51.2
+Path = Birdy dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_82]
+TimeLineIndex = 20
+StartTime = 0:00:51.2
+Path = Birdy gobo 1.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_83]
+TimeLineIndex = 21
+StartTime = 0:00:51.2
+Path = Birdy positions aléatoires.gpj
+Length = 0:00:10.0
+Speed = 100
+SpeedType = 2
+[Event_84]
+TimeLineIndex = 6
+StartTime = 0:00:51.2
+Path = LYRES Mouvement circle salle.gpj
+Length = 0:00:10.0
+Speed = 100
+SpeedType = 2
+[Event_85]
+TimeLineIndex = 7
+StartTime = 0:00:51.2
+Path = OFF
+[Event_86]
+TimeLineIndex = 8
+StartTime = 0:00:51.2
+Path = OFF
+[Event_87]
+TimeLineIndex = 5
+StartTime = 0:00:51.2
+Path = LYRES dimmer continu salle.scex
+Length = 0:00:08.0
+Speed = 100
+SpeedType = 2
+[Event_88]
+TimeLineIndex = 4
+StartTime = 0:00:51.2
+Path = LYRES Multicouleurs.scex
+Length = 0:00:06.0
+Speed = 100
+SpeedType = 2
+[Event_89]
+TimeLineIndex = 12
+StartTime = 0:00:51.3
+Path = HPE 700 Iris open-close moyen.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_90]
+TimeLineIndex = 13
+StartTime = 0:00:51.5
+Path = OFF
+[Event_91]
+TimeLineIndex = 4
+StartTime = 0:01:30.7
+Path = OFF
+[Event_92]
+TimeLineIndex = 5
+StartTime = 0:01:30.7
+Path = OFF
+[Event_93]
+TimeLineIndex = 6
+StartTime = 0:01:30.7
+Path = OFF
+[Event_94]
+TimeLineIndex = 11
+StartTime = 0:01:30.7
+Path = OFF
+[Event_95]
+TimeLineIndex = 10
+StartTime = 0:01:30.7
+Path = OFF
+[Event_96]
+TimeLineIndex = 17
+StartTime = 0:01:30.7
+Path = OFF
+[Event_97]
+TimeLineIndex = 18
+StartTime = 0:01:30.7
+Path = OFF
+[Event_98]
+TimeLineIndex = 19
+StartTime = 0:01:30.7
+Path = OFF
+[Event_99]
+TimeLineIndex = 20
+StartTime = 0:01:30.7
+Path = OFF
+[Event_100]
+TimeLineIndex = 21
+StartTime = 0:01:30.7
+Path = OFF
+[Event_101]
+TimeLineIndex = 9
+StartTime = 0:01:30.7
+Path = OFF
+[Event_102]
+TimeLineIndex = 12
+StartTime = 0:01:30.7
+Path = OFF

@@ -1,0 +1,622 @@
+﻿
+[Params]
+Version = 0.2
+CommentTimeLine = 0
+LightTimeLines = 15
+MediaTimeLines = 1
+ShowWaveForm = 1
+MaxTime = 0:30:00
+Zoom = 0
+TimeLine_1 = V I D E O   P I C T U R E   T I M E L I N E
+TimeLine_2 = A U D I O   T I M E L I N E
+TimeLine_3 = L I G H T   S C E N E   T I M E L I N E   #   1
+TimeLine_4 = L I G H T   S C E N E   T I M E L I N E   #   2
+TimeLine_5 = L I G H T   S C E N E   T I M E L I N E   #   3
+TimeLine_6 = L I G H T   S C E N E   T I M E L I N E   #   4
+TimeLine_7 = L I G H T   S C E N E   T I M E L I N E   #   5
+TimeLine_8 = L I G H T   S C E N E   T I M E L I N E   #   6
+TimeLine_9 = L I G H T   S C E N E   T I M E L I N E   #   7
+TimeLine_10 = L I G H T   S C E N E   T I M E L I N E   #   8
+TimeLine_11 = L I G H T   S C E N E   T I M E L I N E   #   9
+TimeLine_12 = L I G H T   S C E N E   T I M E L I N E   #   10
+TimeLine_13 = L I G H T   S C E N E   T I M E L I N E   #   11
+TimeLine_14 = L I G H T   S C E N E   T I M E L I N E   #   12
+TimeLine_15 = L I G H T   S C E N E   T I M E L I N E   #   13
+TimeLine_16 = L I G H T   S C E N E   T I M E L I N E   #   14
+TimeLine_17 = L I G H T   S C E N E   T I M E L I N E   #   15
+[Event_0]
+TimeLineIndex = 7
+StartTime = 0:00:00.0
+Path = Eclairage salle blanc.scex
+Length = 0:00:02.0
+Speed = 100
+SpeedType = 2
+[Event_1]
+TimeLineIndex = 2
+StartTime = 0:00:00.3
+Path = C:/Users/dodo2/Desktop/Musiques programmes/final SC2024.wav
+Length = 0:05:55.0
+[Event_2]
+TimeLineIndex = 8
+StartTime = 0:00:00.8
+Path = LYRES dimmer continu salle.scex
+Length = 0:00:08.0
+Speed = 100
+SpeedType = 2
+[Event_3]
+TimeLineIndex = 8
+StartTime = 0:00:01.0
+Path = OFF
+[Event_4]
+TimeLineIndex = 8
+StartTime = 0:00:01.2
+Path = LYRES dimmer continu salle.scex
+Length = 0:00:08.0
+Speed = 100
+SpeedType = 2
+[Event_5]
+TimeLineIndex = 8
+StartTime = 0:00:01.4
+Path = OFF
+[Event_6]
+TimeLineIndex = 8
+StartTime = 0:00:01.6
+Path = LYRES dimmer continu salle.scex
+Length = 0:00:08.0
+Speed = 100
+SpeedType = 2
+[Event_7]
+TimeLineIndex = 8
+StartTime = 0:00:01.9
+Path = OFF
+[Event_8]
+TimeLineIndex = 7
+StartTime = 0:00:02.2
+Path = Eclairage salle jaune.scex
+Length = 0:00:02.0
+Speed = 100
+SpeedType = 2
+[Event_9]
+TimeLineIndex = 8
+StartTime = 0:00:03.1
+Path = LYRES dimmer continu salle.scex
+Length = 0:00:08.0
+Speed = 100
+SpeedType = 2
+[Event_10]
+TimeLineIndex = 8
+StartTime = 0:00:03.3
+Path = OFF
+[Event_11]
+TimeLineIndex = 8
+StartTime = 0:00:03.5
+Path = LYRES dimmer continu salle.scex
+Length = 0:00:08.0
+Speed = 100
+SpeedType = 2
+[Event_12]
+TimeLineIndex = 8
+StartTime = 0:00:03.7
+Path = OFF
+[Event_13]
+TimeLineIndex = 8
+StartTime = 0:00:03.9
+Path = LYRES dimmer continu salle.scex
+Length = 0:00:08.0
+Speed = 100
+SpeedType = 2
+[Event_14]
+TimeLineIndex = 8
+StartTime = 0:00:04.2
+Path = OFF
+[Event_15]
+TimeLineIndex = 7
+StartTime = 0:00:04.5
+Path = Eclairage salle blanc.scex
+Length = 0:00:02.0
+Speed = 100
+SpeedType = 2
+[Event_16]
+TimeLineIndex = 8
+StartTime = 0:00:05.1
+Path = LYRES dimmer continu salle.scex
+Length = 0:00:08.0
+Speed = 100
+SpeedType = 2
+[Event_17]
+TimeLineIndex = 3
+StartTime = 0:00:05.1
+Path = PC (danses).scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_18]
+TimeLineIndex = 8
+StartTime = 0:00:05.3
+Path = OFF
+[Event_19]
+TimeLineIndex = 8
+StartTime = 0:00:05.5
+Path = LYRES dimmer continu salle.scex
+Length = 0:00:08.0
+Speed = 100
+SpeedType = 2
+[Event_20]
+TimeLineIndex = 8
+StartTime = 0:00:05.7
+Path = OFF
+[Event_21]
+TimeLineIndex = 8
+StartTime = 0:00:05.9
+Path = LYRES dimmer continu salle.scex
+Length = 0:00:08.0
+Speed = 100
+SpeedType = 2
+[Event_22]
+TimeLineIndex = 8
+StartTime = 0:00:06.2
+Path = OFF
+[Event_23]
+TimeLineIndex = 7
+StartTime = 0:00:06.2
+Path = Eclairage salle jaune.scex
+Length = 0:00:02.0
+Speed = 100
+SpeedType = 2
+[Event_24]
+TimeLineIndex = 8
+StartTime = 0:00:06.4
+Path = LYRES dimmer continu salle.scex
+Length = 0:00:08.0
+Speed = 100
+SpeedType = 2
+[Event_25]
+TimeLineIndex = 8
+StartTime = 0:00:06.6
+Path = OFF
+[Event_26]
+TimeLineIndex = 8
+StartTime = 0:00:06.8
+Path = LYRES dimmer continu salle.scex
+Length = 0:00:08.0
+Speed = 100
+SpeedType = 2
+[Event_27]
+TimeLineIndex = 8
+StartTime = 0:00:07.0
+Path = OFF
+[Event_28]
+TimeLineIndex = 8
+StartTime = 0:00:07.2
+Path = LYRES dimmer continu salle.scex
+Length = 0:00:08.0
+Speed = 100
+SpeedType = 2
+[Event_29]
+TimeLineIndex = 8
+StartTime = 0:00:07.4
+Path = OFF
+[Event_30]
+TimeLineIndex = 8
+StartTime = 0:00:07.6
+Path = LYRES dimmer continu salle.scex
+Length = 0:00:08.0
+Speed = 100
+SpeedType = 2
+[Event_31]
+TimeLineIndex = 8
+StartTime = 0:00:07.9
+Path = OFF
+[Event_32]
+TimeLineIndex = 8
+StartTime = 0:00:08.2
+Path = LYRES dimmer continu salle.scex
+Length = 0:00:08.0
+Speed = 100
+SpeedType = 2
+[Event_33]
+TimeLineIndex = 8
+StartTime = 0:00:08.4
+Path = OFF
+[Event_34]
+TimeLineIndex = 8
+StartTime = 0:00:08.5
+Path = LYRES dimmer continu salle.scex
+Length = 0:00:08.0
+Speed = 100
+SpeedType = 2
+[Event_35]
+TimeLineIndex = 8
+StartTime = 0:00:08.6
+Path = OFF
+[Event_36]
+TimeLineIndex = 6
+StartTime = 0:00:08.7
+Path = LYRES Mouvement circle salle (6 appareils).gpj
+Length = 0:00:10.0
+Speed = 100
+SpeedType = 2
+[Event_37]
+TimeLineIndex = 7
+StartTime = 0:00:08.8
+Path = LYRES Blanc et jaune.scex
+Length = 0:00:07.5
+Speed = 100
+SpeedType = 2
+[Event_38]
+TimeLineIndex = 5
+StartTime = 0:00:08.8
+Path = LYRES Placement scène en ligne.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_39]
+TimeLineIndex = 8
+StartTime = 0:00:09.4
+Path = LYRES dimmer continu salle.scex
+Length = 0:00:08.0
+Speed = 100
+SpeedType = 2
+[Event_40]
+TimeLineIndex = 8
+StartTime = 0:00:39.2
+Path = LYRES Dimmer out salle 4sec.scex
+Length = 0:00:22.1
+Speed = 100
+SpeedType = 2
+[Event_41]
+TimeLineIndex = 8
+StartTime = 0:00:41.6
+Path = OFF
+[Event_42]
+TimeLineIndex = 6
+StartTime = 0:00:41.6
+Path = OFF
+[Event_43]
+TimeLineIndex = 7
+StartTime = 0:00:41.6
+Path = LYRES Cyan Jaune ( 1 4 5 6).scex
+Length = 0:00:07.5
+Speed = 100
+SpeedType = 2
+[Event_44]
+TimeLineIndex = 9
+StartTime = 0:00:41.6
+Path = OFF
+[Event_45]
+TimeLineIndex = 3
+StartTime = 0:00:41.6
+Path = OFF
+[Event_46]
+TimeLineIndex = 10
+StartTime = 0:00:41.6
+Path = OFF
+[Event_47]
+TimeLineIndex = 5
+StartTime = 0:00:41.6
+Path = OFF
+[Event_48]
+TimeLineIndex = 6
+StartTime = 0:00:41.7
+Path = LYRES Mouvement crown salle (6 appareils).gpj
+Length = 0:00:10.0
+Speed = 100
+SpeedType = 2
+[Event_49]
+TimeLineIndex = 5
+StartTime = 0:00:41.8
+Path = LYRES Fond de salle (2 3).scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_50]
+TimeLineIndex = 8
+StartTime = 0:00:41.9
+Path = LYRES dimmer continu salle.scex
+Length = 0:00:08.0
+Speed = 100
+SpeedType = 2
+[Event_51]
+TimeLineIndex = 8
+StartTime = 0:01:12.5
+Path = LYRES Dimmer out salle 4sec.scex
+Length = 0:00:22.1
+Speed = 100
+SpeedType = 2
+[Event_52]
+TimeLineIndex = 6
+StartTime = 0:01:15.0
+Path = LYRES Mouvement circle salle (6 appareils).gpj
+Length = 0:00:10.0
+Speed = 100
+SpeedType = 2
+[Event_53]
+TimeLineIndex = 7
+StartTime = 0:01:15.0
+Path = LYRES Violet Cyan sans (2 3).scex
+Length = 0:00:07.5
+Speed = 100
+SpeedType = 2
+[Event_54]
+TimeLineIndex = 5
+StartTime = 0:01:15.1
+Path = LYRES eclairage sono (2 3).scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_55]
+TimeLineIndex = 8
+StartTime = 0:01:15.3
+Path = LYRES Dimmer interrompu (6 appareils).gpj
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_56]
+TimeLineIndex = 9
+StartTime = 0:01:33.8
+Path = LYRES Strob 2-3.scex
+Length = 0:00:00.4
+Speed = 100
+SpeedType = 2
+[Event_57]
+TimeLineIndex = 8
+StartTime = 0:01:38.6
+Path = LYRES Dimmer out salle 4sec.scex
+Length = 0:00:22.1
+Speed = 100
+SpeedType = 2
+[Event_58]
+TimeLineIndex = 9
+StartTime = 0:01:38.6
+Path = OFF
+[Event_59]
+TimeLineIndex = 5
+StartTime = 0:01:40.9
+Path = OFF
+[Event_60]
+TimeLineIndex = 7
+StartTime = 0:01:40.9
+Path = LYRES Orange Violet sans (2 3).scex
+Length = 0:00:07.5
+Speed = 100
+SpeedType = 2
+[Event_61]
+TimeLineIndex = 8
+StartTime = 0:01:40.9
+Path = LYRES Dimmer(6).scex
+Length = 0:00:10.0
+Speed = 100
+SpeedType = 2
+[Event_62]
+TimeLineIndex = 6
+StartTime = 0:01:40.9
+Path = LYRES Mouvement crown salle (6 appareils).gpj
+Length = 0:00:10.0
+Speed = 100
+SpeedType = 2
+[Event_63]
+TimeLineIndex = 5
+StartTime = 0:01:41.0
+Path = LYRES Placement devant scene gauche (2 3).scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_64]
+TimeLineIndex = 7
+StartTime = 0:01:58.6
+Path = LYRES Bleu.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_65]
+TimeLineIndex = 7
+StartTime = 0:02:00.3
+Path = LYRES Orange Violet.scex
+Length = 0:00:07.5
+Speed = 100
+SpeedType = 2
+[Event_66]
+TimeLineIndex = 7
+StartTime = 0:02:03.5
+Path = LYRES Jaune.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_67]
+TimeLineIndex = 7
+StartTime = 0:02:05.4
+Path = LYRES Orange Violet.scex
+Length = 0:00:07.5
+Speed = 100
+SpeedType = 2
+[Event_68]
+TimeLineIndex = 7
+StartTime = 0:02:08.4
+Path = LYRES Bleu.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_69]
+TimeLineIndex = 7
+StartTime = 0:02:10.4
+Path = LYRES Orange Violet.scex
+Length = 0:00:07.5
+Speed = 100
+SpeedType = 2
+[Event_70]
+TimeLineIndex = 7
+StartTime = 0:02:13.3
+Path = LYRES Jaune.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_71]
+TimeLineIndex = 7
+StartTime = 0:02:15.5
+Path = LYRES Orange Violet.scex
+Length = 0:00:07.5
+Speed = 100
+SpeedType = 2
+[Event_72]
+TimeLineIndex = 8
+StartTime = 0:02:18.6
+Path = LYRES Dimmer out salle 4sec.scex
+Length = 0:00:22.1
+Speed = 100
+SpeedType = 2
+[Event_73]
+TimeLineIndex = 7
+StartTime = 0:02:18.6
+Path = LYRES Bleu.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_74]
+TimeLineIndex = 5
+StartTime = 0:02:20.8
+Path = OFF
+[Event_75]
+TimeLineIndex = 8
+StartTime = 0:02:20.8
+Path = OFF
+[Event_76]
+TimeLineIndex = 6
+StartTime = 0:02:20.8
+Path = LYRES Mouvement circle salle (6 appareils).gpj
+Length = 0:00:10.0
+Speed = 100
+SpeedType = 2
+[Event_77]
+TimeLineIndex = 7
+StartTime = 0:02:20.8
+Path = LYRES Rouge Orange sans (2 3).scex
+Length = 0:00:06.6
+Speed = 100
+SpeedType = 2
+[Event_78]
+TimeLineIndex = 5
+StartTime = 0:02:20.9
+Path = LYRES Placement devant scene droit (2 3).scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_79]
+TimeLineIndex = 8
+StartTime = 0:02:21.1
+Path = LYRES dimmer continu salle.scex
+Length = 0:00:08.0
+Speed = 100
+SpeedType = 2
+[Event_80]
+TimeLineIndex = 8
+StartTime = 0:03:00.4
+Path = LYRES Dimmer out salle 4sec.scex
+Length = 0:00:22.1
+Speed = 100
+SpeedType = 2
+[Event_81]
+TimeLineIndex = 7
+StartTime = 0:03:02.8
+Path = LYRES Rouge Turquoise.scex
+Length = 0:00:07.5
+Speed = 100
+SpeedType = 2
+[Event_82]
+TimeLineIndex = 8
+StartTime = 0:03:02.8
+Path = OFF
+[Event_83]
+TimeLineIndex = 6
+StartTime = 0:03:02.8
+Path = LYRES Mouvement circle salle lent.gpj
+Length = 0:00:15.0
+Speed = 100
+SpeedType = 2
+[Event_84]
+TimeLineIndex = 5
+StartTime = 0:03:02.8
+Path = OFF
+[Event_85]
+TimeLineIndex = 8
+StartTime = 0:03:03.4
+Path = LYRES Dimmer continu salle progressif.scex
+Length = 0:00:08.0
+Speed = 100
+SpeedType = 2
+[Event_86]
+TimeLineIndex = 8
+StartTime = 0:03:07.7
+Path = LYRES dimmer continu salle.scex
+Length = 0:00:08.0
+Speed = 100
+SpeedType = 2
+[Event_87]
+TimeLineIndex = 8
+StartTime = 0:03:43.1
+Path = OFF
+[Event_88]
+TimeLineIndex = 6
+StartTime = 0:03:43.1
+Path = LYRES Mouvement circle salle (6 appareils).gpj
+Length = 0:00:10.0
+Speed = 100
+SpeedType = 2
+[Event_89]
+TimeLineIndex = 4
+StartTime = 0:03:43.1
+Path = PC.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_90]
+TimeLineIndex = 8
+StartTime = 0:03:43.2
+Path = LYRES Dimmer interrompu (6 appareils).gpj
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_91]
+TimeLineIndex = 9
+StartTime = 0:04:13.5
+Path = LIVEKOLOR Chenillard cyan.scex
+Length = 0:00:00.6
+Speed = 100
+SpeedType = 2
+[Event_92]
+TimeLineIndex = 5
+StartTime = 0:04:44.2
+Path = LYRES Placement scène en ligne.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_93]
+TimeLineIndex = 5
+StartTime = 0:05:18.6
+Path = LYRES Mouvement circle scène.gpj
+Length = 0:00:03.0
+Speed = 100
+SpeedType = 2
+[Event_94]
+TimeLineIndex = 7
+StartTime = 0:05:53.1
+Path = OFF
+[Event_95]
+TimeLineIndex = 5
+StartTime = 0:05:53.1
+Path = OFF
+[Event_96]
+TimeLineIndex = 6
+StartTime = 0:05:53.1
+Path = OFF
+[Event_97]
+TimeLineIndex = 8
+StartTime = 0:05:53.1
+Path = OFF
+[Event_98]
+TimeLineIndex = 9
+StartTime = 0:05:53.1
+Path = OFF
+[Event_99]
+TimeLineIndex = 4
+StartTime = 0:05:53.1
+Path = OFF

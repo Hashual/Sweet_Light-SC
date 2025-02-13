@@ -1,0 +1,39 @@
+﻿ViewType = VIEW_TYPE_COLOR_CHANGER
+ViewPower = VIEW_POWER_LED30W
+ViewAnglePan = 120
+ViewAngleTilt = 90
+ViewAngleBeam = 5
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 16777215
+2DViewImage = Chauvet/PRO/Colorado 1 Solo - FRONT.png
+
+Channel = dimmer
+ dimmer,0,255
+
+Channel = Hue
+ dimmer,0,255
+
+Channel = Hue Fine
+ dimmer,0,255
+
+Channel = Saturation
+ dimmer,0,255
+
+Channel = color_macro
+ no_function,0,10 2700k,11,30 3000k,31,50 3200k,51,70 3500k,71,90 4000k,91,110 4200k,111,130 4500k,131,150 5600k,151,170 6000k,171,190 6500k,191,210 7200k,211,230 8000k,231,255
+
+Channel = strobe_effect
+ no_function,0,9 Slow to fast,10,99 no_function,100,109 Lightning Strobe,110,179 no_function,180,189 Random Strobe,190,255
+
+Channel = zoom
+ dimmer,0,255
+
+Channel = Zoom Control
+ no_function,0,200 Zoom Reset,201,220 no_function,221,255
+
+Channel = Dimmer Speed
+ no_function,0,9 Dimmer Off,10,29 Dimmer 1,30,69 Dimmer 2,70,129 Dimmer 3,130,189 Dimmer 4,190,255
+

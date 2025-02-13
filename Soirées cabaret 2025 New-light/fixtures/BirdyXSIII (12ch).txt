@@ -1,0 +1,43 @@
+﻿ViewType = VIEW_TYPE_HEAD
+ViewPower = VIEW_POWER_LED30W
+ViewAnglePan = 540
+ViewAngleTilt = 270
+ViewAngleBeam = 13
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 16777215
+3DViewShape = 
+2DViewImage = 
+
+Channel = pan
+
+Channel = upan
+
+Channel = tilt
+
+Channel = utilt
+
+Channel = color
+ open,0,0 red,10,10 green,20,20 blue,30,30 yellow,40,40 orange,50,50 light_blue,60,60 purple,70,70 split_1,80,80 split_2,90,90 split_3,100,100 split_4,110,110 split_5,120,120 split_6,130,130 rotate,140,255 
+
+Channel = gobo
+ Miscellaneous/open,0,0 metal_basic/Z03748-2,8,8 metal_basic/L330SS4,16,16 metal_complex/sh25,24,24 metal_complex/Q260S8,32,32 metal_basic/L230B15,40,40 metal_complex/GM073,48,48 metal_complex/water,56,56 Miscellaneous/open,64,64,notusedinlc Miscellaneous/shake_gobo1,72,79 Miscellaneous/shake_gobo2,80,87 Miscellaneous/shake_gobo3,88,95 Miscellaneous/shake_gobo4,96,103 Miscellaneous/shake_gobo5,104,111 Miscellaneous/shake_gobo6,112,119 Miscellaneous/shake_gobo7,120,127 Miscellaneous/rotate,128,255 
+
+Channel = shutter
+ open,0,9,notusedinlc strobe,10,249 open,250,255 
+
+Channel = dimmer
+
+Channel = pantilt_speed
+
+Channel = effect_macro
+ no_function,0,59,notusedinlc auto1,60,84 auto2,85,109 auto3,110,134 auto4,135,159 audio1,160,184 audio2,185,209 audio3,210,234 audio4,235,255 
+
+Channel = control
+ no_function,0,20,notusedinlc Auto-Pan,21,100 Auto-Tilt,101,200 Auto-Pan and Tilt,201,249 reset,250,255 
+
+Channel = Strip Ring
+ no_function,0,4,notusedinlc Red,5,19 green,20,34 blue,35,49 Light Green,50,64 Purple,65,79 Light Blue,80,94 White,95,109 rainbow_color,110,117 Cycle Colour Red,118,125 Cycle Colour Green,126,133 Cycle Colour Blue,134,141 Cycle Colour Light Green,142,149 Cycle Colour Purple,150,157 Cycle Colour Light Blue,158,165 Cycle Colour White,166,173 macro_1,174,181 macro_2,182,189 macro_3,190,197 macro_4,198,205 macro_5,206,213 macro_6,214,221 macro_7,222,229 macro_8,230,237 macro_9,238,245 rainbow_color,246,255 
+
