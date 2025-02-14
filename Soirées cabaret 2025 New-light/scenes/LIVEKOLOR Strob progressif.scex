@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1664016596" name="Starway LiveKolor #2" model="COLORdash S-Par 1 (11Ch)"/>
+    <Fixture id="1664016597" name="Starway LiveKolor #3" model="COLORdash S-Par 1 (11Ch)"/>
+    <Fixture id="1664016598" name="Starway LiveKolor #4" model="COLORdash S-Par 1 (11Ch)"/>
+    <Fixture id="1663958226" name="Starway LiveKolor" model="COLORdash S-Par 1 (11Ch)"/>
+  </Fixtures>
+  <Steps>
+    <Step length="5">
+      <Fixture id="1664016596">
+        <Channel index="6" name="strobe_effect" value="144"/>
+      </Fixture>
+      <Fixture id="1664016597">
+        <Channel index="6" name="strobe_effect" value="144"/>
+      </Fixture>
+      <Fixture id="1664016598">
+        <Channel index="6" name="strobe_effect" value="144"/>
+      </Fixture>
+      <Fixture id="1663958226">
+        <Channel index="6" name="strobe_effect" value="144"/>
+      </Fixture>
+    </Step>
+    <Step length="400">
+      <Fixture id="1664016596">
+        <Channel index="6" name="strobe_effect" value="179" fade="1"/>
+      </Fixture>
+      <Fixture id="1664016597">
+        <Channel index="6" name="strobe_effect" value="179" fade="1"/>
+      </Fixture>
+      <Fixture id="1664016598">
+        <Channel index="6" name="strobe_effect" value="179" fade="1"/>
+      </Fixture>
+      <Fixture id="1663958226">
+        <Channel index="6" name="strobe_effect" value="179" fade="1"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1738434424" name="Alpha hpe 700 (2)" model="Alpha hpe 700 (2)"/>
+    <Fixture id="1738437293" name="Alpha hpe 700 (2) #2" model="Alpha hpe 700 (2)"/>
+  </Fixtures>
+  <Steps>
+    <Step length="500">
+      <Fixture id="1738434424">
+        <Channel index="4" name="color_macro" value="230"/>
+      </Fixture>
+      <Fixture id="1738437293">
+        <Channel index="4" name="color_macro" value="230"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

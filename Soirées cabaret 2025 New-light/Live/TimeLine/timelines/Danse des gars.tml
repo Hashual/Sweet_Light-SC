@@ -817,13 +817,20 @@ TimeLineIndex = 17
 StartTime = 0:02:50.4
 Path = OFF
 [Event_123]
+TimeLineIndex = 14
+StartTime = 0:02:51.3
+Path = Brouillard pendant danse.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_124]
 TimeLineIndex = 9
 StartTime = 0:02:51.9
 Path = LIVEKOLOR couleurs froides.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_124]
+[Event_125]
 TimeLineIndex = 11
 StartTime = 0:02:53.8
 Path = LIVEKOLOR Effet electro.scex
@@ -831,7 +838,7 @@ Length = 0:00:01.3
 NoLoop = 1
 Speed = 100
 SpeedType = 2
-[Event_125]
+[Event_126]
 TimeLineIndex = 11
 StartTime = 0:02:55.1
 Path = LIVEKOLOR Effet electro.scex
@@ -839,7 +846,7 @@ Length = 0:00:01.3
 NoLoop = 1
 Speed = 100
 SpeedType = 2
-[Event_126]
+[Event_127]
 TimeLineIndex = 11
 StartTime = 0:02:56.4
 Path = LIVEKOLOR Effet electro.scex
@@ -847,7 +854,7 @@ Length = 0:00:01.3
 NoLoop = 1
 Speed = 100
 SpeedType = 2
-[Event_127]
+[Event_128]
 TimeLineIndex = 11
 StartTime = 0:02:57.7
 Path = LIVEKOLOR Effet electro.scex
@@ -855,7 +862,7 @@ Length = 0:00:01.3
 NoLoop = 1
 Speed = 100
 SpeedType = 2
-[Event_128]
+[Event_129]
 TimeLineIndex = 11
 StartTime = 0:02:59.0
 Path = LIVEKOLOR Effet electro.scex
@@ -863,98 +870,146 @@ Length = 0:00:01.3
 NoLoop = 1
 Speed = 100
 SpeedType = 2
-[Event_129]
+[Event_130]
 TimeLineIndex = 11
 StartTime = 0:03:00.3
 Path = LIVEKOLOR Dimmer continu.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_130]
+[Event_131]
 TimeLineIndex = 10
 StartTime = 0:03:00.3
 Path = LIVEKOLOR Chenillard couleurs froides.scex
 Length = 0:00:01.8
 Speed = 100
 SpeedType = 2
-[Event_131]
+[Event_132]
 TimeLineIndex = 12
 StartTime = 0:03:00.3
 Path = PAR 56 Défilement 2 fast.scex
 Length = 0:00:01.8
 Speed = 100
 SpeedType = 2
-[Event_132]
+[Event_133]
+TimeLineIndex = 14
+StartTime = 0:03:00.3
+Path = OFF
+[Event_134]
+TimeLineIndex = 15
+StartTime = 0:03:00.3
+Path = Programme laser.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_135]
 TimeLineIndex = 9
 StartTime = 0:03:00.4
 Path = OFF
-[Event_133]
+[Event_136]
 TimeLineIndex = 5
 StartTime = 0:03:03.3
 Path = LYRES plafond.scex
 Length = 0:00:02.0
 Speed = 100
 SpeedType = 2
-[Event_134]
+[Event_137]
+TimeLineIndex = 15
+StartTime = 0:03:08.1
+Path = OFF
+[Event_138]
 TimeLineIndex = 3
 StartTime = 0:03:08.2
 Path = LYRES Multicouleurs 2.scex
 Length = 0:00:05.6
 Speed = 100
 SpeedType = 2
-[Event_135]
+[Event_139]
 TimeLineIndex = 7
 StartTime = 0:03:08.2
-Path = LYRES Dimmer.scex
+Path = LYRES Dimmer interrompu scene.scex
+Length = 0:00:07.5
+Speed = 100
+SpeedType = 2
+[Event_140]
+TimeLineIndex = 15
+StartTime = 0:03:10.3
+Path = STROB BPM 150.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_136]
+[Event_141]
+TimeLineIndex = 15
+StartTime = 0:03:11.2
+Path = OFF
+[Event_142]
+TimeLineIndex = 15
+StartTime = 0:03:13.1
+Path = STROB BPM 150.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_143]
+TimeLineIndex = 15
+StartTime = 0:03:14.0
+Path = OFF
+[Event_144]
+TimeLineIndex = 15
+StartTime = 0:03:16.2
+Path = STROB BPM 150.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_145]
+TimeLineIndex = 15
+StartTime = 0:03:17.1
+Path = OFF
+[Event_146]
 TimeLineIndex = 12
 StartTime = 0:03:18.5
 Path = OFF
-[Event_137]
+[Event_147]
 TimeLineIndex = 13
 StartTime = 0:03:18.5
 Path = PC (danses) out.scex
 Length = 0:00:06.5
 Speed = 100
 SpeedType = 2
-[Event_138]
+[Event_148]
 TimeLineIndex = 7
 StartTime = 0:03:20.4
 Path = LYRES Dimmer out salle 4sec.scex
 Length = 0:00:22.1
 Speed = 100
 SpeedType = 2
-[Event_139]
+[Event_149]
 TimeLineIndex = 11
 StartTime = 0:03:21.1
 Path = LIVEKOLOR Dimmer out 2sec.scex
 Length = 0:00:22.1
 Speed = 100
 SpeedType = 2
-[Event_140]
+[Event_150]
 TimeLineIndex = 10
 StartTime = 0:03:23.2
 Path = OFF
-[Event_141]
+[Event_151]
 TimeLineIndex = 11
 StartTime = 0:03:23.2
 Path = OFF
-[Event_142]
+[Event_152]
 TimeLineIndex = 13
 StartTime = 0:03:24.8
 Path = OFF
-[Event_143]
+[Event_153]
 TimeLineIndex = 7
 StartTime = 0:03:25.0
 Path = OFF
-[Event_144]
+[Event_154]
 TimeLineIndex = 5
 StartTime = 0:03:25.5
 Path = OFF
-[Event_145]
+[Event_155]
 TimeLineIndex = 3
 StartTime = 0:03:25.5
 Path = OFF
