@@ -18,6 +18,8 @@ TimeLine_8 = L I G H T   S C E N E   T I M E L I N E   #   6
 TimeLine_9 = L I G H T   S C E N E   T I M E L I N E   #   7
 TimeLine_10 = L I G H T   S C E N E   T I M E L I N E   #   8
 TimeLine_11 = L I G H T   S C E N E   T I M E L I N E   #   9
+Mute_6 = 1
+Mute_7 = 1
 [Event_0]
 TimeLineIndex = 9
 StartTime = 0:00:00.0

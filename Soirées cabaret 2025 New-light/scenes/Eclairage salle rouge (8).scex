@@ -25,11 +25,11 @@
         <Channel index="8" name="red" value="255"/>
       </Fixture>
       <Fixture id="1738429835">
-        <Channel index="1" name="tilt" value="180"/>
+        <Channel index="1" name="tilt" value="0"/>
         <Channel index="2" name="color" value="10"/>
       </Fixture>
       <Fixture id="1671300460">
-        <Channel index="0" name="pan" value="76"/>
+        <Channel index="0" name="pan" value="77"/>
         <Channel index="1" name="upan" value="0"/>
         <Channel index="2" name="tilt" value="241"/>
         <Channel index="3" name="utilt" value="0"/>
@@ -38,7 +38,7 @@
         <Channel index="8" name="red" value="255"/>
       </Fixture>
       <Fixture id="1671300461">
-        <Channel index="0" name="pan" value="79"/>
+        <Channel index="0" name="pan" value="77"/>
         <Channel index="1" name="upan" value="0"/>
         <Channel index="2" name="tilt" value="241"/>
         <Channel index="3" name="utilt" value="0"/>
@@ -56,27 +56,43 @@
         <Channel index="8" name="red" value="255"/>
       </Fixture>
       <Fixture id="1738430290">
-        <Channel index="1" name="tilt" value="180"/>
+        <Channel index="1" name="tilt" value="1"/>
         <Channel index="2" name="color" value="10"/>
       </Fixture>
       <Fixture id="1738430291">
-        <Channel index="1" name="tilt" value="180"/>
+        <Channel index="0" name="pan" value="2" fade="1"/>
+        <Channel index="1" name="tilt" value="0"/>
         <Channel index="2" name="color" value="10"/>
       </Fixture>
       <Fixture id="1738430292">
-        <Channel index="1" name="tilt" value="180"/>
+        <Channel index="1" name="tilt" value="10"/>
         <Channel index="2" name="color" value="10"/>
       </Fixture>
       <Fixture id="1738434424">
-        <Channel index="20" name="tilt" value="180"/>
+        <Channel index="1" name="magenta" value="255"/>
+        <Channel index="2" name="yellow" value="255"/>
+        <Channel index="8" name="iris" value="73"/>
+        <Channel index="16" name="focus" value="47"/>
+        <Channel index="17" name="zoom" value="255"/>
+        <Channel index="18" name="pan" value="140"/>
+        <Channel index="19" name="upan" value="0"/>
+        <Channel index="20" name="tilt" value="217"/>
         <Channel index="21" name="utilt" value="0"/>
+        <Channel index="24" name="Lamp control" value="255"/>
       </Fixture>
       <Fixture id="1738437293">
-        <Channel index="20" name="tilt" value="180"/>
+        <Channel index="1" name="magenta" value="255"/>
+        <Channel index="2" name="yellow" value="255"/>
+        <Channel index="8" name="iris" value="73"/>
+        <Channel index="16" name="focus" value="47"/>
+        <Channel index="17" name="zoom" value="255"/>
+        <Channel index="18" name="pan" value="138"/>
+        <Channel index="19" name="upan" value="188"/>
+        <Channel index="20" name="tilt" value="217"/>
         <Channel index="21" name="utilt" value="0"/>
       </Fixture>
     </Step>
-    <Step length="100">
+    <Step length="150">
       <Fixture id="1671299957">
         <Channel index="0" name="pan" value="75"/>
         <Channel index="1" name="upan" value="0"/>
@@ -87,11 +103,11 @@
         <Channel index="8" name="red" value="255"/>
       </Fixture>
       <Fixture id="1738429835">
-        <Channel index="1" name="tilt" value="180"/>
+        <Channel index="1" name="tilt" value="0"/>
         <Channel index="2" name="color" value="10"/>
       </Fixture>
       <Fixture id="1671300460">
-        <Channel index="0" name="pan" value="76"/>
+        <Channel index="0" name="pan" value="77"/>
         <Channel index="1" name="upan" value="0"/>
         <Channel index="2" name="tilt" value="241"/>
         <Channel index="3" name="utilt" value="0"/>
@@ -100,7 +116,7 @@
         <Channel index="8" name="red" value="255"/>
       </Fixture>
       <Fixture id="1671300461">
-        <Channel index="0" name="pan" value="79"/>
+        <Channel index="0" name="pan" value="77"/>
         <Channel index="1" name="upan" value="0"/>
         <Channel index="2" name="tilt" value="241"/>
         <Channel index="3" name="utilt" value="0"/>
@@ -118,23 +134,39 @@
         <Channel index="8" name="red" value="255"/>
       </Fixture>
       <Fixture id="1738430290">
-        <Channel index="1" name="tilt" value="180"/>
+        <Channel index="1" name="tilt" value="1"/>
         <Channel index="2" name="color" value="10"/>
       </Fixture>
       <Fixture id="1738430291">
-        <Channel index="1" name="tilt" value="180"/>
+        <Channel index="0" name="pan" value="2" fade="1"/>
+        <Channel index="1" name="tilt" value="0"/>
         <Channel index="2" name="color" value="10"/>
       </Fixture>
       <Fixture id="1738430292">
-        <Channel index="1" name="tilt" value="180"/>
+        <Channel index="1" name="tilt" value="10"/>
         <Channel index="2" name="color" value="10"/>
       </Fixture>
       <Fixture id="1738434424">
-        <Channel index="20" name="tilt" value="180"/>
+        <Channel index="1" name="magenta" value="255"/>
+        <Channel index="2" name="yellow" value="255"/>
+        <Channel index="8" name="iris" value="73"/>
+        <Channel index="16" name="focus" value="47"/>
+        <Channel index="17" name="zoom" value="255"/>
+        <Channel index="18" name="pan" value="140"/>
+        <Channel index="19" name="upan" value="0"/>
+        <Channel index="20" name="tilt" value="217"/>
         <Channel index="21" name="utilt" value="0"/>
+        <Channel index="24" name="Lamp control" value="255"/>
       </Fixture>
       <Fixture id="1738437293">
-        <Channel index="20" name="tilt" value="180"/>
+        <Channel index="1" name="magenta" value="255"/>
+        <Channel index="2" name="yellow" value="255"/>
+        <Channel index="8" name="iris" value="73"/>
+        <Channel index="16" name="focus" value="47"/>
+        <Channel index="17" name="zoom" value="255"/>
+        <Channel index="18" name="pan" value="138"/>
+        <Channel index="19" name="upan" value="188"/>
+        <Channel index="20" name="tilt" value="217"/>
         <Channel index="21" name="utilt" value="0"/>
       </Fixture>
     </Step>

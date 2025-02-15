@@ -76,12 +76,12 @@
         <Channel index="5" name="dimmer" value="255"/>
       </Fixture>
       <Fixture id="1738434424">
-        <Channel index="6" name="dimmer" value="255"/>
+        <Channel index="6" name="dimmer" value="0"/>
         <Channel index="20" name="tilt" value="180" fade="1"/>
         <Channel index="21" name="utilt" value="0" fade="1"/>
       </Fixture>
       <Fixture id="1738437293">
-        <Channel index="6" name="dimmer" value="255"/>
+        <Channel index="6" name="dimmer" value="0"/>
         <Channel index="20" name="tilt" value="180" fade="1"/>
         <Channel index="21" name="utilt" value="0" fade="1"/>
       </Fixture>
