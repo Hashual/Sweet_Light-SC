@@ -1,0 +1,226 @@
+﻿
+[Params]
+PanTiltShift = 0.0
+ExplodePanTilt = 0
+GroupRGB = 0
+FanPanOffset = 0
+FanTiltOffset = 0
+[Fixture_0]
+ID = 1738434424
+Name = Alpha hpe 700 (2)
+DMX = 166
+Channels = cyan,magenta,yellow,uniform field lens,color_macro,strobe_effect,dimmer,Dimmer fine,iris,Static gobo change,Rotating gobo change,gobo_rotate,Gobo fine,prism,prism_rotate,frost,focus,zoom,pan,upan,tilt,utilt,Function,Reset,Lamp control
+ReversePan = 1
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_1]
+ID = 1738437293
+Name = Alpha hpe 700 (2) #2
+DMX = 191
+Channels = cyan,magenta,yellow,uniform field lens,color_macro,strobe_effect,dimmer,Dimmer fine,iris,Static gobo change,Rotating gobo change,gobo_rotate,Gobo fine,prism,prism_rotate,frost,focus,zoom,pan,upan,tilt,utilt,Function,Reset,Lamp control
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[cyan]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[magenta]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[yellow]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[uniform field lens]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[color_macro]
+Selected = 1
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,44151
+Point_1 = 65535,44151
+[strobe_effect]
+Selected = 1
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+[dimmer]
+Selected = 1
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[Dimmer fine]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[iris]
+Selected = 1
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,46087
+Point_1 = 65535,46087
+[Static gobo change]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[Rotating gobo change]
+Selected = 1
+CurveName = Default Curve
+Transition = 0
+Duration = 500
+Shift = 0.0
+Point_0 = 0,4240
+Point_1 = 11686,8480
+Point_2 = 16451,12444
+Point_3 = 20226,16776
+Point_4 = 26249,25072
+Point_5 = 29486,3964
+Point_6 = 32722,16592
+Point_7 = 39195,29035
+Point_8 = 46656,16776
+Point_9 = 52410,8665
+Point_10 = 55826,21292
+Point_11 = 62748,25164
+Point_12 = 65535,4240
+[gobo_rotate]
+Selected = 1
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,57056
+Point_1 = 24182,21661
+Point_2 = 40273,57148
+Point_3 = 48364,23781
+Point_4 = 65535,57056
+[Gobo fine]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[prism]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[prism_rotate]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[frost]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[focus]
+Selected = 1
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,44520
+Point_1 = 65535,44520
+[zoom]
+Selected = 1
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 19417,31616
+Point_2 = 29576,64890
+Point_3 = 42611,55765
+Point_4 = 54477,37791
+Point_5 = 65535,65535
+[Pan/Tilt/uPan/uTilt]
+Selected = 1
+CurveName = Default Curve
+Transition = 2
+Duration = 80
+Shift = 0.0
+Point_0 = 13394,7098
+Point_1 = 15731,5347
+Point_2 = 12855,4886
+Point_3 = 17529,7559
+[Function]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[Reset]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[Lamp control]
+Selected = 1
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535

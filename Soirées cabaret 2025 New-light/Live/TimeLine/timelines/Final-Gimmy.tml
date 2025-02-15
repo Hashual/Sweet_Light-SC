@@ -39,7 +39,7 @@ SpeedType = 2
 [Event_1]
 TimeLineIndex = 3
 StartTime = 0:00:00.2
-Path = LYRES Placement sol.scex
+Path = LYRES placement sol sur bloc noir.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
@@ -99,48 +99,55 @@ TimeLineIndex = 11
 StartTime = 0:00:19.9
 Path = OFF
 [Event_11]
-TimeLineIndex = 9
-StartTime = 0:00:21.3
-Path = LIVEKOLOR Cyan.scex
+TimeLineIndex = 4
+StartTime = 0:00:21.5
+Path = LYRES Cyan.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_12]
 TimeLineIndex = 8
-StartTime = 0:00:21.3
+StartTime = 0:00:21.5
 Path = HPE 700 cyan.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_13]
+TimeLineIndex = 9
+StartTime = 0:00:21.5
+Path = LIVEKOLOR Cyan.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_14]
 TimeLineIndex = 11
 StartTime = 0:00:22.2
 Path = LIVEKOLOR Chenillard dimmer 1 to 4 (1).scex
 Length = 0:00:00.6
 Speed = 100
 SpeedType = 2
-[Event_14]
+[Event_15]
 TimeLineIndex = 9
 StartTime = 0:00:38.0
 Path = LIVEKOLOR Cyan to Blanc.scex
 Length = 0:00:07.1
 Speed = 100
 SpeedType = 2
-[Event_15]
+[Event_16]
 TimeLineIndex = 11
 StartTime = 0:00:38.0
 Path = LIVEKOLOR Dimmer fond.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_16]
+[Event_17]
 TimeLineIndex = 9
 StartTime = 0:00:40.3
 Path = LIVEKOLOR Blanc.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_17]
+[Event_18]
 TimeLineIndex = 10
 StartTime = 0:00:43.2
 Path = LIVEKOLOR Strob progressif.scex
@@ -148,163 +155,163 @@ Length = 0:00:10.0
 NoLoop = 1
 Speed = 100
 SpeedType = 2
-[Event_18]
+[Event_19]
 TimeLineIndex = 8
 StartTime = 0:00:43.2
 Path = OFF
-[Event_19]
+[Event_20]
 TimeLineIndex = 11
 StartTime = 0:00:43.2
 Path = OFF
-[Event_20]
+[Event_21]
 TimeLineIndex = 4
 StartTime = 0:00:49.3
 Path = OFF
-[Event_21]
+[Event_22]
 TimeLineIndex = 6
 StartTime = 0:00:49.3
 Path = STROB complet final.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_22]
+[Event_23]
 TimeLineIndex = 5
 StartTime = 0:00:49.3
 Path = OFF
-[Event_23]
+[Event_24]
 TimeLineIndex = 10
 StartTime = 0:00:49.3
 Path = OFF
-[Event_24]
+[Event_25]
 TimeLineIndex = 9
 StartTime = 0:00:49.3
 Path = OFF
-[Event_25]
+[Event_26]
 TimeLineIndex = 6
 StartTime = 0:00:51.2
 Path = OFF
-[Event_26]
+[Event_27]
 TimeLineIndex = 11
 StartTime = 0:00:52.9
 Path = LIVEKOLOR Chenillard couleurs 2.scex
 Length = 0:00:05.6
 Speed = 100
 SpeedType = 2
-[Event_27]
+[Event_28]
 TimeLineIndex = 5
 StartTime = 0:00:52.9
 Path = LYRES dimmer continu salle.scex
 Length = 0:00:08.0
 Speed = 100
 SpeedType = 2
-[Event_28]
+[Event_29]
 TimeLineIndex = 8
 StartTime = 0:00:52.9
 Path = HPE 700 multicouleurs.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_29]
+[Event_30]
 TimeLineIndex = 4
 StartTime = 0:00:52.9
 Path = LYRES Multicouleurs.scex
 Length = 0:00:06.0
 Speed = 100
 SpeedType = 2
-[Event_30]
+[Event_31]
 TimeLineIndex = 10
 StartTime = 0:00:52.9
 Path = LIVEKOLOR Zoom max.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_31]
+[Event_32]
 TimeLineIndex = 6
 StartTime = 0:01:07.6
 Path = STROB complet final.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_32]
+[Event_33]
 TimeLineIndex = 5
 StartTime = 0:01:07.7
 Path = OFF
-[Event_33]
+[Event_34]
 TimeLineIndex = 4
 StartTime = 0:01:07.7
 Path = OFF
-[Event_34]
+[Event_35]
 TimeLineIndex = 8
 StartTime = 0:01:07.7
 Path = OFF
-[Event_35]
+[Event_36]
 TimeLineIndex = 10
 StartTime = 0:01:07.7
 Path = OFF
-[Event_36]
+[Event_37]
 TimeLineIndex = 11
 StartTime = 0:01:07.7
 Path = OFF
-[Event_37]
+[Event_38]
 TimeLineIndex = 5
 StartTime = 0:01:08.4
 Path = LYRES dimmer continu salle.scex
 Length = 0:00:08.0
 Speed = 100
 SpeedType = 2
-[Event_38]
+[Event_39]
 TimeLineIndex = 6
 StartTime = 0:01:08.4
 Path = OFF
-[Event_39]
+[Event_40]
 TimeLineIndex = 8
 StartTime = 0:01:08.4
 Path = HPE 700 multicouleurs.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_40]
+[Event_41]
 TimeLineIndex = 10
 StartTime = 0:01:08.4
 Path = LIVEKOLOR Zoom max.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_41]
+[Event_42]
 TimeLineIndex = 11
 StartTime = 0:01:08.4
 Path = LIVEKOLOR Chenillard couleurs 2.scex
 Length = 0:00:05.6
 Speed = 100
 SpeedType = 2
-[Event_42]
+[Event_43]
 TimeLineIndex = 4
 StartTime = 0:01:08.4
 Path = LYRES Multicouleurs.scex
 Length = 0:00:06.0
 Speed = 100
 SpeedType = 2
-[Event_43]
+[Event_44]
 TimeLineIndex = 11
 StartTime = 0:01:22.0
 Path = OFF
-[Event_44]
+[Event_45]
 TimeLineIndex = 10
 StartTime = 0:01:22.0
 Path = OFF
-[Event_45]
+[Event_46]
 TimeLineIndex = 5
 StartTime = 0:01:22.0
 Path = OFF
-[Event_46]
+[Event_47]
 TimeLineIndex = 8
 StartTime = 0:01:22.0
 Path = OFF
-[Event_47]
-TimeLineIndex = 3
-StartTime = 0:01:23.2
-Path = OFF
 [Event_48]
+TimeLineIndex = 3
+StartTime = 0:01:23.6
+Path = OFF
+[Event_49]
 TimeLineIndex = 4
-StartTime = 0:01:23.2
+StartTime = 0:01:23.6
 Path = OFF

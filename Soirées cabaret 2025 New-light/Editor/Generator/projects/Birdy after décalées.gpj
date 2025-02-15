@@ -6,10 +6,10 @@ GroupRGB = 0
 FanPanOffset = 0
 FanTiltOffset = 0
 [Fixture_0]
-ID = 1671299957
-Name = ServoColor4K
-DMX = 66
-Channels = pan,upan,tilt,utilt,pantilt_speed,dimmer,strobe_effect,zoom,red,green,blue,white,color_macro,color_macro_speed,control
+ID = 1738429835
+Name = BirdyXSIII (10ch)
+DMX = 126
+Channels = pan,tilt,color,gobo,shutter,dimmer,pantilt_speed,effect_macro,control,Strip Ring
 ReversePan = 0
 ReverseTilt = 0
 OffsetPan = 0
@@ -18,10 +18,10 @@ ZoomPan = 0
 ZoomTilt = 0
 ExplodeIndex = 0
 [Fixture_1]
-ID = 1671300460
-Name = ServoColor4K #2
-DMX = 81
-Channels = pan,upan,tilt,utilt,pantilt_speed,dimmer,strobe_effect,zoom,red,green,blue,white,color_macro,color_macro_speed,control
+ID = 1738430290
+Name = BirdyXSIII (10ch) #2
+DMX = 136
+Channels = pan,tilt,color,gobo,shutter,dimmer,pantilt_speed,effect_macro,control,Strip Ring
 ReversePan = 0
 ReverseTilt = 0
 OffsetPan = 0
@@ -30,11 +30,11 @@ ZoomPan = 0
 ZoomTilt = 0
 ExplodeIndex = 0
 [Fixture_2]
-ID = 1671300461
-Name = ServoColor4K #3
-DMX = 96
-Channels = pan,upan,tilt,utilt,pantilt_speed,dimmer,strobe_effect,zoom,red,green,blue,white,color_macro,color_macro_speed,control
-ReversePan = 1
+ID = 1738430291
+Name = BirdyXSIII (10ch) #3
+DMX = 146
+Channels = pan,tilt,color,gobo,shutter,dimmer,pantilt_speed,effect_macro,control,Strip Ring
+ReversePan = 0
 ReverseTilt = 0
 OffsetPan = 0
 OffsetTilt = 0
@@ -42,18 +42,18 @@ ZoomPan = 0
 ZoomTilt = 0
 ExplodeIndex = 0
 [Fixture_3]
-ID = 1671300462
-Name = ServoColor4K #4
-DMX = 111
-Channels = pan,upan,tilt,utilt,pantilt_speed,dimmer,strobe_effect,zoom,red,green,blue,white,color_macro,color_macro_speed,control
-ReversePan = 1
+ID = 1738430292
+Name = BirdyXSIII (10ch) #4
+DMX = 156
+Channels = pan,tilt,color,gobo,shutter,dimmer,pantilt_speed,effect_macro,control,Strip Ring
+ReversePan = 0
 ReverseTilt = 0
 OffsetPan = 0
 OffsetTilt = 0
 ZoomPan = 0
 ZoomTilt = 0
 ExplodeIndex = 0
-[Pan/Tilt/uPan/uTilt]
+[Pan/Tilt]
 Selected = 0
 CurveName = Default Curve
 Transition = 2
@@ -63,7 +63,23 @@ Point_0 = 0,32768
 Point_1 = 32767,65535
 Point_2 = 65535,32404
 Point_3 = 32767,0
-[pantilt_speed]
+[color]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[gobo]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[shutter]
 Selected = 0
 CurveName = Default Curve
 Transition = 0
@@ -72,87 +88,43 @@ Shift = 0.0
 Point_0 = 0,65535
 Point_1 = 65535,65535
 [dimmer]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[pantilt_speed]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[effect_macro]
 Selected = 1
-CurveName = Dimmer interrompu
-Transition = 0
-Duration = 50
-Shift = -22.1
-Point_0 = 0,0
-Point_1 = 7372,65535
-Point_2 = 15837,0
-Point_3 = 15838,65535
-Point_4 = 25394,65535
-Point_5 = 34678,165
-Point_6 = 35361,65535
-Point_7 = 44509,65535
-Point_8 = 52974,329
-Point_9 = 62940,65535
-Point_10 = 65535,0
-[strobe_effect]
-Selected = 1
 CurveName = Default Curve
 Transition = 0
-Duration = 50
-Shift = 0.0
-Point_0 = 0,1542
-Point_1 = 65535,1542
-[zoom]
-Selected = 0
-CurveName = Default Curve
-Transition = 0
-Duration = 50
-Shift = 0.0
-Point_0 = 0,65535
-Point_1 = 65535,65535
-[red]
-Selected = 0
-CurveName = Default Curve
-Transition = 0
-Duration = 50
-Shift = 0.0
-Point_0 = 0,33875
-Point_1 = 65535,33875
-[green]
-Selected = 0
-CurveName = Default Curve
-Transition = 0
-Duration = 50
-Shift = 0.0
-Point_0 = 0,65535
-Point_1 = 65535,65535
-[blue]
-Selected = 0
-CurveName = Default Curve
-Transition = 0
-Duration = 50
-Shift = 0.0
-Point_0 = 0,65535
-Point_1 = 65535,65535
-[white]
-Selected = 0
-CurveName = Default Curve
-Transition = 0
-Duration = 50
-Shift = 0.0
-Point_0 = 0,65535
-Point_1 = 65535,65535
-[color_macro]
-Selected = 0
-CurveName = Default Curve
-Transition = 0
-Duration = 50
-Shift = 0.0
-Point_0 = 0,65535
-Point_1 = 65535,65535
-[color_macro_speed]
-Selected = 0
-CurveName = Default Curve
-Transition = 0
-Duration = 50
-Shift = 0.0
-Point_0 = 0,65535
-Point_1 = 65535,65535
+Duration = 150
+Shift = 15.4
+Point_0 = 0,28113
+Point_1 = 13394,34565
+Point_2 = 23463,21753
+Point_3 = 40453,28205
+Point_4 = 51690,34289
+Point_5 = 55826,21845
+Point_6 = 65535,28113
 [control]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[Strip Ring]
 Selected = 0
 CurveName = Default Curve
 Transition = 0

@@ -2,9 +2,6 @@
 
 <Scene>
   <Fixtures>
-    <Fixture id="1664016596" name="Starway LiveKolor #2" model="COLORdash S-Par 1 (11Ch)"/>
-    <Fixture id="1664016597" name="Starway LiveKolor #3" model="COLORdash S-Par 1 (11Ch)"/>
-    <Fixture id="1664016598" name="Starway LiveKolor #4" model="COLORdash S-Par 1 (11Ch)"/>
     <Fixture id="1671299957" name="ServoColor4K" model="ServoColor600(16bits)"/>
     <Fixture id="1738429835" name="BirdyXSIII (10ch)" model="BirdyXSIII (10ch)"/>
     <Fixture id="1671300460" name="ServoColor4K #2" model="ServoColor600(16bits)"/>
@@ -13,8 +10,6 @@
     <Fixture id="1738430290" name="BirdyXSIII (10ch) #2" model="BirdyXSIII (10ch)"/>
     <Fixture id="1738430291" name="BirdyXSIII (10ch) #3" model="BirdyXSIII (10ch)"/>
     <Fixture id="1738430292" name="BirdyXSIII (10ch) #4" model="BirdyXSIII (10ch)"/>
-    <Fixture id="1663943456" name="Strob" model="STB-520"/>
-    <Fixture id="1663958226" name="Starway LiveKolor" model="COLORdash S-Par 1 (11Ch)"/>
   </Fixtures>
   <Steps>
     <Step length="10">
@@ -56,21 +51,6 @@
       </Fixture>
     </Step>
     <Step length="10">
-      <Fixture id="1664016596">
-        <Channel index="0" name="dimmer" value="255"/>
-        <Channel index="4" name="white" value="255"/>
-        <Channel index="6" name="strobe_effect" value="99"/>
-      </Fixture>
-      <Fixture id="1664016597">
-        <Channel index="0" name="dimmer" value="255"/>
-        <Channel index="4" name="white" value="255"/>
-        <Channel index="6" name="strobe_effect" value="99"/>
-      </Fixture>
-      <Fixture id="1664016598">
-        <Channel index="0" name="dimmer" value="255"/>
-        <Channel index="4" name="white" value="255"/>
-        <Channel index="6" name="strobe_effect" value="99"/>
-      </Fixture>
       <Fixture id="1671299957">
         <Channel index="0" name="pan" value="128"/>
         <Channel index="1" name="upan" value="0"/>
@@ -118,15 +98,6 @@
         <Channel index="9" name="green" value="0"/>
         <Channel index="10" name="blue" value="0"/>
         <Channel index="11" name="white" value="255"/>
-      </Fixture>
-      <Fixture id="1663943456">
-        <Channel index="0" name="fan" value="255"/>
-        <Channel index="1" name="fan#2" value="255"/>
-      </Fixture>
-      <Fixture id="1663958226">
-        <Channel index="0" name="dimmer" value="255"/>
-        <Channel index="4" name="white" value="255"/>
-        <Channel index="6" name="strobe_effect" value="99"/>
       </Fixture>
     </Step>
   </Steps>

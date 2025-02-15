@@ -30,70 +30,67 @@ TimeLine_20 = L I G H T   S C E N E   T I M E L I N E   #   18
 TimeLine_21 = L I G H T   S C E N E   T I M E L I N E   #   19
 TimeLine_22 = L I G H T   S C E N E   T I M E L I N E   #   20
 [Event_0]
-TimeLineIndex = 2
-StartTime = 0:00:00.0
-Path = musiques/Boris-Soirée-disco-_1_.wav
-Length = 0:03:44.5
-[Event_1]
 TimeLineIndex = 4
 StartTime = 0:00:00.0
 Path = LYRES Mouvement crown salle (6 appareils) rapide.gpj
 Length = 0:00:07.0
 Speed = 100
 SpeedType = 2
-[Event_2]
+[Event_1]
 TimeLineIndex = 8
 StartTime = 0:00:00.0
 Path = Birdy Mouvement recherche.gpj
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
+[Event_2]
+TimeLineIndex = 2
+StartTime = 0:00:00.0
+Path = musiques/Boris-Soirée-disco-_1_.wav
+Length = 0:03:44.5
 [Event_3]
-TimeLineIndex = 10
-StartTime = 0:00:00.3
-Path = Birdy dimmer.scex
-Length = 0:00:05.0
-Speed = 100
-SpeedType = 2
-[Event_4]
-TimeLineIndex = 9
-StartTime = 0:00:00.3
-Path = Birdy multicouleurs.scex
-Length = 0:00:10.0
-Speed = 100
-SpeedType = 2
-[Event_5]
-TimeLineIndex = 5
-StartTime = 0:00:00.3
-Path = LYRES Jungle.scex
-Length = 0:00:06.0
-Speed = 100
-SpeedType = 2
-[Event_6]
 TimeLineIndex = 6
 StartTime = 0:00:00.3
 Path = LYRES Dimmer interrompu (6 appareils).gpj
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_7]
-TimeLineIndex = 7
-StartTime = 0:00:16.5
-Path = LYRES Mouvement crown salle (6 appareils).gpj
+[Event_4]
+TimeLineIndex = 10
+StartTime = 0:00:00.3
+Path = Birdy dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_5]
+TimeLineIndex = 9
+StartTime = 0:00:00.3
+Path = Birdy multicouleurs.scex
 Length = 0:00:10.0
 Speed = 100
 SpeedType = 2
-[Event_8]
-TimeLineIndex = 8
-StartTime = 0:00:16.5
-Path = OFF
-[Event_9]
+[Event_6]
+TimeLineIndex = 5
+StartTime = 0:00:00.4
+Path = LYRES Jungle.scex
+Length = 0:00:06.0
+Speed = 100
+SpeedType = 2
+[Event_7]
 TimeLineIndex = 4
-StartTime = 0:00:16.5
+StartTime = 0:00:16.3
+Path = OFF
+[Event_8]
+TimeLineIndex = 4
+StartTime = 0:00:16.4
 Path = LYRES sol gauche.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
+[Event_9]
+TimeLineIndex = 8
+StartTime = 0:00:16.5
+Path = OFF
 [Event_10]
 TimeLineIndex = 8
 StartTime = 0:00:16.5
@@ -125,51 +122,62 @@ Speed = 100
 SpeedType = 2
 [Event_15]
 TimeLineIndex = 3
-StartTime = 0:00:23.8
+StartTime = 0:01:13.2
 Path = PC moitier.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_16]
+TimeLineIndex = 3
+StartTime = 0:01:30.0
+Path = OFF
+[Event_17]
 TimeLineIndex = 4
 StartTime = 0:01:30.0
-Path = LYRES Placement sol.scex
+Path = LYRES placement sol sur bloc noir.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_17]
+[Event_18]
+TimeLineIndex = 3
+StartTime = 0:01:30.0
+Path = PC-Projecteurs moitier.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_19]
 TimeLineIndex = 3
 StartTime = 0:02:07.0
 Path = OFF
-[Event_18]
+[Event_20]
 TimeLineIndex = 2
 StartTime = 0:02:07.0
 Path = OFF
-[Event_19]
+[Event_21]
 TimeLineIndex = 4
 StartTime = 0:02:07.0
 Path = OFF
-[Event_20]
+[Event_22]
 TimeLineIndex = 5
 StartTime = 0:02:07.0
 Path = OFF
-[Event_21]
+[Event_23]
 TimeLineIndex = 6
 StartTime = 0:02:07.0
 Path = OFF
-[Event_22]
+[Event_24]
 TimeLineIndex = 9
 StartTime = 0:02:07.0
 Path = OFF
-[Event_23]
+[Event_25]
 TimeLineIndex = 8
 StartTime = 0:02:07.0
 Path = OFF
-[Event_24]
+[Event_26]
 TimeLineIndex = 7
 StartTime = 0:02:07.0
 Path = OFF
-[Event_25]
+[Event_27]
 TimeLineIndex = 10
 StartTime = 0:02:07.0
 Path = OFF

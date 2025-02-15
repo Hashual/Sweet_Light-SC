@@ -22,17 +22,21 @@
         <Channel index="6" name="strobe_effect" value="144"/>
       </Fixture>
     </Step>
-    <Step length="400">
+    <Step length="600">
       <Fixture id="1664016596">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
         <Channel index="6" name="strobe_effect" value="179" fade="1"/>
       </Fixture>
       <Fixture id="1664016597">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
         <Channel index="6" name="strobe_effect" value="179" fade="1"/>
       </Fixture>
       <Fixture id="1664016598">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
         <Channel index="6" name="strobe_effect" value="179" fade="1"/>
       </Fixture>
       <Fixture id="1663958226">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
         <Channel index="6" name="strobe_effect" value="179" fade="1"/>
       </Fixture>
     </Step>
