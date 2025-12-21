@@ -1,0 +1,48 @@
+﻿ViewType = VIEW_TYPE_NOTHING
+ViewPower = VIEW_POWER_LED30W
+ViewAnglePan = 120
+ViewAngleTilt = 90
+ViewAngleBeam = 16
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 16777215
+2DViewImage = Chauvet/PRO/Strike324-2D.png
+
+Channel = Bank 1
+ no_function,0,5 Strobe Rate (slow to fast),6,249 Continuous strobe effect,250,255
+
+Channel = Bank 2
+ no_function,0,5 Strobe Rate (slow to fast),6,249 Continuous strobe effect,250,255
+
+Channel = Bank 3
+ no_function,0,5 Strobe Rate (slow to fast),6,249 Continuous strobe effect,250,255
+
+Channel = Bank 4
+ no_function,0,5 Strobe Rate (slow to fast),6,249 Continuous strobe effect,250,255
+
+Channel = Bank 5
+ no_function,0,5 Strobe Rate (slow to fast),6,249 Continuous strobe effect,250,255
+
+Channel = Bank 6
+ no_function,0,5 Strobe Rate (slow to fast),6,249 Continuous strobe effect,250,255
+
+Channel = Bank 7
+ no_function,0,5 Strobe Rate (slow to fast),6,249 Continuous strobe effect,250,255
+
+Channel = Bank 8
+ no_function,0,5 Strobe Rate (slow to fast),6,249 Continuous strobe effect,250,255
+
+Channel = Auto Programs
+ no_function,0,10 Auto Program 0,11,40 Auto Program 1 ,41,70 Auto Program 2,71,100 Auto Program 3,101,130 Auto Program 4,131,160 Auto Program 5,161,190 Auto Program 6,191,220 Auto Program 7,221,255 
+
+Channel = Auto Speed
+ Slow to fast,0,255 
+
+Channel = dimmer
+ dimmer,0,255 
+
+Channel = strobe_effect
+ no_function,0,5 Strobe (slow to fast),6,255 
+

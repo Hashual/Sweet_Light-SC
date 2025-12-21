@@ -1,0 +1,34 @@
+﻿ViewType = VIEW_TYPE_NOTHING
+ViewPower = VIEW_POWER_LED30W
+ViewAnglePan = 120
+ViewAngleTilt = 90
+ViewAngleBeam = 16
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 16777215
+
+2DViewImage = Showtec/Lasers/Galactic BlueStarMKII#51317.png 
+
+Channel = mode
+ closed,0,0 ARA,52,102 SRA,103,154 audio,200,200 dmx,255,255
+
+Channel = red
+ closed,0,0 open,100,100 strobe,128,254 audio,255,255
+
+Channel = green
+ closed,0,0 open,100,100 strobe,128,254 audio,255,255
+
+Channel = laser_rolling
+ no_function,0,0 right_rotate,5,127 stop,130,130 left_rotate,134,255
+
+Channel = led_rolling
+ no_function,0,0 right_rotate,5,127 stop,130,130 left_rotate,134,255
+
+Channel = dimmer
+
+Channel = shutter
+ closed,0,0 open,100,100 strobe,128,254 audio,255,255 
+
+

@@ -1,0 +1,339 @@
+﻿
+[Params]
+Version = 0.2
+CommentTimeLine = 0
+LightTimeLines = 9
+MediaTimeLines = 1
+ShowWaveForm = 1
+MaxTime = 0:03:50
+Zoom = 0
+TimeLine_1 = V I D E O   P I C T U R E   T I M E L I N E
+TimeLine_2 = A U D I O   T I M E L I N E
+TimeLine_3 = L I G H T   S C E N E   T I M E L I N E   #   1
+TimeLine_4 = L I G H T   S C E N E   T I M E L I N E   #   2
+TimeLine_5 = L I G H T   S C E N E   T I M E L I N E   #   3
+TimeLine_6 = L I G H T   S C E N E   T I M E L I N E   #   4
+TimeLine_7 = L I G H T   S C E N E   T I M E L I N E   #   5
+TimeLine_8 = L I G H T   S C E N E   T I M E L I N E   #   6
+TimeLine_9 = L I G H T   S C E N E   T I M E L I N E   #   7
+TimeLine_10 = L I G H T   S C E N E   T I M E L I N E   #   8
+TimeLine_11 = L I G H T   S C E N E   T I M E L I N E   #   9
+[Event_0]
+TimeLineIndex = 2
+StartTime = 0:00:00.0
+Path = C:/Users/juli1/OneDrive/Documents/Soirées cab 2023/Celtik  Kilt Official.mp3
+Length = 0:02:17.1
+[Event_1]
+TimeLineIndex = 3
+StartTime = 0:00:00.0
+Path = LYRES Position entrée.scex
+Length = 0:00:01.0
+Speed = 100
+SpeedType = 2
+[Event_2]
+TimeLineIndex = 4
+StartTime = 0:00:00.0
+Path = LYRES Effet zoom mini.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_3]
+TimeLineIndex = 5
+StartTime = 0:00:01.1
+Path = LYRES Dimmer continu salle progressif.scex
+Length = 0:00:08.0
+NoLoop = 1
+Speed = 100
+SpeedType = 2
+[Event_4]
+TimeLineIndex = 6
+StartTime = 0:00:01.1
+Path = LYRES Défilement aléatoire.scex
+Length = 0:00:04.2
+Speed = 100
+SpeedType = 2
+[Event_5]
+TimeLineIndex = 6
+StartTime = 0:00:05.6
+Path = LYRES Blanc.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_6]
+TimeLineIndex = 5
+StartTime = 0:00:05.6
+Path = LYRES Strob 1.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_7]
+TimeLineIndex = 7
+StartTime = 0:00:06.7
+Path = PC Défilement 1.scex
+Length = 0:00:03.8
+Speed = 100
+SpeedType = 2
+[Event_8]
+TimeLineIndex = 5
+StartTime = 0:00:06.7
+Path = LYRES Défilement devant-derrière.scex
+Length = 0:00:02.8
+Speed = 100
+SpeedType = 2
+[Event_9]
+TimeLineIndex = 6
+StartTime = 0:00:14.0
+Path = LYRES Multicouleurs 3.scex
+Length = 0:00:06.6
+Speed = 100
+SpeedType = 2
+[Event_10]
+TimeLineIndex = 7
+StartTime = 0:00:20.8
+Path = OFF
+[Event_11]
+TimeLineIndex = 5
+StartTime = 0:00:20.8
+Path = OFF
+[Event_12]
+TimeLineIndex = 3
+StartTime = 0:00:20.9
+Path = LYRES Mouvement circle salle (6 appareils).gpj
+Length = 0:00:10.0
+Speed = 100
+SpeedType = 2
+[Event_13]
+TimeLineIndex = 5
+StartTime = 0:00:21.6
+Path = LYRES Dimmer interrompu (6 appareils).gpj
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_14]
+TimeLineIndex = 7
+StartTime = 0:00:32.5
+Path = STROB Lent.scex
+Length = 0:00:05.0
+FadeIn = 400
+Speed = 100
+SpeedType = 2
+[Event_15]
+TimeLineIndex = 3
+StartTime = 0:00:36.1
+Path = LYRES Position entrée.scex
+Length = 0:00:01.0
+Speed = 100
+SpeedType = 2
+[Event_16]
+TimeLineIndex = 7
+StartTime = 0:00:36.2
+Path = OFF
+[Event_17]
+TimeLineIndex = 5
+StartTime = 0:00:36.2
+Path = OFF
+[Event_18]
+TimeLineIndex = 6
+StartTime = 0:00:36.5
+Path = LYRES Blanc.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_19]
+TimeLineIndex = 5
+StartTime = 0:00:36.8
+Path = LYRES Chenillard 1.scex
+Length = 0:00:04.2
+Speed = 100
+SpeedType = 2
+[Event_20]
+TimeLineIndex = 7
+StartTime = 0:00:44.3
+Path = STROB BPM 260 Progressif.scex
+Length = 0:00:12.0
+Speed = 100
+SpeedType = 2
+[Event_21]
+TimeLineIndex = 7
+StartTime = 0:00:51.2
+Path = OFF
+[Event_22]
+TimeLineIndex = 5
+StartTime = 0:00:51.2
+Path = OFF
+[Event_23]
+TimeLineIndex = 6
+StartTime = 0:00:51.6
+Path = LYRES Jaune.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_24]
+TimeLineIndex = 5
+StartTime = 0:00:51.8
+Path = LYRES Défilement droite-gauche.scex
+Length = 0:00:01.4
+Speed = 100
+SpeedType = 2
+[Event_25]
+TimeLineIndex = 5
+StartTime = 0:00:58.7
+Path = OFF
+[Event_26]
+TimeLineIndex = 3
+StartTime = 0:00:59.3
+Path = LYRES Effet positions salle 1.scex
+Length = 0:00:03.8
+Speed = 100
+SpeedType = 2
+[Event_27]
+TimeLineIndex = 5
+StartTime = 0:00:59.3
+Path = LYRES Strob 1.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_28]
+TimeLineIndex = 5
+StartTime = 0:01:05.9
+Path = OFF
+[Event_29]
+TimeLineIndex = 3
+StartTime = 0:01:06.1
+Path = LYRES Mouvement crown salle (6 appareils) rapide.gpj
+Length = 0:00:07.0
+Speed = 100
+SpeedType = 2
+[Event_30]
+TimeLineIndex = 6
+StartTime = 0:01:06.3
+Path = LYRES Couleurs chaudes.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_31]
+TimeLineIndex = 7
+StartTime = 0:01:06.7
+Path = PC.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_32]
+TimeLineIndex = 5
+StartTime = 0:01:06.7
+Path = LYRES Dimmer(6).scex
+Length = 0:00:10.0
+Speed = 100
+SpeedType = 2
+[Event_33]
+TimeLineIndex = 7
+StartTime = 0:01:07.0
+Path = OFF
+[Event_34]
+TimeLineIndex = 7
+StartTime = 0:01:10.4
+Path = PC.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_35]
+TimeLineIndex = 7
+StartTime = 0:01:10.7
+Path = OFF
+[Event_36]
+TimeLineIndex = 7
+StartTime = 0:01:14.0
+Path = PC.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_37]
+TimeLineIndex = 7
+StartTime = 0:01:14.3
+Path = OFF
+[Event_38]
+TimeLineIndex = 7
+StartTime = 0:01:17.8
+Path = PC.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_39]
+TimeLineIndex = 7
+StartTime = 0:01:18.1
+Path = OFF
+[Event_40]
+TimeLineIndex = 7
+StartTime = 0:01:21.6
+Path = PC.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_41]
+TimeLineIndex = 7
+StartTime = 0:01:21.9
+Path = OFF
+[Event_42]
+TimeLineIndex = 7
+StartTime = 0:01:25.3
+Path = PC.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_43]
+TimeLineIndex = 7
+StartTime = 0:01:25.6
+Path = OFF
+[Event_44]
+TimeLineIndex = 7
+StartTime = 0:01:29.0
+Path = PC.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_45]
+TimeLineIndex = 7
+StartTime = 0:01:29.3
+Path = OFF
+[Event_46]
+TimeLineIndex = 7
+StartTime = 0:01:32.7
+Path = PC.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_47]
+TimeLineIndex = 7
+StartTime = 0:01:33.0
+Path = OFF
+[Event_48]
+TimeLineIndex = 5
+StartTime = 0:01:36.4
+Path = OFF
+[Event_49]
+TimeLineIndex = 7
+StartTime = 0:01:36.4
+Path = PC.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_50]
+TimeLineIndex = 7
+StartTime = 0:01:36.7
+Path = OFF
+[Event_51]
+TimeLineIndex = 6
+StartTime = 0:01:37.0
+Path = OFF
+[Event_52]
+TimeLineIndex = 3
+StartTime = 0:01:37.0
+Path = OFF
+[Event_53]
+TimeLineIndex = 4
+StartTime = 0:01:37.0
+Path = OFF
+[Event_54]
+TimeLineIndex = 2
+StartTime = 0:01:42.6
+Path = OFF

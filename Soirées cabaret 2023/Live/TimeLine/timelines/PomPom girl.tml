@@ -1,0 +1,415 @@
+﻿
+[Params]
+Version = 0.2
+CommentTimeLine = 0
+LightTimeLines = 8
+MediaTimeLines = 1
+ShowWaveForm = 1
+MaxTime = 0:30:00
+Zoom = 0
+TimeLine_1 = V I D E O   P I C T U R E   T I M E L I N E
+TimeLine_2 = A U D I O   T I M E L I N E
+TimeLine_3 = L I G H T   S C E N E   T I M E L I N E   #   1
+TimeLine_4 = L I G H T   S C E N E   T I M E L I N E   #   2
+TimeLine_5 = L I G H T   S C E N E   T I M E L I N E   #   3
+TimeLine_6 = L I G H T   S C E N E   T I M E L I N E   #   4
+TimeLine_7 = L I G H T   S C E N E   T I M E L I N E   #   5
+TimeLine_8 = L I G H T   S C E N E   T I M E L I N E   #   6
+TimeLine_9 = L I G H T   S C E N E   T I M E L I N E   #   7
+TimeLine_10 = L I G H T   S C E N E   T I M E L I N E   #   8
+[Event_0]
+TimeLineIndex = 3
+StartTime = 0:00:00.0
+Path = Brouillard pendant danse.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_1]
+TimeLineIndex = 5
+StartTime = 0:00:00.0
+Path = LYRES Mouvement crown scène lent.gpj
+Length = 0:00:16.0
+FadeOut = 100
+Speed = 100
+SpeedType = 2
+[Event_2]
+TimeLineIndex = 8
+StartTime = 0:00:00.2
+Path = LIVEKOLOR 4 couleurs 2.scex
+Length = 0:00:06.4
+Speed = 100
+SpeedType = 2
+[Event_3]
+TimeLineIndex = 2
+StartTime = 0:00:00.4
+Path = E:/SC 2023/Musiques programmes/INTRO POM POM GIRL.mp3
+Length = 0:01:17.1
+[Event_4]
+TimeLineIndex = 4
+StartTime = 0:00:00.4
+Path = PC moitier.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_5]
+TimeLineIndex = 9
+StartTime = 0:00:00.7
+Path = LIVEKOLOR Dimmer continu.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_6]
+TimeLineIndex = 7
+StartTime = 0:00:02.5
+Path = LYRES Dimmer continu.gpj
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_7]
+TimeLineIndex = 6
+StartTime = 0:00:02.7
+Path = LYRES Rouge.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_8]
+TimeLineIndex = 8
+StartTime = 0:00:02.7
+Path = LIVEKOLOR Bleu.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_9]
+TimeLineIndex = 8
+StartTime = 0:00:03.2
+Path = LIVEKOLOR Jaune.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_10]
+TimeLineIndex = 6
+StartTime = 0:00:03.2
+Path = LYRES Cyan.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_11]
+TimeLineIndex = 8
+StartTime = 0:00:03.7
+Path = LIVEKOLOR Vert.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_12]
+TimeLineIndex = 6
+StartTime = 0:00:03.7
+Path = LYRES Violet.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_13]
+TimeLineIndex = 6
+StartTime = 0:00:04.3
+Path = LYRES Orange.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_14]
+TimeLineIndex = 8
+StartTime = 0:00:04.3
+Path = LIVEKOLOR Rose.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_15]
+TimeLineIndex = 8
+StartTime = 0:00:04.8
+Path = LIVEKOLOR couleurs chaudes.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_16]
+TimeLineIndex = 6
+StartTime = 0:00:04.8
+Path = LYRES Couleurs froides.scex
+Length = 0:00:06.6
+Speed = 100
+SpeedType = 2
+[Event_17]
+TimeLineIndex = 8
+StartTime = 0:00:08.1
+Path = LIVEKOLOR couleurs froides.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_18]
+TimeLineIndex = 6
+StartTime = 0:00:08.1
+Path = LYRES Couleurs chaudes.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_19]
+TimeLineIndex = 6
+StartTime = 0:00:11.7
+Path = LYRES Couleurs froides.scex
+Length = 0:00:06.6
+Speed = 100
+SpeedType = 2
+[Event_20]
+TimeLineIndex = 8
+StartTime = 0:00:11.7
+Path = LIVEKOLOR couleurs chaudes.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_21]
+TimeLineIndex = 8
+StartTime = 0:00:19.3
+Path = LIVEKOLOR couleurs froides.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_22]
+TimeLineIndex = 6
+StartTime = 0:00:19.3
+Path = LYRES Couleurs chaudes.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_23]
+TimeLineIndex = 6
+StartTime = 0:00:23.1
+Path = LYRES Couleurs froides.scex
+Length = 0:00:06.6
+Speed = 100
+SpeedType = 2
+[Event_24]
+TimeLineIndex = 8
+StartTime = 0:00:23.1
+Path = LIVEKOLOR couleurs chaudes.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_25]
+TimeLineIndex = 6
+StartTime = 0:00:27.0
+Path = LYRES Couleurs chaudes.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_26]
+TimeLineIndex = 8
+StartTime = 0:00:27.0
+Path = LIVEKOLOR couleurs froides.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_27]
+TimeLineIndex = 8
+StartTime = 0:00:32.8
+Path = LIVEKOLOR Bleu.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_28]
+TimeLineIndex = 6
+StartTime = 0:00:32.8
+Path = LYRES Rouge.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_29]
+TimeLineIndex = 6
+StartTime = 0:00:33.3
+Path = LYRES Cyan.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_30]
+TimeLineIndex = 8
+StartTime = 0:00:33.3
+Path = LIVEKOLOR Jaune.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_31]
+TimeLineIndex = 6
+StartTime = 0:00:33.8
+Path = LYRES Violet.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_32]
+TimeLineIndex = 8
+StartTime = 0:00:33.8
+Path = LIVEKOLOR Vert.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_33]
+TimeLineIndex = 8
+StartTime = 0:00:34.4
+Path = LIVEKOLOR Rose.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_34]
+TimeLineIndex = 6
+StartTime = 0:00:34.4
+Path = LYRES Orange.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_35]
+TimeLineIndex = 8
+StartTime = 0:00:35.1
+Path = LIVEKOLOR couleurs chaudes.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_36]
+TimeLineIndex = 6
+StartTime = 0:00:35.1
+Path = LYRES Couleurs froides.scex
+Length = 0:00:06.6
+Speed = 100
+SpeedType = 2
+[Event_37]
+TimeLineIndex = 8
+StartTime = 0:00:38.4
+Path = LIVEKOLOR couleurs froides.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_38]
+TimeLineIndex = 6
+StartTime = 0:00:38.4
+Path = LYRES Couleurs chaudes.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_39]
+TimeLineIndex = 6
+StartTime = 0:00:42.1
+Path = LYRES Couleurs froides.scex
+Length = 0:00:06.6
+Speed = 100
+SpeedType = 2
+[Event_40]
+TimeLineIndex = 8
+StartTime = 0:00:42.1
+Path = LIVEKOLOR couleurs chaudes.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_41]
+TimeLineIndex = 6
+StartTime = 0:00:48.5
+Path = LYRES Couleurs chaudes zoom moyen.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_42]
+TimeLineIndex = 8
+StartTime = 0:00:48.5
+Path = LIVEKOLOR couleurs froides.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_43]
+TimeLineIndex = 5
+StartTime = 0:00:48.5
+Path = LYRES Mouvement circle scène vitesse moyenne.gpj
+Length = 0:00:10.0
+FadeIn = 100
+Speed = 100
+SpeedType = 2
+[Event_44]
+TimeLineIndex = 6
+StartTime = 0:00:55.3
+Path = LYRES Couleurs froides moyen zoom.scex
+Length = 0:00:06.6
+Speed = 100
+SpeedType = 2
+[Event_45]
+TimeLineIndex = 8
+StartTime = 0:00:55.3
+Path = LIVEKOLOR couleurs chaudes.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_46]
+TimeLineIndex = 6
+StartTime = 0:01:03.2
+Path = LYRES Couleurs chaudes zoom moyen.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_47]
+TimeLineIndex = 8
+StartTime = 0:01:03.2
+Path = LIVEKOLOR couleurs froides.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_48]
+TimeLineIndex = 3
+StartTime = 0:01:10.5
+Path = OFF
+[Event_49]
+TimeLineIndex = 6
+StartTime = 0:01:10.8
+Path = LYRES Couleurs froides moyen zoom.scex
+Length = 0:00:06.6
+Speed = 100
+SpeedType = 2
+[Event_50]
+TimeLineIndex = 8
+StartTime = 0:01:10.8
+Path = LIVEKOLOR couleurs chaudes.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_51]
+TimeLineIndex = 3
+StartTime = 0:01:11.0
+Path = Brouillard après danse.scex
+Length = 0:01:30.0
+Speed = 100
+SpeedType = 2
+[Event_52]
+TimeLineIndex = 8
+StartTime = 0:01:17.3
+Path = LIVEKOLOR Blanc.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_53]
+TimeLineIndex = 7
+StartTime = 0:01:17.3
+Path = OFF
+[Event_54]
+TimeLineIndex = 6
+StartTime = 0:01:18.0
+Path = OFF
+[Event_55]
+TimeLineIndex = 4
+StartTime = 0:01:18.6
+Path = OFF
+[Event_56]
+TimeLineIndex = 8
+StartTime = 0:01:18.9
+Path = OFF
+[Event_57]
+TimeLineIndex = 9
+StartTime = 0:01:18.9
+Path = OFF
+[Event_58]
+TimeLineIndex = 5
+StartTime = 0:01:20.6
+Path = OFF
+[Event_59]
+TimeLineIndex = 3
+StartTime = 0:01:37.2
+Path = STOP

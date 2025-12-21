@@ -1,0 +1,19 @@
+﻿ViewType = VIEW_TYPE_NOTHING
+ViewPower = VIEW_POWER_LED30W
+ViewAnglePan = 120
+ViewAngleTilt = 90
+ViewAngleBeam = 16
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 16777215
+3DViewShape = 
+2DViewImage = Contest/Gamme mini/MINICUBE-6TCB .png
+
+Channel = fan
+ dimmer,0,245 audio,246,255 
+
+Channel = color_macro
+ no_function,0,10 red,11,20 orange,21,30 yellow,31,40 green,41,51 cyan,52,61 blue,62,71 pink,72,81 magenta,82,92 cold_white,93,102 warm_white,103,112 macro_1,113,122 macro_2,123,133 macro_3,134,143 macro_4,144,153 macro_5,154,163 macro_6,164,174 macro_7,175,184 macro_8,185,194 macro_9,195,204 macro_10,205,215 macro_11,216,225 macro_12,226,235 macro_13,236,245 auto,246,255 
+
