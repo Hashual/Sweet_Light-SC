@@ -1,0 +1,16 @@
+﻿ViewType = VIEW_TYPE_STROBE
+ViewPower = VIEW_POWER_LAMP575W
+ViewAnglePan = 120
+ViewAngleTilt = 120
+ViewAngleBeam = 120
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 13158600
+2DViewImage = Contest/Light DJ/STB-520 .png
+
+Channel = strobe_speed
+
+Channel = strobe_dimmer
+

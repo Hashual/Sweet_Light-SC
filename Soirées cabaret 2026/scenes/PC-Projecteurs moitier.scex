@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1664018564" name="PC" model="OvationP56VW(1ch)"/>
+    <Fixture id="1664019710" name="PC #2" model="OvationP56VW(1ch)"/>
+    <Fixture id="1664315814" name="Projecteurs #2" model="Ovation F-95WW (1CH-UNO)"/>
+  </Fixtures>
+  <Steps>
+    <Step length="500">
+      <Fixture id="1664018564">
+        <Channel index="0" name="dimmer" value="100"/>
+      </Fixture>
+      <Fixture id="1664019710">
+        <Channel index="0" name="dimmer" value="100"/>
+      </Fixture>
+      <Fixture id="1664315814">
+        <Channel index="0" name="dimmer" value="100" fade="1"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

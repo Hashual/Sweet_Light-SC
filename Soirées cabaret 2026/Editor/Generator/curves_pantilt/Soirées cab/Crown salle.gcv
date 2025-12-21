@@ -1,0 +1,15 @@
+﻿
+[Curve]
+Transition = 1
+Duration = 100
+Shift = 14.7
+Point_0 = 0,13364
+Point_1 = 1799,40092
+Point_2 = 4369,13364
+Point_3 = 8481,40092
+Point_4 = 12850,13364
+Point_5 = 15163,40092
+Point_6 = 16962,13364
+Point_7 = 11822,40092
+Point_8 = 8481,13364
+Point_9 = 5140,40092

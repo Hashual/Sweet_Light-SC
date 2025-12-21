@@ -1,0 +1,63 @@
+﻿ViewType = VIEW_TYPE_COLOR_CHANGER
+ViewPower = VIEW_POWER_LED30W
+ViewAnglePan = 120
+ViewAngleTilt = 90
+ViewAngleBeam = 5
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 16777215
+2DViewImage = Chauvet/PRO/Colorado 1 Solo - FRONT.png
+
+Channel = dimmer
+ dimmer,0,255
+
+Channel = udimmer
+ dimmer,0,255
+
+Channel = red
+ dimmer,0,255
+
+Channel = ured
+ dimmer,0,255
+
+Channel = green
+ dimmer,0,255
+
+Channel = ugreen
+ dimmer,0,255
+
+Channel = blue
+ dimmer,0,255
+
+Channel = ublue
+ dimmer,0,255
+
+Channel = white
+ dimmer,0,255
+
+Channel = uwhite
+ dimmer,0,255
+
+Channel = color_macro
+ no_function,0,10 Red 100% Green 0-100% B 0%,11,30 Red 100-0 Green 100% Blue,31,50 Red 0 Green 100 Blue 0-100,51,70 Red 0 Green 100-0 Blue 100,71,90 Red 0-100 Green 0 Blue 100,91,110 Red 100 Green 0 Blue 100-0,111,130 Red 100 Green 0-100 Blue 0-100,131,150 Red 100-0 Green 100-0 Blue 100,151,170 All Full ,171,195 2700k,196,200 3000k,201,205 3200k,206,210 3500k,211,215 4000k,216,220 4200k,221,225 4500k,226,230 5600k,231,235 6000k,236,240 6500k,241,245 7200k,246,250 8000k,251,255
+
+Channel = strobe_effect
+ no_function,0,9 Slow to Fast,10,99 no_function,100,109 Lightning Strobe,110,179 no_function,180,189 Random Strobe,190,255
+
+Channel = mode
+ no_function,0,40 Auto 1,41,50 Auto 2,51,60 Auto 3,61,70 Auto 4,71,80 Auto 5,81,90 Auto 6,91,100 Auto 7,101,110 Auto 8,111,120 Auto 9,121,130 Auto 10,131,140 Program 1,141,150 Program 2,151,160 Program 3,161,170 Program 4,171,180 Program 5,181,190 Program 6,191,200 Program 7,201,210 Program 8,211,220 Program 9,221,230 Program 10,231,255
+
+Channel = speed_control
+ dimmer,0,255
+
+Channel = zoom
+ Zoom,0,255
+
+Channel = Zoom Control
+ no_function,0,200 Zoom Reset,201,220 no_function,221,255
+
+Channel = Dimmer Speed
+ no_function,0,9 Off,10,29 Dim 1,30,69 Dim 2,70,129 Dim 3,130,189 Dim 4,190,255
+

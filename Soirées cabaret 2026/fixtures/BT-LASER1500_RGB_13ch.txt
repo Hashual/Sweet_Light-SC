@@ -1,0 +1,51 @@
+﻿ViewType = VIEW_TYPE_NOTHING
+ViewPower = VIEW_POWER_LED30W
+ViewAnglePan = 120
+ViewAngleTilt = 90
+ViewAngleBeam = 16
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 16777215
+2DViewImage = Briteq/BT-LASER1500-RGB.png
+
+Channel = mode
+ closed,0,73 PRG show in SD card,74,110 ILD show in SD card,111,147 pattern_01,148,165 pattern_02,166,184 audio1,185,202 audio2,203,221 dmx,222,255 
+
+Channel = pattern
+ 128 patterns as show in pattern list,0,255 
+
+Channel = strobe_effect
+ closed,0,5 open,6,10 strobe,11,199 strobe_sound,200,255 
+
+Channel = pan
+ X position,0,125 speed_control,126,185 Moving with random speed,186,225 Random position,226,245 audio,246,255 
+
+Channel = tilt
+ Y position,0,125 speed_control,126,185 Moving with random speed,186,225 Random position,226,245 audio,246,255 
+
+Channel = zoom
+ no_function,0,10 Fixed sizing,11,100 Zooming OUT,101,150 Zooming IN,151,200 Zooming OUT and IN,201,255 
+
+Channel = Y axis rolling
+ no_function,0,10 Fixed rolled position,11,110 Rolling from slow to fast,111,255 
+
+Channel = X axis rolling
+ no_function,0,10 Fixed rolled position,11,110 Rolling from slow to fast,111,255 
+
+Channel = Z axis rolling
+ no_function,0,0 Fixed rolled position,1,180 right_rotate,181,217 left_rotate,218,255 
+
+Channel = Clipping
+ no_function,0,9 Fixed clipping,10,74 Clipping OUT,75,104 Clipping IN,105,144 Clipping OUT and IN,145,184 Clipping ON,185,224 Clipping OFF,225,255 
+
+Channel = Wave
+ no_function,0,9 speed_control,10,199 Wave effect amplitude control,200,255 
+
+Channel = color
+ white,0,16 red,17,33 dark_green,34,50 blue,51,67 yellow,68,84 purple,85,101 cyan,102,118 W,R,G,B,119,135 B,Y,P,C,136,152 Severn colors,153,169 W,R,G,B colors looping,170,186 B,Y,P,C colors looping,187,203 Severn colors looping,204,220 random,221,237 audio,238,255 
+
+Channel = mode
+ Original Pattern,0,63 Pattern with bright points,64,127 Pattern with blanking,128,191 Points to make pattern,192,255 
+

@@ -1,0 +1,64 @@
+﻿ViewType = VIEW_TYPE_NOTHING
+ViewPower = VIEW_POWER_LED30W
+ViewAnglePan = 120
+ViewAngleTilt = 90
+ViewAngleBeam = 16
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 16777215
+3DViewShape = 
+2DViewImage = Chauvet/DJ/Eclipse RGB.png
+
+Channel = dimmer
+
+Channel = pattern
+
+Channel = pattern_speed
+ Standard Speed (50 fps),0,15 speed_control,16,255 
+
+Channel = Pattern Size
+ Decreasing size X + Y-axis,0,127 Decreasing size X-axis,128,191 Decreasing size Y-axis,192,255 
+
+Channel = Automatic Size
+ Full Size,0,63 Changing size automatically X + Y-axis (increasing speed),64,127 Changing size automatically X-axis (increasing speed),128,191 Changing size automatically Y-axis (increasing speed),192,255 
+
+Channel = Rotation
+ indexing,0,192 left_rotate,193,224 right_rotate,225,255 
+
+Channel = pan
+
+Channel = upan
+
+Channel = tilt
+
+Channel = utilt
+
+Channel = color_macro
+ Show pattern in original colors,0,15 Show pattern in different colors (monochrome),16,79 Re-colour effects: Original colors are replaced by new colors,80,143 Automatic change of re-color effects (increasing speed),144,255 
+
+Channel = Colour Effect Extended
+ Smooth color fade effect to the re-color effect,0,127 Blocking color effect to the re-color effect,128,192 Automatic change of color fade effects,193,255 
+
+Channel = shutter
+ open,0,15 strobe,16,255 
+
+Channel = mode
+ dmx,0,19 Automatic position X & Y-axis,20,83 Automatic position X-axis,84,147 Automatic position Y-axis,148,211 auto,212,233 audio,234,255 
+
+Channel = pantilt_speed
+ Default,0,31 Increasing scan speed (from 5 kpps to 30 kpps),32,255 
+
+Channel = Safety Zone Size
+ Size of horizontal safety zone - Safety zone is the bottom side,0,63 Size of horizontal safety zone - Safety zone is the upper side,64,127 Size of vertical safety zone - Safety zone is the left side,128,191 Size of vertical safety zone - Safety zone is the right side,192,255 
+
+Channel = Safety Zone Intensity
+ no_function,0,0 Decrease brightness up to half brightness,1,128 Decrease brightness up to blackout,129,255 
+
+Channel = Blanking
+ index,0,192 Automatic Blanking (increasing speed),193,255 
+
+Channel = Blankshift
+ index,0,192 Automatic Blankshift (increasing speed),193,255 
+
