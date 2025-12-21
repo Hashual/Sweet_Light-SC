@@ -6,6 +6,8 @@
     <Fixture id="1671300460" name="ServoColor4K #2" model="ServoColor600(16bits)"/>
     <Fixture id="1671300461" name="ServoColor4K #3" model="ServoColor600(16bits)"/>
     <Fixture id="1671300462" name="ServoColor4K #4" model="ServoColor600(16bits)"/>
+    <Fixture id="1766346200" name="ServoColor4K #7" model="ServoColor600(16bits)"/>
+    <Fixture id="1766346201" name="ServoColor4K #8" model="ServoColor600(16bits)"/>
     <Fixture id="1671368260" name="ServoColor4K #5" model="ServoColor600(16bits)"/>
     <Fixture id="1671368261" name="ServoColor4K #6" model="ServoColor600(16bits)"/>
   </Fixtures>
@@ -25,6 +27,14 @@
         <Channel index="8" name="red" value="255"/>
         <Channel index="9" name="green" value="128"/>
       </Fixture>
+      <Fixture id="1766346200">
+        <Channel index="8" name="red" value="201"/>
+        <Channel index="9" name="green" value="115"/>
+      </Fixture>
+      <Fixture id="1766346201">
+        <Channel index="8" name="red" value="194"/>
+        <Channel index="10" name="blue" value="103"/>
+      </Fixture>
       <Fixture id="1671368260">
         <Channel index="8" name="red" value="255"/>
       </Fixture>
@@ -49,6 +59,12 @@
         <Channel index="9" name="green" value="255"/>
         <Channel index="10" name="blue" value="255"/>
       </Fixture>
+      <Fixture id="1766346200">
+        <Channel index="10" name="blue" value="182"/>
+      </Fixture>
+      <Fixture id="1766346201">
+        <Channel index="9" name="green" value="154"/>
+      </Fixture>
       <Fixture id="1671368260">
         <Channel index="9" name="green" value="255"/>
       </Fixture>
@@ -74,6 +90,14 @@
         <Channel index="8" name="red" value="165"/>
         <Channel index="10" name="blue" value="255"/>
       </Fixture>
+      <Fixture id="1766346200">
+        <Channel index="8" name="red" value="255"/>
+        <Channel index="9" name="green" value="246"/>
+      </Fixture>
+      <Fixture id="1766346201">
+        <Channel index="9" name="green" value="255"/>
+        <Channel index="10" name="blue" value="255"/>
+      </Fixture>
       <Fixture id="1671368260">
         <Channel index="10" name="blue" value="255"/>
       </Fixture>
@@ -97,6 +121,15 @@
       <Fixture id="1671300462">
         <Channel index="8" name="red" value="255"/>
       </Fixture>
+      <Fixture id="1766346200">
+        <Channel index="8" name="red" value="255"/>
+        <Channel index="10" name="blue" value="255"/>
+      </Fixture>
+      <Fixture id="1766346201">
+        <Channel index="8" name="red" value="101"/>
+        <Channel index="9" name="green" value="255"/>
+        <Channel index="10" name="blue" value="141"/>
+      </Fixture>
       <Fixture id="1671368260">
         <Channel index="8" name="red" value="255"/>
         <Channel index="9" name="green" value="255"/>
@@ -119,6 +152,15 @@
       </Fixture>
       <Fixture id="1671300462">
         <Channel index="9" name="green" value="255"/>
+      </Fixture>
+      <Fixture id="1766346200">
+        <Channel index="8" name="red" value="255"/>
+        <Channel index="9" name="green" value="97"/>
+        <Channel index="10" name="blue" value="0"/>
+      </Fixture>
+      <Fixture id="1766346201">
+        <Channel index="9" name="green" value="200"/>
+        <Channel index="10" name="blue" value="194"/>
       </Fixture>
       <Fixture id="1671368260">
         <Channel index="8" name="red" value="255"/>
@@ -142,6 +184,12 @@
       <Fixture id="1671300462">
         <Channel index="10" name="blue" value="255"/>
       </Fixture>
+      <Fixture id="1766346200">
+        <Channel index="10" name="blue" value="255"/>
+      </Fixture>
+      <Fixture id="1766346201">
+        <Channel index="8" name="red" value="255"/>
+      </Fixture>
       <Fixture id="1671368260">
         <Channel index="9" name="green" value="255"/>
         <Channel index="10" name="blue" value="255"/>
@@ -164,6 +212,14 @@
       <Fixture id="1671300462">
         <Channel index="8" name="red" value="255"/>
         <Channel index="9" name="green" value="255"/>
+      </Fixture>
+      <Fixture id="1766346200">
+        <Channel index="8" name="red" value="255"/>
+        <Channel index="9" name="green" value="255"/>
+      </Fixture>
+      <Fixture id="1766346201">
+        <Channel index="8" name="red" value="255"/>
+        <Channel index="10" name="blue" value="255"/>
       </Fixture>
       <Fixture id="1671368260">
         <Channel index="8" name="red" value="165"/>

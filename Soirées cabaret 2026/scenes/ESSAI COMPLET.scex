@@ -12,6 +12,8 @@
     <Fixture id="1664018564" name="PC" model="OvationP56VW(1ch)"/>
     <Fixture id="1664051413" name="Rasants" model="SlimPAR Pro QZ12 USB (6CH)"/>
     <Fixture id="1663943456" name="Strob" model="STB-520"/>
+    <Fixture id="1766346200" name="ServoColor4K #7" model="ServoColor600(16bits)"/>
+    <Fixture id="1766346201" name="ServoColor4K #8" model="ServoColor600(16bits)"/>
     <Fixture id="1671368260" name="ServoColor4K #5" model="ServoColor600(16bits)"/>
     <Fixture id="1671368261" name="ServoColor4K #6" model="ServoColor600(16bits)"/>
     <Fixture id="1664019710" name="PC #2" model="OvationP56VW(1ch)"/>
@@ -443,6 +445,20 @@
         <Channel index="6" name="strobe_effect" value="6"/>
         <Channel index="8" name="red" value="255"/>
       </Fixture>
+      <Fixture id="1766346200">
+        <Channel index="2" name="tilt" value="110" fade="1"/>
+        <Channel index="3" name="utilt" value="0" fade="1"/>
+        <Channel index="5" name="dimmer" value="255" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="8" name="red" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1766346201">
+        <Channel index="2" name="tilt" value="101" fade="1"/>
+        <Channel index="3" name="utilt" value="0" fade="1"/>
+        <Channel index="5" name="dimmer" value="255" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="8" name="red" value="255" fade="1"/>
+      </Fixture>
       <Fixture id="1671368260">
         <Channel index="2" name="tilt" value="110"/>
         <Channel index="3" name="utilt" value="0"/>
@@ -451,7 +467,7 @@
         <Channel index="8" name="red" value="255"/>
       </Fixture>
       <Fixture id="1671368261">
-        <Channel index="2" name="tilt" value="110" fade="1"/>
+        <Channel index="2" name="tilt" value="101" fade="1"/>
         <Channel index="3" name="utilt" value="0" fade="1"/>
         <Channel index="5" name="dimmer" value="255" fade="1"/>
         <Channel index="6" name="strobe_effect" value="6"/>
@@ -589,6 +605,15 @@
         <Channel index="5" name="dimmer" value="0"/>
         <Channel index="6" name="strobe_effect" value="6"/>
         <Channel index="8" name="red" value="255"/>
+      </Fixture>
+      <Fixture id="1766346201">
+        <Channel index="0" name="pan" value="255" fade="1"/>
+        <Channel index="1" name="upan" value="0" fade="1"/>
+        <Channel index="2" name="tilt" value="110" fade="1"/>
+        <Channel index="3" name="utilt" value="0" fade="1"/>
+        <Channel index="5" name="dimmer" value="0" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="8" name="red" value="255" fade="1"/>
       </Fixture>
       <Fixture id="1671368260">
         <Channel index="0" name="pan" value="255"/>

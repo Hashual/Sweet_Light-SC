@@ -6,6 +6,8 @@
     <Fixture id="1671300460" name="ServoColor4K #2" model="ServoColor600(16bits)"/>
     <Fixture id="1671300461" name="ServoColor4K #3" model="ServoColor600(16bits)"/>
     <Fixture id="1671300462" name="ServoColor4K #4" model="ServoColor600(16bits)"/>
+    <Fixture id="1766346200" name="ServoColor4K #7" model="ServoColor600(16bits)"/>
+    <Fixture id="1766346201" name="ServoColor4K #8" model="ServoColor600(16bits)"/>
     <Fixture id="1671368260" name="ServoColor4K #5" model="ServoColor600(16bits)"/>
     <Fixture id="1671368261" name="ServoColor4K #6" model="ServoColor600(16bits)"/>
   </Fixtures>
@@ -47,11 +49,23 @@
         <Channel index="7" name="zoom" value="255"/>
         <Channel index="11" name="white" value="255"/>
       </Fixture>
+      <Fixture id="1766346200">
+        <Channel index="2" name="tilt" value="180"/>
+        <Channel index="3" name="utilt" value="0"/>
+        <Channel index="6" name="strobe_effect" value="5"/>
+        <Channel index="11" name="white" value="255"/>
+      </Fixture>
+      <Fixture id="1766346201">
+        <Channel index="2" name="tilt" value="178"/>
+        <Channel index="3" name="utilt" value="0"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="11" name="white" value="255"/>
+      </Fixture>
       <Fixture id="1671368260">
         <Channel index="2" name="tilt" value="180"/>
         <Channel index="3" name="utilt" value="0"/>
-        <Channel index="6" name="strobe_effect" value="6"/>
-        <Channel index="11" name="white" value="255" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="5"/>
+        <Channel index="11" name="white" value="255"/>
       </Fixture>
       <Fixture id="1671368261">
         <Channel index="2" name="tilt" value="178"/>
@@ -101,12 +115,26 @@
         <Channel index="7" name="zoom" value="255"/>
         <Channel index="11" name="white" value="255"/>
       </Fixture>
+      <Fixture id="1766346200">
+        <Channel index="2" name="tilt" value="180"/>
+        <Channel index="3" name="utilt" value="0"/>
+        <Channel index="5" name="dimmer" value="255" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="11" name="white" value="255"/>
+      </Fixture>
+      <Fixture id="1766346201">
+        <Channel index="2" name="tilt" value="178"/>
+        <Channel index="3" name="utilt" value="0"/>
+        <Channel index="5" name="dimmer" value="255" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="6"/>
+        <Channel index="11" name="white" value="255"/>
+      </Fixture>
       <Fixture id="1671368260">
         <Channel index="2" name="tilt" value="180"/>
         <Channel index="3" name="utilt" value="0"/>
         <Channel index="5" name="dimmer" value="255" fade="1"/>
         <Channel index="6" name="strobe_effect" value="6"/>
-        <Channel index="11" name="white" value="255" fade="1"/>
+        <Channel index="11" name="white" value="255"/>
       </Fixture>
       <Fixture id="1671368261">
         <Channel index="2" name="tilt" value="178"/>

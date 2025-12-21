@@ -6,6 +6,8 @@
     <Fixture id="1671300460" name="ServoColor4K #2" model="ServoColor600(16bits)"/>
     <Fixture id="1671300461" name="ServoColor4K #3" model="ServoColor600(16bits)"/>
     <Fixture id="1671300462" name="ServoColor4K #4" model="ServoColor600(16bits)"/>
+    <Fixture id="1766346200" name="ServoColor4K #7" model="ServoColor600(16bits)"/>
+    <Fixture id="1766346201" name="ServoColor4K #8" model="ServoColor600(16bits)"/>
     <Fixture id="1671368260" name="ServoColor4K #5" model="ServoColor600(16bits)"/>
     <Fixture id="1671368261" name="ServoColor4K #6" model="ServoColor600(16bits)"/>
   </Fixtures>
@@ -22,6 +24,12 @@
       </Fixture>
       <Fixture id="1671300462">
         <Channel index="11" name="white" value="255"/>
+      </Fixture>
+      <Fixture id="1766346200">
+        <Channel index="11" name="white" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1766346201">
+        <Channel index="11" name="white" value="255" fade="1"/>
       </Fixture>
       <Fixture id="1671368260">
         <Channel index="11" name="white" value="255"/>
