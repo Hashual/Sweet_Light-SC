@@ -10,16 +10,20 @@
   <Steps>
     <Step length="500">
       <Fixture id="1664016596">
-        <Channel index="5" name="color_macro" value="22"/>
+        <Channel index="1" name="red" value="255"/>
+        <Channel index="2" name="green" value="128"/>
       </Fixture>
       <Fixture id="1664016597">
-        <Channel index="5" name="color_macro" value="22"/>
+        <Channel index="1" name="red" value="255"/>
+        <Channel index="2" name="green" value="128"/>
       </Fixture>
       <Fixture id="1664016598">
-        <Channel index="5" name="color_macro" value="22"/>
+        <Channel index="1" name="red" value="255"/>
+        <Channel index="2" name="green" value="128"/>
       </Fixture>
       <Fixture id="1663958226">
-        <Channel index="5" name="color_macro" value="22"/>
+        <Channel index="1" name="red" value="255"/>
+        <Channel index="2" name="green" value="128"/>
       </Fixture>
     </Step>
   </Steps>

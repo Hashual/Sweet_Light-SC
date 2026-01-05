@@ -11,24 +11,6 @@
     <Step length="500">
       <Fixture id="1664016596">
         <Channel index="0" name="dimmer" value="255"/>
-        <Channel index="6" name="strobe_effect" value="0"/>
-      </Fixture>
-      <Fixture id="1664016597">
-        <Channel index="0" name="dimmer" value="255"/>
-        <Channel index="6" name="strobe_effect" value="0"/>
-      </Fixture>
-      <Fixture id="1664016598">
-        <Channel index="0" name="dimmer" value="255"/>
-        <Channel index="6" name="strobe_effect" value="0"/>
-      </Fixture>
-      <Fixture id="1663958226">
-        <Channel index="0" name="dimmer" value="255"/>
-        <Channel index="6" name="strobe_effect" value="0"/>
-      </Fixture>
-    </Step>
-    <Step length="500">
-      <Fixture id="1664016596">
-        <Channel index="0" name="dimmer" value="255"/>
         <Channel index="6" name="strobe_effect" value="99"/>
       </Fixture>
       <Fixture id="1664016597">

@@ -14,32 +14,36 @@
   <Steps>
     <Step length="500">
       <Fixture id="1671299957">
-        <Channel index="12" name="color_macro" value="20"/>
+        <Channel index="8" name="red" value="255"/>
+        <Channel index="9" name="green" value="156"/>
       </Fixture>
       <Fixture id="1671300460">
-        <Channel index="12" name="color_macro" value="20"/>
+        <Channel index="8" name="red" value="255"/>
+        <Channel index="9" name="green" value="156"/>
       </Fixture>
       <Fixture id="1671300461">
-        <Channel index="12" name="color_macro" value="20"/>
+        <Channel index="8" name="red" value="255"/>
+        <Channel index="9" name="green" value="156"/>
       </Fixture>
       <Fixture id="1671300462">
-        <Channel index="12" name="color_macro" value="20"/>
+        <Channel index="8" name="red" value="255"/>
+        <Channel index="9" name="green" value="156"/>
       </Fixture>
       <Fixture id="1766346200">
-        <Channel index="12" name="color_macro" value="20"/>
+        <Channel index="8" name="red" value="255"/>
+        <Channel index="9" name="green" value="156"/>
       </Fixture>
       <Fixture id="1766346201">
-        <Channel index="12" name="color_macro" value="20"/>
+        <Channel index="8" name="red" value="255"/>
+        <Channel index="9" name="green" value="156"/>
       </Fixture>
       <Fixture id="1671368260">
         <Channel index="8" name="red" value="255"/>
-        <Channel index="9" name="green" value="128"/>
-        <Channel index="12" name="color_macro" value="20"/>
+        <Channel index="9" name="green" value="156"/>
       </Fixture>
       <Fixture id="1671368261">
         <Channel index="8" name="red" value="255"/>
-        <Channel index="9" name="green" value="128"/>
-        <Channel index="12" name="color_macro" value="20"/>
+        <Channel index="9" name="green" value="156"/>
       </Fixture>
     </Step>
   </Steps>
