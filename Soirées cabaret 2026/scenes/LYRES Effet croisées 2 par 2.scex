@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1671299957" name="ServoColor4K" model="ServoColor600(16bits)"/>
+    <Fixture id="1671300460" name="ServoColor4K #2" model="ServoColor600(16bits)"/>
+    <Fixture id="1671300461" name="ServoColor4K #3" model="ServoColor600(16bits)"/>
+    <Fixture id="1671300462" name="ServoColor4K #4" model="ServoColor600(16bits)"/>
+    <Fixture id="1766346200" name="ServoColor4K #7" model="ServoColor600(16bits)"/>
+    <Fixture id="1766346201" name="ServoColor4K #8" model="ServoColor600(16bits)"/>
+    <Fixture id="1671368260" name="ServoColor4K #5" model="ServoColor600(16bits)"/>
+    <Fixture id="1671368261" name="ServoColor4K #6" model="ServoColor600(16bits)"/>
+  </Fixtures>
+  <Steps>
+    <Step length="500">
+      <Fixture id="1671299957">
+        <Channel index="0" name="pan" value="144"/>
+        <Channel index="1" name="upan" value="131"/>
+        <Channel index="2" name="tilt" value="46"/>
+        <Channel index="3" name="utilt" value="157"/>
+      </Fixture>
+      <Fixture id="1671300460">
+        <Channel index="0" name="pan" value="154"/>
+        <Channel index="1" name="upan" value="197"/>
+        <Channel index="2" name="tilt" value="45"/>
+        <Channel index="3" name="utilt" value="229"/>
+      </Fixture>
+      <Fixture id="1671300461">
+        <Channel index="0" name="pan" value="146"/>
+        <Channel index="1" name="upan" value="89"/>
+        <Channel index="2" name="tilt" value="46"/>
+        <Channel index="3" name="utilt" value="157"/>
+      </Fixture>
+      <Fixture id="1671300462">
+        <Channel index="0" name="pan" value="152"/>
+        <Channel index="1" name="upan" value="80"/>
+        <Channel index="2" name="tilt" value="44"/>
+        <Channel index="3" name="utilt" value="118"/>
+      </Fixture>
+      <Fixture id="1766346200">
+        <Channel index="0" name="pan" value="52"/>
+        <Channel index="1" name="upan" value="76"/>
+        <Channel index="2" name="tilt" value="71"/>
+        <Channel index="3" name="utilt" value="182"/>
+      </Fixture>
+      <Fixture id="1766346201">
+        <Channel index="0" name="pan" value="119"/>
+        <Channel index="1" name="upan" value="72"/>
+        <Channel index="2" name="tilt" value="70"/>
+        <Channel index="3" name="utilt" value="254"/>
+      </Fixture>
+      <Fixture id="1671368260">
+        <Channel index="0" name="pan" value="55"/>
+        <Channel index="1" name="upan" value="13"/>
+        <Channel index="2" name="tilt" value="78"/>
+        <Channel index="3" name="utilt" value="225"/>
+      </Fixture>
+      <Fixture id="1671368261">
+        <Channel index="0" name="pan" value="112"/>
+        <Channel index="1" name="upan" value="219"/>
+        <Channel index="2" name="tilt" value="81"/>
+        <Channel index="3" name="utilt" value="8"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>
