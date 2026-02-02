@@ -1,0 +1,28 @@
+﻿ViewType = VIEW_TYPE_NOTHING
+ViewPower = VIEW_POWER_LED30W
+ViewAnglePan = 120
+ViewAngleTilt = 90
+ViewAngleBeam = 16
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 16777215
+3DViewShape = 
+2DViewImage = Chauvet/DJ/3D Magic.png
+
+Channel = mode
+ closed,0,49 audio,50,99 auto,100,149 Static Patterns,150,199 Dynamic Patterns,200,255 
+
+Channel = pattern
+
+Channel = pan
+
+Channel = tilt
+
+Channel = pantilt_speed
+
+Channel = pattern_speed
+
+Channel = Pattern Size
+

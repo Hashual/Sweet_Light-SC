@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1671299957" name="ServoColor4K" model="ServoColor600(16bits)"/>
+    <Fixture id="1671300460" name="ServoColor4K #2" model="ServoColor600(16bits)"/>
+    <Fixture id="1671300461" name="ServoColor4K #3" model="ServoColor600(16bits)"/>
+    <Fixture id="1671300462" name="ServoColor4K #4" model="ServoColor600(16bits)"/>
+  </Fixtures>
+  <Steps>
+    <Step length="500">
+      <Fixture id="1671299957">
+        <Channel index="0" name="pan" value="70" fade="1"/>
+        <Channel index="1" name="upan" value="0" fade="1"/>
+        <Channel index="2" name="tilt" value="84"/>
+        <Channel index="3" name="utilt" value="92"/>
+        <Channel index="7" name="zoom" value="80"/>
+      </Fixture>
+      <Fixture id="1671300460">
+        <Channel index="0" name="pan" value="78"/>
+        <Channel index="1" name="upan" value="204"/>
+        <Channel index="2" name="tilt" value="71"/>
+        <Channel index="3" name="utilt" value="6"/>
+        <Channel index="7" name="zoom" value="80"/>
+      </Fixture>
+      <Fixture id="1671300461">
+        <Channel index="0" name="pan" value="66"/>
+        <Channel index="1" name="upan" value="204"/>
+        <Channel index="2" name="tilt" value="66"/>
+        <Channel index="3" name="utilt" value="6"/>
+        <Channel index="7" name="zoom" value="80"/>
+        <Channel index="11" name="white" value="0"/>
+      </Fixture>
+      <Fixture id="1671300462">
+        <Channel index="0" name="pan" value="65" fade="1"/>
+        <Channel index="1" name="upan" value="0" fade="1"/>
+        <Channel index="2" name="tilt" value="76"/>
+        <Channel index="3" name="utilt" value="92"/>
+        <Channel index="7" name="zoom" value="97"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

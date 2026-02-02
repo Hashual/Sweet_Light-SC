@@ -1,0 +1,135 @@
+﻿
+[Params]
+PanTiltShift = 0.0
+ExplodePanTilt = 0
+GroupRGB = 0
+FanPanOffset = 0
+FanTiltOffset = 0
+[Fixture_0]
+ID = 1738429835
+Name = BirdyXSIII (10ch)
+DMX = 126
+Channels = pan,tilt,color,gobo,shutter,dimmer,pantilt_speed,effect_macro,control,Strip Ring
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_1]
+ID = 1738430290
+Name = BirdyXSIII (10ch) #2
+DMX = 136
+Channels = pan,tilt,color,gobo,shutter,dimmer,pantilt_speed,effect_macro,control,Strip Ring
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_2]
+ID = 1738430291
+Name = BirdyXSIII (10ch) #3
+DMX = 146
+Channels = pan,tilt,color,gobo,shutter,dimmer,pantilt_speed,effect_macro,control,Strip Ring
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_3]
+ID = 1738430292
+Name = BirdyXSIII (10ch) #4
+DMX = 156
+Channels = pan,tilt,color,gobo,shutter,dimmer,pantilt_speed,effect_macro,control,Strip Ring
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Pan/Tilt]
+Selected = 1
+CurveName = Default Curve
+Transition = 1
+Duration = 100
+Shift = 11.7
+Point_0 = 33151,11983
+Point_1 = 35288,32998
+Point_2 = 38705,12075
+Point_3 = 44174,32906
+Point_4 = 48617,13089
+Point_5 = 52633,32998
+Point_6 = 54854,11983
+Point_7 = 48190,33091
+Point_8 = 44174,11983
+Point_9 = 39816,32906
+[color]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[gobo]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[shutter]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[dimmer]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[pantilt_speed]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[effect_macro]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[control]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[Strip Ring]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535

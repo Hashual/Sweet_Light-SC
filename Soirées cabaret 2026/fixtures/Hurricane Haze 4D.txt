@@ -8,11 +8,10 @@ ViewReverseTilt = FALSE
 ViewReverseDimmer = FALSE
 ViewReverseIris = FALSE
 ViewColor = 16777215
+3DViewShape = 
 2DViewImage = Chauvet/DJ/Hurricane-Haze-4D.png
 
-Channel = fan
- fan,0,255 
-
 Channel = smoke_machine
- Haze output,0,255 
+
+Channel = fan
 

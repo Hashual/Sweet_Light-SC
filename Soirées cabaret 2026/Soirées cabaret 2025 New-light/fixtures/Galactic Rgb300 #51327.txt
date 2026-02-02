@@ -1,0 +1,57 @@
+﻿ViewType = VIEW_TYPE_NOTHING
+ViewPower = VIEW_POWER_LED30W
+ViewAnglePan = 120
+ViewAngleTilt = 90
+ViewAngleBeam = 16
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 16777215
+2DViewImage = Showtec/Lasers/Galactic Rgb300#51327.png
+
+Channel = mode
+ closed,0,0 auto1,30,30 auto2,80,80 audio1,110,110 audio2,160,160 auto_pattern,190,190 audio_pattern,210,210 dmx,255,255 
+
+Channel = group
+ #1,0,0 #2,80,80 #3,130,130 #4,180,180 #5,255,255
+
+Channel = pattern
+ pattern_01,0,0 pattern_02,20,20 pattern_03,36,36 pattern_04,52,52 pattern_05,68,68 pattern_06,84,84 pattern_07,100,100 pattern_08,116,116 pattern_09,132,132 pattern_10,148,148 pattern_11,164,164 pattern_12,180,180 pattern_13,196,196 pattern_14,212,212 pattern_15,228,228 pattern_16,255,255
+
+Channel = color_macro
+ no_function,0,0 red,12,12 green,20,20 yellow,28,28 blue,36,36 purple,44,44 light_blue,52,52 white,60,60 rolling,64,111 jumping,112,159 moving,160,207 strobe,208,255
+
+Channel = clipping
+ off,0,0 index,1,127 speed,128,255
+
+Channel = zoom
+ index,0,127 in,128,169 out,170,209 in_&_out,210,255
+
+Channel = zoom_speed
+
+Channel = Y_axis_rolling
+ index,0,127 right_rotate,128,191 left_rotate,192,255
+
+Channel = rol_speed
+
+Channel = X_axis_rolling
+ index,0,127 right_rotate,128,191 left_rotate,192,255
+
+Channel = rol_speed
+
+Channel = Z_axis_rolling
+ index,0,127 right_rotate,128,191 left_rotate,192,255
+
+Channel = rol_speed
+
+Channel = Y_axis_moving
+ index,0,127 right_rotate,128,191 left_rotate,192,255
+
+Channel = move_speed
+
+Channel = X_axis_moving
+ index,0,127 right_rotate,128,191 left_rotate,192,255
+
+Channel = move_speed
+

@@ -1,0 +1,93 @@
+﻿
+[Params]
+Version = 0.2
+CommentTimeLine = 0
+LightTimeLines = 20
+MediaTimeLines = 1
+ShowWaveForm = 1
+MaxTime = 0:30:00
+Zoom = 0
+TimeLine_1 = V I D E O   P I C T U R E   T I M E L I N E
+TimeLine_2 = A U D I O   T I M E L I N E
+TimeLine_3 = LYRES COULEUR 1
+TimeLine_4 = LYRES COULEUR 2
+TimeLine_5 = LYRES MOUVEMENT 1
+TimeLine_6 = LYRES MOUVEMENT 2
+TimeLine_7 = LYRES DIMMER 1
+TimeLine_8 = LYRES DIMMER 2
+TimeLine_9 = LIVEKOLOR COULEUR
+TimeLine_10 = LIVEKOLOR EFFECT
+TimeLine_11 = LIVEKOLOR DIMMER
+TimeLine_12 = SCENE EFFECTS
+TimeLine_13 = PC DANSE
+TimeLine_14 = FUMÉE
+TimeLine_15 = DIMMER SALLE
+TimeLine_16 = COULEUR SALLE
+TimeLine_17 = Birdy 1
+TimeLine_18 = Birdy 2
+TimeLine_19 = Birdy 3
+TimeLine_20 = HPE 700 1
+TimeLine_21 = HPE 700 2
+TimeLine_22 = HPE 700 3
+[Event_0]
+TimeLineIndex = 2
+StartTime = 0:00:00.0
+Path = musiques/final_99 LUFTBALLONS.wav
+Length = 0:00:31.8
+[Event_1]
+TimeLineIndex = 5
+StartTime = 0:00:00.0
+Path = lyres final.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_2]
+TimeLineIndex = 6
+StartTime = 0:00:00.9
+Path = LYRES Dimmer interrompu (6 appareils).gpj
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_3]
+TimeLineIndex = 4
+StartTime = 0:00:00.9
+Path = LYRES Multicouleurs 2.scex
+Length = 0:00:05.6
+FadeIn = 1
+FadeOut = 1
+Speed = 100
+SpeedType = 2
+[Event_4]
+TimeLineIndex = 9
+StartTime = 0:00:00.9
+Path = birdy mouvement salle.gpj
+Length = 0:00:10.0
+Speed = 100
+SpeedType = 2
+[Event_5]
+TimeLineIndex = 8
+StartTime = 0:00:00.9
+Path = Birdy multicouleurs.scex
+Length = 0:00:10.0
+Speed = 100
+SpeedType = 2
+[Event_6]
+TimeLineIndex = 5
+StartTime = 0:00:29.3
+Path = OFF
+[Event_7]
+TimeLineIndex = 4
+StartTime = 0:00:29.3
+Path = OFF
+[Event_8]
+TimeLineIndex = 6
+StartTime = 0:00:29.3
+Path = OFF
+[Event_9]
+TimeLineIndex = 8
+StartTime = 0:00:29.3
+Path = OFF
+[Event_10]
+TimeLineIndex = 9
+StartTime = 0:00:29.3
+Path = OFF

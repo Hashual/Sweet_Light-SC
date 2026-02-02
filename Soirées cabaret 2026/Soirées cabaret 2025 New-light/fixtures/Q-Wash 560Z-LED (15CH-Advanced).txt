@@ -1,0 +1,57 @@
+﻿ViewType = VIEW_TYPE_HEAD_WASH
+ViewPower = VIEW_POWER_LED60W
+ViewAnglePan = 540
+ViewAngleTilt = 270
+ViewAngleBeam = 0
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 16777215
+2DViewImage = Chauvet/PRO/Q-Wash560Z-2D.png
+
+Channel = pan
+ dimmer,0,255 
+
+Channel = upan
+ dimmer,0,255 
+
+Channel = tilt
+ dimmer,0,255 
+
+Channel = utilt
+ dimmer,0,255 
+
+Channel = pantilt_speed
+ dimmer,0,255 
+
+Channel = red
+ dimmer,0,255 
+
+Channel = green
+ dimmer,0,255 
+
+Channel = blue
+ dimmer,0,255 
+
+Channel = white
+ dimmer,0,255 
+
+Channel = amber
+ dimmer,0,255 
+
+Channel = color_macro
+ no_function,0,5 high_power,6,10 macro_1,11,30 macro_2,31,50 macro_3,51,70 macro_4,71,90 macro_5,91,110 macro_6,111,130 macro_7,131,150 macro_8,151,170 macro_9,171,200 macro_10,201,205 macro_11,206,210 macro_12,211,215 macro_13,216,220 macro_14,221,225 macro_15,226,230 macro_16,231,235 macro_17,236,240 macro_18,241,245 macro_19,246,250 macro_20,251,255
+
+Channel = dimmer
+ dimmer,0,255 
+
+Channel = shutter
+ no_function,0,9 strobe,10,255
+
+Channel = zoom
+ dimmer,0,255 
+
+Channel = control
+ no_function,0,19 blackout_moves,20,39 p/t black deactivate,40,59 fan_auto,60,79 fan1,80,99 fan2,100,119 fan3,120,139 auto1,140,149 auto2,150,159 test,160,169 custom,170,179 no_function,180,199 reset,200,219 no_function,220,235 dim0,236,239 dim1,240,243 dim2,244,247 dim3,248,251 dim4,252,255
+

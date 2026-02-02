@@ -1,0 +1,35 @@
+﻿ViewType = VIEW_TYPE_COLOR_CHANGER
+ViewPower = VIEW_POWER_LAMP250W
+ViewAnglePan = 120
+ViewAngleTilt = 90
+ViewAngleBeam = 34
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 16777215
+3DViewShape = 
+2DViewImage = 
+
+Channel = dimmer
+
+Channel = strobe_speed
+ no_function,0,0 strobe,10,99 pulse_strobe,110,179 random_strobe,190,255 
+
+Channel = zoom
+
+Channel = red
+
+Channel = green
+
+Channel = blue
+
+Channel = white
+
+Channel = color
+
+Channel = color_preset
+ no_function,0,0 linear,20,20 index,30,255 
+
+Channel = control
+

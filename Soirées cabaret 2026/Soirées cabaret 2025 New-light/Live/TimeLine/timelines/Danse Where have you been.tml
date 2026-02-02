@@ -1,0 +1,1206 @@
+﻿
+[Params]
+Version = 0.2
+CommentTimeLine = 0
+LightTimeLines = 15
+MediaTimeLines = 1
+ShowWaveForm = 1
+MaxTime = 0:30:00
+Zoom = 0
+TimeLine_1 = V I D E O   P I C T U R E   T I M E L I N E
+TimeLine_2 = A U D I O   T I M E L I N E
+TimeLine_3 = LYRES COULEUR 1
+TimeLine_4 = LYRES COULEUR 2
+TimeLine_5 = LYRES MOUVEMENT 1
+TimeLine_6 = LYRES MOUVEMENT 2
+TimeLine_7 = LYRES DIMMER 1
+TimeLine_8 = LYRES DIMMER 2
+TimeLine_9 = LIVEKOLOR COULEUR
+TimeLine_10 = LIVEKOLOR EFFECT
+TimeLine_11 = LIVEKOLOR DIMMER
+TimeLine_12 = SCENE EFFECTS
+TimeLine_13 = PC DANSE
+TimeLine_14 = FUMÉE
+TimeLine_15 = DIMMER SALLE
+TimeLine_16 = COULEUR SALLE
+TimeLine_17 = L I G H T   S C E N E   T I M E L I N E   #   15
+[Event_0]
+TimeLineIndex = 13
+StartTime = 0:00:00.0
+Path = PC (danses).scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_1]
+TimeLineIndex = 14
+StartTime = 0:00:00.0
+Path = Brouilard avant danse.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_2]
+TimeLineIndex = 3
+StartTime = 0:00:00.0
+Path = Birdy blanc.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_3]
+TimeLineIndex = 6
+StartTime = 0:00:00.0
+Path = Birdy Mouvement recherche.gpj
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_4]
+TimeLineIndex = 2
+StartTime = 0:00:00.6
+Path = musiques/rihanna where have you been.wav
+Length = 0:02:31.5
+[Event_5]
+TimeLineIndex = 7
+StartTime = 0:00:00.6
+Path = Birdy dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_6]
+TimeLineIndex = 11
+StartTime = 0:00:00.8
+Path = LIVEKOLOR Dimmer continu.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_7]
+TimeLineIndex = 9
+StartTime = 0:00:00.8
+Path = LIVEKOLOR Rose.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_8]
+TimeLineIndex = 9
+StartTime = 0:00:04.7
+Path = LIVEKOLOR Bleu.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_9]
+TimeLineIndex = 9
+StartTime = 0:00:08.5
+Path = LIVEKOLOR Rose (devant) Bleur (fond).scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_10]
+TimeLineIndex = 12
+StartTime = 0:00:08.5
+Path = PAR 56 Défilement 2 fast.scex
+Length = 0:00:01.8
+Speed = 100
+SpeedType = 2
+[Event_11]
+TimeLineIndex = 3
+StartTime = 0:00:08.6
+Path = OFF
+[Event_12]
+TimeLineIndex = 7
+StartTime = 0:00:08.6
+Path = OFF
+[Event_13]
+TimeLineIndex = 6
+StartTime = 0:00:08.8
+Path = OFF
+[Event_14]
+TimeLineIndex = 9
+StartTime = 0:00:12.4
+Path = LIVEKOLOR Rose (fond) Bleu (devant).scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_15]
+TimeLineIndex = 9
+StartTime = 0:00:14.4
+Path = LIVEKOLOR Rose (devant) Bleur (fond).scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_16]
+TimeLineIndex = 14
+StartTime = 0:00:15.1
+Path = OFF
+[Event_17]
+TimeLineIndex = 6
+StartTime = 0:00:16.4
+Path = Birdy Mouvement recherche.gpj
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_18]
+TimeLineIndex = 3
+StartTime = 0:00:18.0
+Path = Birdy blanc.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_19]
+TimeLineIndex = 7
+StartTime = 0:00:18.0
+Path = Birdy dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_20]
+TimeLineIndex = 9
+StartTime = 0:00:18.1
+Path = LIVEKOLOR Rose (fond) Bleu (devant).scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_21]
+TimeLineIndex = 9
+StartTime = 0:00:21.7
+Path = LIVEKOLOR Rose (devant) Bleur (fond).scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_22]
+TimeLineIndex = 9
+StartTime = 0:00:25.2
+Path = LIVEKOLOR Rose (fond) Bleu (devant).scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_23]
+TimeLineIndex = 6
+StartTime = 0:00:26.6
+Path = OFF
+[Event_24]
+TimeLineIndex = 7
+StartTime = 0:00:26.6
+Path = OFF
+[Event_25]
+TimeLineIndex = 3
+StartTime = 0:00:26.6
+Path = OFF
+[Event_26]
+TimeLineIndex = 3
+StartTime = 0:00:27.7
+Path = LYRES Rouge.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_27]
+TimeLineIndex = 5
+StartTime = 0:00:27.7
+Path = LYRES plafond.scex
+Length = 0:00:02.0
+Speed = 100
+SpeedType = 2
+[Event_28]
+TimeLineIndex = 9
+StartTime = 0:00:29.4
+Path = LIVEKOLOR Rose (devant) Bleur (fond).scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_29]
+TimeLineIndex = 11
+StartTime = 0:00:31.2
+Path = OFF
+[Event_30]
+TimeLineIndex = 12
+StartTime = 0:00:31.2
+Path = OFF
+[Event_31]
+TimeLineIndex = 9
+StartTime = 0:00:31.2
+Path = OFF
+[Event_32]
+TimeLineIndex = 4
+StartTime = 0:00:31.5
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_33]
+TimeLineIndex = 4
+StartTime = 0:00:31.8
+Path = OFF
+[Event_34]
+TimeLineIndex = 4
+StartTime = 0:00:32.4
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_35]
+TimeLineIndex = 4
+StartTime = 0:00:32.7
+Path = OFF
+[Event_36]
+TimeLineIndex = 4
+StartTime = 0:00:33.3
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_37]
+TimeLineIndex = 4
+StartTime = 0:00:33.6
+Path = OFF
+[Event_38]
+TimeLineIndex = 4
+StartTime = 0:00:34.2
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_39]
+TimeLineIndex = 4
+StartTime = 0:00:34.5
+Path = OFF
+[Event_40]
+TimeLineIndex = 4
+StartTime = 0:00:35.1
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_41]
+TimeLineIndex = 4
+StartTime = 0:00:35.4
+Path = OFF
+[Event_42]
+TimeLineIndex = 4
+StartTime = 0:00:36.0
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_43]
+TimeLineIndex = 4
+StartTime = 0:00:36.2
+Path = OFF
+[Event_44]
+TimeLineIndex = 4
+StartTime = 0:00:36.5
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_45]
+TimeLineIndex = 4
+StartTime = 0:00:36.7
+Path = OFF
+[Event_46]
+TimeLineIndex = 4
+StartTime = 0:00:37.0
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_47]
+TimeLineIndex = 4
+StartTime = 0:00:37.2
+Path = OFF
+[Event_48]
+TimeLineIndex = 4
+StartTime = 0:00:37.5
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_49]
+TimeLineIndex = 4
+StartTime = 0:00:37.7
+Path = OFF
+[Event_50]
+TimeLineIndex = 4
+StartTime = 0:00:38.0
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_51]
+TimeLineIndex = 4
+StartTime = 0:00:38.2
+Path = OFF
+[Event_52]
+TimeLineIndex = 4
+StartTime = 0:00:38.9
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_53]
+TimeLineIndex = 4
+StartTime = 0:00:39.2
+Path = OFF
+[Event_54]
+TimeLineIndex = 4
+StartTime = 0:00:39.8
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_55]
+TimeLineIndex = 4
+StartTime = 0:00:40.1
+Path = OFF
+[Event_56]
+TimeLineIndex = 4
+StartTime = 0:00:40.8
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_57]
+TimeLineIndex = 4
+StartTime = 0:00:41.1
+Path = OFF
+[Event_58]
+TimeLineIndex = 4
+StartTime = 0:00:41.8
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_59]
+TimeLineIndex = 4
+StartTime = 0:00:42.1
+Path = OFF
+[Event_60]
+TimeLineIndex = 4
+StartTime = 0:00:42.8
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_61]
+TimeLineIndex = 10
+StartTime = 0:00:42.8
+Path = LIVEKOLOR Effet zoom.scex
+Length = 0:00:07.0
+Speed = 100
+SpeedType = 2
+[Event_62]
+TimeLineIndex = 4
+StartTime = 0:00:43.1
+Path = OFF
+[Event_63]
+TimeLineIndex = 4
+StartTime = 0:00:43.8
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_64]
+TimeLineIndex = 4
+StartTime = 0:00:44.1
+Path = OFF
+[Event_65]
+TimeLineIndex = 4
+StartTime = 0:00:44.5
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_66]
+TimeLineIndex = 4
+StartTime = 0:00:44.7
+Path = OFF
+[Event_67]
+TimeLineIndex = 4
+StartTime = 0:00:45.0
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_68]
+TimeLineIndex = 4
+StartTime = 0:00:45.2
+Path = OFF
+[Event_69]
+TimeLineIndex = 4
+StartTime = 0:00:45.5
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_70]
+TimeLineIndex = 9
+StartTime = 0:00:45.6
+Path = LIVEKOLOR Rouge.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_71]
+TimeLineIndex = 11
+StartTime = 0:00:45.6
+Path = LIVEKOLOR Dimmer in 3s.scex
+Length = 0:00:03.0
+Speed = 100
+SpeedType = 2
+[Event_72]
+TimeLineIndex = 4
+StartTime = 0:00:45.7
+Path = OFF
+[Event_73]
+TimeLineIndex = 5
+StartTime = 0:00:46.9
+Path = OFF
+[Event_74]
+TimeLineIndex = 10
+StartTime = 0:00:47.2
+Path = LIVEKOLOR Dezoom.scex
+Length = 0:00:06.0
+Speed = 100
+SpeedType = 2
+[Event_75]
+TimeLineIndex = 3
+StartTime = 0:00:50.2
+Path = OFF
+[Event_76]
+TimeLineIndex = 5
+StartTime = 0:00:50.3
+Path = LYRES Placement scène en ligne.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_77]
+TimeLineIndex = 10
+StartTime = 0:00:51.3
+Path = OFF
+[Event_78]
+TimeLineIndex = 11
+StartTime = 0:00:51.3
+Path = OFF
+[Event_79]
+TimeLineIndex = 9
+StartTime = 0:00:51.3
+Path = OFF
+[Event_80]
+TimeLineIndex = 4
+StartTime = 0:00:51.3
+Path = LYRES Couleurs chaudes (salle (8)).scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_81]
+TimeLineIndex = 7
+StartTime = 0:00:51.4
+Path = LYRES Dimmer 1-2.scex
+Length = 0:00:00.4
+Speed = 100
+SpeedType = 2
+[Event_82]
+TimeLineIndex = 8
+StartTime = 0:00:52.0
+Path = LYRES Dimmer 3-4.scex
+Length = 0:00:00.4
+Speed = 100
+SpeedType = 2
+[Event_83]
+TimeLineIndex = 12
+StartTime = 0:00:53.0
+Path = PAR 56 Défilement 2 fast.scex
+Length = 0:00:01.8
+Speed = 100
+SpeedType = 2
+[Event_84]
+TimeLineIndex = 5
+StartTime = 0:00:53.0
+Path = LYRES Mouvement coucou (scene).gpj
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_85]
+TimeLineIndex = 8
+StartTime = 0:00:54.5
+Path = OFF
+[Event_86]
+TimeLineIndex = 7
+StartTime = 0:00:54.5
+Path = OFF
+[Event_87]
+TimeLineIndex = 5
+StartTime = 0:00:54.5
+Path = LYRES Placement scène en ligne.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_88]
+TimeLineIndex = 7
+StartTime = 0:00:55.0
+Path = LYRES Dimmer 1-2.scex
+Length = 0:00:00.4
+Speed = 100
+SpeedType = 2
+[Event_89]
+TimeLineIndex = 8
+StartTime = 0:00:55.6
+Path = LYRES Dimmer 3-4.scex
+Length = 0:00:00.4
+Speed = 100
+SpeedType = 2
+[Event_90]
+TimeLineIndex = 5
+StartTime = 0:00:56.6
+Path = LYRES Mouvement coucou (scene).gpj
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_91]
+TimeLineIndex = 8
+StartTime = 0:00:57.9
+Path = OFF
+[Event_92]
+TimeLineIndex = 7
+StartTime = 0:00:57.9
+Path = LYRES Dimmer continu scène.sce
+Speed = 100
+SpeedType = 2
+[Event_93]
+TimeLineIndex = 7
+StartTime = 0:01:00.8
+Path = LYRES Chenillard (salles (8)).scex
+Length = 0:00:01.9
+Speed = 100
+SpeedType = 2
+[Event_94]
+TimeLineIndex = 5
+StartTime = 0:01:00.8
+Path = LYRES Plafond (salle (8)).scex
+Length = 0:00:02.0
+Speed = 100
+SpeedType = 2
+[Event_95]
+TimeLineIndex = 9
+StartTime = 0:01:00.8
+Path = LIVEKOLOR Jaune.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_96]
+TimeLineIndex = 10
+StartTime = 0:01:00.8
+Path = LIVEKOLOR Zoom max.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_97]
+TimeLineIndex = 11
+StartTime = 0:01:00.8
+Path = LIVEKOLOR Dimmer continu.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_98]
+TimeLineIndex = 12
+StartTime = 0:01:02.0
+Path = OFF
+[Event_99]
+TimeLineIndex = 14
+StartTime = 0:01:14.2
+Path = Brouilard avant danse.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_100]
+TimeLineIndex = 6
+StartTime = 0:01:14.4
+Path = Birdy Mouvement recherche.gpj
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_101]
+TimeLineIndex = 9
+StartTime = 0:01:14.9
+Path = LIVEKOLOR Rose.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_102]
+TimeLineIndex = 11
+StartTime = 0:01:14.9
+Path = LIVEKOLOR Dimmer continu.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_103]
+TimeLineIndex = 7
+StartTime = 0:01:14.9
+Path = OFF
+[Event_104]
+TimeLineIndex = 4
+StartTime = 0:01:14.9
+Path = Birdy blanc.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_105]
+TimeLineIndex = 5
+StartTime = 0:01:14.9
+Path = OFF
+[Event_106]
+TimeLineIndex = 10
+StartTime = 0:01:14.9
+Path = OFF
+[Event_107]
+TimeLineIndex = 7
+StartTime = 0:01:15.5
+Path = Birdy dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_108]
+TimeLineIndex = 9
+StartTime = 0:01:18.6
+Path = LIVEKOLOR Bleu.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_109]
+TimeLineIndex = 9
+StartTime = 0:01:22.3
+Path = LIVEKOLOR Rose (devant) Bleur (fond).scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_110]
+TimeLineIndex = 12
+StartTime = 0:01:22.3
+Path = PAR 56 Défilement 2 fast.scex
+Length = 0:00:01.8
+Speed = 100
+SpeedType = 2
+[Event_111]
+TimeLineIndex = 7
+StartTime = 0:01:23.5
+Path = OFF
+[Event_112]
+TimeLineIndex = 4
+StartTime = 0:01:23.5
+Path = OFF
+[Event_113]
+TimeLineIndex = 6
+StartTime = 0:01:23.5
+Path = OFF
+[Event_114]
+TimeLineIndex = 9
+StartTime = 0:01:26.1
+Path = LIVEKOLOR Rose (fond) Bleu (devant).scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_115]
+TimeLineIndex = 9
+StartTime = 0:01:28.4
+Path = LIVEKOLOR Rose (devant) Bleur (fond).scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_116]
+TimeLineIndex = 14
+StartTime = 0:01:29.1
+Path = OFF
+[Event_117]
+TimeLineIndex = 5
+StartTime = 0:01:31.0
+Path = Birdy Mouvement recherche.gpj
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_118]
+TimeLineIndex = 3
+StartTime = 0:01:31.8
+Path = Birdy blanc.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_119]
+TimeLineIndex = 9
+StartTime = 0:01:32.1
+Path = LIVEKOLOR Rose (fond) Bleu (devant).scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_120]
+TimeLineIndex = 7
+StartTime = 0:01:32.4
+Path = Birdy dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_121]
+TimeLineIndex = 9
+StartTime = 0:01:35.7
+Path = LIVEKOLOR Rose (devant) Bleur (fond).scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_122]
+TimeLineIndex = 9
+StartTime = 0:01:39.2
+Path = LIVEKOLOR Rose (fond) Bleu (devant).scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_123]
+TimeLineIndex = 7
+StartTime = 0:01:40.4
+Path = OFF
+[Event_124]
+TimeLineIndex = 3
+StartTime = 0:01:40.4
+Path = OFF
+[Event_125]
+TimeLineIndex = 5
+StartTime = 0:01:40.4
+Path = OFF
+[Event_126]
+TimeLineIndex = 3
+StartTime = 0:01:41.7
+Path = LYRES Rouge.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_127]
+TimeLineIndex = 9
+StartTime = 0:01:43.4
+Path = LIVEKOLOR Rose (devant) Bleur (fond).scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_128]
+TimeLineIndex = 5
+StartTime = 0:01:44.3
+Path = LYRES plafond.scex
+Length = 0:00:02.0
+Speed = 100
+SpeedType = 2
+[Event_129]
+TimeLineIndex = 11
+StartTime = 0:01:45.2
+Path = OFF
+[Event_130]
+TimeLineIndex = 12
+StartTime = 0:01:45.2
+Path = OFF
+[Event_131]
+TimeLineIndex = 9
+StartTime = 0:01:45.2
+Path = OFF
+[Event_132]
+TimeLineIndex = 4
+StartTime = 0:01:45.5
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_133]
+TimeLineIndex = 4
+StartTime = 0:01:45.8
+Path = OFF
+[Event_134]
+TimeLineIndex = 4
+StartTime = 0:01:46.4
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_135]
+TimeLineIndex = 4
+StartTime = 0:01:46.7
+Path = OFF
+[Event_136]
+TimeLineIndex = 4
+StartTime = 0:01:47.3
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_137]
+TimeLineIndex = 4
+StartTime = 0:01:47.6
+Path = OFF
+[Event_138]
+TimeLineIndex = 4
+StartTime = 0:01:48.2
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_139]
+TimeLineIndex = 4
+StartTime = 0:01:48.5
+Path = OFF
+[Event_140]
+TimeLineIndex = 4
+StartTime = 0:01:49.1
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_141]
+TimeLineIndex = 4
+StartTime = 0:01:49.4
+Path = OFF
+[Event_142]
+TimeLineIndex = 4
+StartTime = 0:01:50.0
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_143]
+TimeLineIndex = 4
+StartTime = 0:01:50.2
+Path = OFF
+[Event_144]
+TimeLineIndex = 4
+StartTime = 0:01:50.5
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_145]
+TimeLineIndex = 4
+StartTime = 0:01:50.7
+Path = OFF
+[Event_146]
+TimeLineIndex = 4
+StartTime = 0:01:51.0
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_147]
+TimeLineIndex = 4
+StartTime = 0:01:51.2
+Path = OFF
+[Event_148]
+TimeLineIndex = 4
+StartTime = 0:01:51.5
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_149]
+TimeLineIndex = 4
+StartTime = 0:01:51.7
+Path = OFF
+[Event_150]
+TimeLineIndex = 4
+StartTime = 0:01:52.0
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_151]
+TimeLineIndex = 4
+StartTime = 0:01:52.2
+Path = OFF
+[Event_152]
+TimeLineIndex = 4
+StartTime = 0:01:52.9
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_153]
+TimeLineIndex = 4
+StartTime = 0:01:53.2
+Path = OFF
+[Event_154]
+TimeLineIndex = 4
+StartTime = 0:01:53.8
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_155]
+TimeLineIndex = 4
+StartTime = 0:01:54.1
+Path = OFF
+[Event_156]
+TimeLineIndex = 4
+StartTime = 0:01:54.8
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_157]
+TimeLineIndex = 4
+StartTime = 0:01:55.1
+Path = OFF
+[Event_158]
+TimeLineIndex = 4
+StartTime = 0:01:55.8
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_159]
+TimeLineIndex = 4
+StartTime = 0:01:56.1
+Path = OFF
+[Event_160]
+TimeLineIndex = 4
+StartTime = 0:01:56.8
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_161]
+TimeLineIndex = 10
+StartTime = 0:01:56.8
+Path = LIVEKOLOR Effet zoom.scex
+Length = 0:00:07.0
+Speed = 100
+SpeedType = 2
+[Event_162]
+TimeLineIndex = 4
+StartTime = 0:01:57.1
+Path = OFF
+[Event_163]
+TimeLineIndex = 4
+StartTime = 0:01:57.8
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_164]
+TimeLineIndex = 4
+StartTime = 0:01:58.1
+Path = OFF
+[Event_165]
+TimeLineIndex = 4
+StartTime = 0:01:58.5
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_166]
+TimeLineIndex = 4
+StartTime = 0:01:58.7
+Path = OFF
+[Event_167]
+TimeLineIndex = 4
+StartTime = 0:01:59.0
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_168]
+TimeLineIndex = 4
+StartTime = 0:01:59.2
+Path = OFF
+[Event_169]
+TimeLineIndex = 4
+StartTime = 0:01:59.5
+Path = LYRES Dimmer.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_170]
+TimeLineIndex = 9
+StartTime = 0:01:59.6
+Path = LIVEKOLOR Rouge.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_171]
+TimeLineIndex = 11
+StartTime = 0:01:59.6
+Path = LIVEKOLOR Dimmer in 3s.scex
+Length = 0:00:03.0
+Speed = 100
+SpeedType = 2
+[Event_172]
+TimeLineIndex = 4
+StartTime = 0:01:59.7
+Path = OFF
+[Event_173]
+TimeLineIndex = 5
+StartTime = 0:02:00.6
+Path = OFF
+[Event_174]
+TimeLineIndex = 10
+StartTime = 0:02:01.2
+Path = LIVEKOLOR Dezoom.scex
+Length = 0:00:06.0
+Speed = 100
+SpeedType = 2
+[Event_175]
+TimeLineIndex = 3
+StartTime = 0:02:04.2
+Path = OFF
+[Event_176]
+TimeLineIndex = 10
+StartTime = 0:02:05.3
+Path = OFF
+[Event_177]
+TimeLineIndex = 11
+StartTime = 0:02:05.3
+Path = OFF
+[Event_178]
+TimeLineIndex = 9
+StartTime = 0:02:05.3
+Path = OFF
+[Event_179]
+TimeLineIndex = 5
+StartTime = 0:02:05.3
+Path = LYRES Placement scène en ligne.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_180]
+TimeLineIndex = 4
+StartTime = 0:02:05.3
+Path = LYRES Couleurs chaudes (salle (8)).scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_181]
+TimeLineIndex = 7
+StartTime = 0:02:05.4
+Path = LYRES Dimmer 1-2.scex
+Length = 0:00:00.4
+Speed = 100
+SpeedType = 2
+[Event_182]
+TimeLineIndex = 8
+StartTime = 0:02:06.0
+Path = LYRES Dimmer 3-4.scex
+Length = 0:00:00.4
+Speed = 100
+SpeedType = 2
+[Event_183]
+TimeLineIndex = 12
+StartTime = 0:02:07.0
+Path = PAR 56 Défilement 2 fast.scex
+Length = 0:00:01.8
+Speed = 100
+SpeedType = 2
+[Event_184]
+TimeLineIndex = 5
+StartTime = 0:02:07.0
+Path = LYRES Mouvement coucou (scene).gpj
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_185]
+TimeLineIndex = 8
+StartTime = 0:02:08.5
+Path = OFF
+[Event_186]
+TimeLineIndex = 7
+StartTime = 0:02:08.5
+Path = OFF
+[Event_187]
+TimeLineIndex = 5
+StartTime = 0:02:08.5
+Path = LYRES Placement scène en ligne.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_188]
+TimeLineIndex = 7
+StartTime = 0:02:09.0
+Path = LYRES Dimmer 1-2.scex
+Length = 0:00:00.4
+Speed = 100
+SpeedType = 2
+[Event_189]
+TimeLineIndex = 8
+StartTime = 0:02:09.6
+Path = LYRES Dimmer 3-4.scex
+Length = 0:00:00.4
+Speed = 100
+SpeedType = 2
+[Event_190]
+TimeLineIndex = 5
+StartTime = 0:02:10.6
+Path = LYRES Mouvement coucou (scene).gpj
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_191]
+TimeLineIndex = 8
+StartTime = 0:02:11.9
+Path = OFF
+[Event_192]
+TimeLineIndex = 7
+StartTime = 0:02:11.9
+Path = LYRES Dimmer continu scène.sce
+Speed = 100
+SpeedType = 2
+[Event_193]
+TimeLineIndex = 9
+StartTime = 0:02:14.8
+Path = LIVEKOLOR Jaune.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_194]
+TimeLineIndex = 10
+StartTime = 0:02:14.8
+Path = LIVEKOLOR Zoom max.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_195]
+TimeLineIndex = 11
+StartTime = 0:02:14.8
+Path = LIVEKOLOR Dimmer continu.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_196]
+TimeLineIndex = 5
+StartTime = 0:02:14.8
+Path = LYRES Plafond (salle (8)).scex
+Length = 0:00:02.0
+Speed = 100
+SpeedType = 2
+[Event_197]
+TimeLineIndex = 7
+StartTime = 0:02:14.8
+Path = LYRES Chenillard (salles (8)).scex
+Length = 0:00:01.9
+Speed = 100
+SpeedType = 2
+[Event_198]
+TimeLineIndex = 12
+StartTime = 0:02:16.0
+Path = OFF
+[Event_199]
+TimeLineIndex = 9
+StartTime = 0:02:28.9
+Path = OFF
+[Event_200]
+TimeLineIndex = 10
+StartTime = 0:02:28.9
+Path = OFF
+[Event_201]
+TimeLineIndex = 11
+StartTime = 0:02:28.9
+Path = OFF
+[Event_202]
+TimeLineIndex = 5
+StartTime = 0:02:29.0
+Path = OFF
+[Event_203]
+TimeLineIndex = 7
+StartTime = 0:02:29.0
+Path = OFF
+[Event_204]
+TimeLineIndex = 4
+StartTime = 0:02:29.0
+Path = OFF
+[Event_205]
+TimeLineIndex = 13
+StartTime = 0:02:30.1
+Path = OFF

@@ -1,0 +1,52 @@
+﻿ViewType = VIEW_TYPE_HEAD
+ViewPower = VIEW_POWER_LAMP575W
+ViewAnglePan = 540
+ViewAngleTilt = 270
+ViewAngleBeam = 16
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = TRUE
+ViewColor = 16777215
+3DViewShape = 
+2DViewImage = 
+
+Channel = color
+ open,0,0 Colour 1,5,5 split_1,10,10 Colour 2,15,15 split_2,20,20 Colour 3,25,25 split_3,30,30 Colour 4,35,35 split_4,40,40 Colour 5,45,45 split_5,50,50 Colour 6,55,55 split_6,60,60 Colour 7,65,65 split_7,70,70 Colour 8,75,75 split_8,80,80 Colour 9,85,85 split_9,90,90 Colour 10,95,95 split_10,100,100 Colour 11,105,105 split_11,110,110 Colour 12,115,115 split_12,120,120 Colour 13,125,125 split_13,130,130 Colour 14,135,135 split_14,140,140 open,145,145,notusedinlc right_rotate,150,200 stop,201,204 left_rotate,205,255 
+
+Channel = shutter
+ open,0,19,notusedinlc strobe,20,39,notusedinlc open,40,59,notusedinlc random_strobe,60,79 strobe,80,139 pulse_close,140,179 pulse_open,180,219 blackout_moves,220,233,notusedinlc open,234,255 
+
+Channel = dimmer
+
+Channel = gobo
+ Miscellaneous/open,0,0 Miscellaneous/gobo1,12,12 Miscellaneous/gobo2,24,24 Miscellaneous/gobo3,36,36 Miscellaneous/gobo4,48,48 Miscellaneous/gobo5,60,60 Miscellaneous/gobo6,72,72 Miscellaneous/gobo7,84,84 Miscellaneous/gobo8,96,96 Miscellaneous/gobo9,108,108 Miscellaneous/gobo10,120,120 Miscellaneous/gobo11,132,132 Miscellaneous/gobo12,144,144 Miscellaneous/gobo13,156,156 Miscellaneous/gobo14,168,168 Miscellaneous/gobo15,180,180 Miscellaneous/gobo16,192,192 Gobo 17,204,204 Miscellaneous/rotate,208,255 
+
+Channel = prism
+ open,0,127 prism,128,255 
+
+Channel = prism_rotate
+ index,0,127 right_rotate,128,178 stop,179,204 left_rotate,205,255 
+
+Channel = gobo2
+ Miscellaneous/open,0,0 Miscellaneous/gobo1,21,21 Miscellaneous/gobo2,42,42 Miscellaneous/gobo3,63,63 Miscellaneous/gobo4,84,84 Miscellaneous/gobo5,105,105 Miscellaneous/gobo6,126,126 Miscellaneous/gobo7,147,147 Miscellaneous/gobo8,168,168 Miscellaneous/gobo9,189,189 Miscellaneous/rotate,208,255 
+
+Channel = zoom
+
+Channel = focus
+
+Channel = pan
+
+Channel = upan
+
+Channel = tilt
+
+Channel = utilt
+
+Channel = pantilt_speed
+
+Channel = reserved, , , notusedinlc
+
+Channel = control
+ no_function,0,33,notusedinlc lamp_off,34,36 no_function,37,152,notusedinlc lamp_on,153,155 no_function,156,218,notusedinlc reset_motors,219,221 reset,222,255 
+

@@ -11,8 +11,14 @@ ViewColor = 16777215
 3DViewShape = 
 2DViewImage = Chauvet/PRO/Colordash S-Par 1-2D.png
 
+Channel = zoom
+ dimmer,0,255 
+
 Channel = dimmer
  dimmer,0,255 
+
+Channel = strobe_effect
+ no_function,0,9 strobe,10,99 no_function,100,109 stobe_rampe,110,179 no_function,180,189 random_strobe,190,255 
 
 Channel = red
  dimmer,0,255 
@@ -26,24 +32,12 @@ Channel = blue
 Channel = white
  dimmer,0,255 
 
-Channel = color_macro
- no_function,0,10 red_100-green_up-blue_0,11,30 red_down-green_100-blue_0,31,50 red_0-green_100-blue_up,51,70 red_0-green_down-blue-100,71,90 red_up-green_0-blue_100,91,110 red_100-green_0-blue_down,111,130 red_100-green_up-blue_up,131,150 red_down-green_down-blue_100,151,170 red_100-green_100-blue_100-white_100,171,190 2700K,191,200 3000K,201,205 3200K,206,210 3500K,211,215 4000K,216,220 4200K,221,225 4500K,226,230 5600K,231,235 6000K,236,240 6500K,241,245 7200K,246,250 8000K,251,255 
-
-Channel = strobe_effect
- no_function,0,9 strobe,10,99 no_function,100,109 stobe_rampe,110,179 no_function,180,189 random_strobe,190,255 
-
 Channel = control
  no_function,0,40 auto1,41,50 auto2,51,60 auto3,61,70 auto4,71,80 auto5,81,90 auto6,91,100 auto7,101,110 auto8,111,120 auto9,121,130 auto10,131,140 program1,141,150 program2,151,160 program3,161,170 program4,171,180 program5,181,190 program6,191,200 program7,201,210 program8,211,220 program9,221,230 program10,231,255 
 
 Channel = speed_control
  dimmer,0,255 
 
-Channel = zoom
- dimmer,0,255 
-
 Channel = uzoom
  no_function,0,200 reset,201,220 no_function,221,255 
-
-Channel = dimmer_mode
- index,0,9 off,10,29 dim1,30,69 dim2,70,129 dim3,130,189 dim4,190,255 
 
