@@ -8,9 +8,9 @@
     <Step length="500">
       <Fixture id="1768953811">
         <Channel index="0" name="dimmer" value="255"/>
-        <Channel index="2" name="strobe_effect" value="178"/>
-        <Channel index="3" name="strobe_speed" value="80"/>
         <Channel index="6" name="blue" value="255"/>
+        <Channel index="8" name="flash_mode" value="191"/>
+        <Channel index="9" name="speed_control" value="240"/>
       </Fixture>
     </Step>
   </Steps>

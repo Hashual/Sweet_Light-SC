@@ -30,7 +30,7 @@ number = 13
 [page1]
 name = -Spéciales
 swap = yes
-nb_buttons = 3
+nb_buttons = 4
 [page1_button1]
 line = 1
 column = 1
@@ -54,6 +54,13 @@ title = LYRES Remplacement PC
 color = 15530500
 masterspeedfader = 0
 pause = yes
+[page1_button4]
+line = 1
+column = 4
+name = Strob police.scex
+title = Strob police
+color = 3868918
+masterspeedfader = 0
 [page2]
 name = Canaux (after)
 nb_buttons = 7
@@ -643,7 +650,7 @@ nb_buttons = 0
 [page12]
 name = Programmes danses
 swap = yes
-nb_buttons = 3
+nb_buttons = 6
 [page12_button1]
 line = 1
 column = 1
@@ -663,9 +670,36 @@ masterspeedfader = 0
 no_loop = yes
 [page12_button3]
 line = 1
-column = 3
+column = 4
 name = Final (les rois du monde).tml
 title = Final
+speed = auto_bpm
+beats = 0.000000
+masterspeedfader = 0
+[page12_button4]
+line = 1
+column = 3
+name = miniq.tml
+title = miniq
+color = 2684934
+speed = auto_bpm
+beats = 0.000000
+masterspeedfader = 0
+[page12_button5]
+line = 2
+column = 3
+name = moyenq.tml
+title = moyenq
+color = 660702
+speed = auto_bpm
+beats = 0.000000
+masterspeedfader = 0
+[page12_button6]
+line = 3
+column = 3
+name = vieuxq.tml
+title = vieuxq
+color = 14681606
 speed = auto_bpm
 beats = 0.000000
 masterspeedfader = 0
