@@ -1,0 +1,319 @@
+﻿
+[Params]
+Version = 0.2
+CommentTimeLine = 0
+LightTimeLines = 15
+MediaTimeLines = 1
+ShowWaveForm = 1
+MaxTime = 0:30:00
+Zoom = 0
+TimeLine_1 = V I D E O   P I C T U R E   T I M E L I N E
+TimeLine_2 = A U D I O   T I M E L I N E
+TimeLine_3 = L I G H T   S C E N E   T I M E L I N E   #   1
+TimeLine_4 = L I G H T   S C E N E   T I M E L I N E   #   2
+TimeLine_5 = L I G H T   S C E N E   T I M E L I N E   #   3
+TimeLine_6 = L I G H T   S C E N E   T I M E L I N E   #   4
+TimeLine_7 = L I G H T   S C E N E   T I M E L I N E   #   5
+TimeLine_8 = L I G H T   S C E N E   T I M E L I N E   #   6
+TimeLine_9 = L I G H T   S C E N E   T I M E L I N E   #   7
+TimeLine_10 = L I G H T   S C E N E   T I M E L I N E   #   8
+TimeLine_11 = L I G H T   S C E N E   T I M E L I N E   #   9
+TimeLine_12 = L I G H T   S C E N E   T I M E L I N E   #   10
+TimeLine_13 = L I G H T   S C E N E   T I M E L I N E   #   11
+TimeLine_14 = L I G H T   S C E N E   T I M E L I N E   #   12
+TimeLine_15 = L I G H T   S C E N E   T I M E L I N E   #   13
+TimeLine_16 = L I G H T   S C E N E   T I M E L I N E   #   14
+TimeLine_17 = L I G H T   S C E N E   T I M E L I N E   #   15
+[Event_0]
+TimeLineIndex = 5
+StartTime = 0:00:00.0
+Path = LYRES salle Dimmer progressif 18 sec.scex
+Length = 0:00:18.0
+Speed = 100
+SpeedType = 2
+[Event_1]
+TimeLineIndex = 3
+StartTime = 0:00:00.0
+Path = LYRES dégradé rouge verrs le plafond.scex
+Length = 0:00:20.5
+Speed = 100
+SpeedType = 2
+[Event_2]
+TimeLineIndex = 4
+StartTime = 0:00:00.0
+Path = Brouillard pendant danse.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_3]
+TimeLineIndex = 2
+StartTime = 0:00:01.4
+Path = musiques/Christina Aguilera - Show me how you Burlesque [Lyrics English].wav
+Length = 0:03:00.1
+[Event_4]
+TimeLineIndex = 4
+StartTime = 0:00:19.3
+Path = OFF
+[Event_5]
+TimeLineIndex = 5
+StartTime = 0:00:19.3
+Path = OFF
+[Event_6]
+TimeLineIndex = 17
+StartTime = 0:00:19.5
+Path = LYRES Dimmer Salle.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_7]
+TimeLineIndex = 5
+StartTime = 0:00:19.5
+Path = OFF
+[Event_8]
+TimeLineIndex = 7
+StartTime = 0:00:19.5
+Path = LYRES scene DIMMER out.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_9]
+TimeLineIndex = 6
+StartTime = 0:00:19.5
+Path = LYRES Dimmer Salle.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_10]
+TimeLineIndex = 5
+StartTime = 0:00:19.5
+Path = LYRES plafond (5 6 7 8).scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_11]
+TimeLineIndex = 4
+StartTime = 0:00:19.5
+Path = LYRES Blanc.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_12]
+TimeLineIndex = 3
+StartTime = 0:00:19.5
+Path = OFF
+[Event_13]
+TimeLineIndex = 7
+StartTime = 0:00:19.9
+Path = OFF
+[Event_14]
+TimeLineIndex = 4
+StartTime = 0:00:20.0
+Path = OFF
+[Event_15]
+TimeLineIndex = 6
+StartTime = 0:00:20.0
+Path = OFF
+[Event_16]
+TimeLineIndex = 7
+StartTime = 0:00:20.1
+Path = Lyres 5 Vert.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_17]
+TimeLineIndex = 8
+StartTime = 0:00:20.4
+Path = Lyres 6 bleu foncé.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_18]
+TimeLineIndex = 7
+StartTime = 0:00:20.9
+Path = OFF
+[Event_19]
+TimeLineIndex = 8
+StartTime = 0:00:20.9
+Path = OFF
+[Event_20]
+TimeLineIndex = 9
+StartTime = 0:00:21.3
+Path = LYRES 7 violet-mauve.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_21]
+TimeLineIndex = 10
+StartTime = 0:00:21.6
+Path = Lyres 6 rose bonbon.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_22]
+TimeLineIndex = 9
+StartTime = 0:00:22.0
+Path = OFF
+[Event_23]
+TimeLineIndex = 10
+StartTime = 0:00:22.0
+Path = OFF
+[Event_24]
+TimeLineIndex = 11
+StartTime = 0:00:22.4
+Path = Lyres 5 Jaune PIPI.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_25]
+TimeLineIndex = 12
+StartTime = 0:00:22.8
+Path = Lyres 8 Orange Feu.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_26]
+TimeLineIndex = 11
+StartTime = 0:00:23.2
+Path = OFF
+[Event_27]
+TimeLineIndex = 12
+StartTime = 0:00:23.2
+Path = OFF
+[Event_28]
+TimeLineIndex = 10
+StartTime = 0:00:24.4
+Path = LIVEKOLOR Blanc.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_29]
+TimeLineIndex = 11
+StartTime = 0:00:24.4
+Path = STROB scène.scex
+Length = 0:00:10.0
+Speed = 100
+SpeedType = 2
+[Event_30]
+TimeLineIndex = 13
+StartTime = 0:00:24.4
+Path = LYRES Couleurs chaudes zoom moyen.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_31]
+TimeLineIndex = 14
+StartTime = 0:00:24.4
+Path = LYRES tornade 1 2 3 4 5 6 7 8.gpj
+Length = 0:00:10.0
+Speed = 100
+SpeedType = 2
+[Event_32]
+TimeLineIndex = 9
+StartTime = 0:00:24.4
+Path = LIVEKOLOR Dimmer continu.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_33]
+TimeLineIndex = 11
+StartTime = 0:00:25.3
+Path = OFF
+[Event_34]
+TimeLineIndex = 10
+StartTime = 0:00:25.3
+Path = OFF
+[Event_35]
+TimeLineIndex = 9
+StartTime = 0:00:25.3
+Path = OFF
+[Event_36]
+TimeLineIndex = 11
+StartTime = 0:00:33.1
+Path = LIVEKOLOR couleurs chaudes rapide.scex
+Length = 0:00:01.5
+Speed = 100
+SpeedType = 2
+[Event_37]
+TimeLineIndex = 12
+StartTime = 0:00:33.1
+Path = LIVEKOLOR Dimmer continu.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_38]
+TimeLineIndex = 14
+StartTime = 0:00:33.2
+Path = OFF
+[Event_39]
+TimeLineIndex = 15
+StartTime = 0:00:33.2
+Path = LYRES Mouvement circle salle (8 appareils).gpj
+Length = 0:00:10.0
+Speed = 100
+SpeedType = 2
+[Event_40]
+TimeLineIndex = 8
+StartTime = 0:00:43.4
+Path = PAR 56 Int-Ext.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_41]
+TimeLineIndex = 8
+StartTime = 0:00:43.7
+Path = OFF
+[Event_42]
+TimeLineIndex = 8
+StartTime = 0:00:43.9
+Path = PAR 56 Int-Ext.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_43]
+TimeLineIndex = 8
+StartTime = 0:00:44.2
+Path = OFF
+[Event_44]
+TimeLineIndex = 8
+StartTime = 0:00:45.6
+Path = PAR 56 Int-Ext.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_45]
+TimeLineIndex = 8
+StartTime = 0:00:45.9
+Path = OFF
+[Event_46]
+TimeLineIndex = 8
+StartTime = 0:00:46.1
+Path = PAR 56 Int-Ext.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_47]
+TimeLineIndex = 8
+StartTime = 0:00:46.4
+Path = OFF
+[Event_48]
+TimeLineIndex = 8
+StartTime = 0:00:47.8
+Path = PAR 56 Int-Ext.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_49]
+TimeLineIndex = 8
+StartTime = 0:00:48.1
+Path = OFF
+[Event_50]
+TimeLineIndex = 8
+StartTime = 0:00:48.3
+Path = PAR 56 Int-Ext.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_51]
+TimeLineIndex = 8
+StartTime = 0:00:48.6
+Path = OFF
