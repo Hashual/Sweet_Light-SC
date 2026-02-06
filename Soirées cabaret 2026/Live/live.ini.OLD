@@ -679,7 +679,7 @@ name = ZOOM Lyres.scex
 title = ZOOM Lyres
 masterspeedfader = 0
 fader = yes
-preset_step = 253
+preset_step = 255
 [page13_button2]
 line = 1
 column = 2
