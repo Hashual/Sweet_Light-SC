@@ -62,5 +62,23 @@
         <Channel index="1" name="dimmer" value="0"/>
       </Fixture>
     </Step>
+    <Step length="500">
+      <Fixture id="1664016596">
+        <Channel index="0" name="zoom" value="0" fade="1"/>
+        <Channel index="1" name="dimmer" value="0"/>
+      </Fixture>
+      <Fixture id="1664016597">
+        <Channel index="0" name="zoom" value="0" fade="1"/>
+        <Channel index="1" name="dimmer" value="0"/>
+      </Fixture>
+      <Fixture id="1664016598">
+        <Channel index="0" name="zoom" value="0" fade="1"/>
+        <Channel index="1" name="dimmer" value="0"/>
+      </Fixture>
+      <Fixture id="1663958226">
+        <Channel index="0" name="zoom" value="0" fade="1"/>
+        <Channel index="1" name="dimmer" value="0"/>
+      </Fixture>
+    </Step>
   </Steps>
 </Scene>
