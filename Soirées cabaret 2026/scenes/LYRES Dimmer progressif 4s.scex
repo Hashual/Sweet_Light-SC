@@ -12,30 +12,80 @@
     <Fixture id="1671368261" name="ServoColor4K #6" model="ServoColor600(16bits)"/>
   </Fixtures>
   <Steps>
-    <Step length="500">
+    <Step length="5">
+      <Fixture id="1671299957">
+        <Channel index="5" name="dimmer" value="0" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7"/>
+        <Channel index="11" name="white" value="255"/>
+      </Fixture>
+      <Fixture id="1671300460">
+        <Channel index="5" name="dimmer" value="0" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7"/>
+        <Channel index="11" name="white" value="255"/>
+      </Fixture>
+      <Fixture id="1671300461">
+        <Channel index="5" name="dimmer" value="0" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7"/>
+        <Channel index="11" name="white" value="255"/>
+      </Fixture>
+      <Fixture id="1671300462">
+        <Channel index="5" name="dimmer" value="0" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7"/>
+        <Channel index="11" name="white" value="255"/>
+      </Fixture>
+      <Fixture id="1766346200">
+        <Channel index="5" name="dimmer" value="0" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7"/>
+        <Channel index="11" name="white" value="255"/>
+      </Fixture>
+      <Fixture id="1766346201">
+        <Channel index="5" name="dimmer" value="0" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7"/>
+        <Channel index="11" name="white" value="255"/>
+      </Fixture>
+      <Fixture id="1671368260">
+        <Channel index="5" name="dimmer" value="0" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7"/>
+        <Channel index="11" name="white" value="255"/>
+      </Fixture>
+      <Fixture id="1671368261">
+        <Channel index="5" name="dimmer" value="0" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7"/>
+        <Channel index="11" name="white" value="255"/>
+      </Fixture>
+    </Step>
+    <Step length="400">
       <Fixture id="1671299957">
         <Channel index="5" name="dimmer" value="255" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7"/>
       </Fixture>
       <Fixture id="1671300460">
         <Channel index="5" name="dimmer" value="255" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7"/>
       </Fixture>
       <Fixture id="1671300461">
         <Channel index="5" name="dimmer" value="255" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7"/>
       </Fixture>
       <Fixture id="1671300462">
         <Channel index="5" name="dimmer" value="255" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7"/>
       </Fixture>
       <Fixture id="1766346200">
         <Channel index="5" name="dimmer" value="250" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7"/>
       </Fixture>
       <Fixture id="1766346201">
         <Channel index="5" name="dimmer" value="250" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7"/>
       </Fixture>
       <Fixture id="1671368260">
         <Channel index="5" name="dimmer" value="250" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7"/>
       </Fixture>
       <Fixture id="1671368261">
         <Channel index="5" name="dimmer" value="250" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7"/>
       </Fixture>
     </Step>
   </Steps>

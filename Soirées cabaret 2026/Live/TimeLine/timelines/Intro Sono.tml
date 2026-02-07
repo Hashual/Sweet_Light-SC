@@ -58,23 +58,23 @@ Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_5]
+TimeLineIndex = 4
+StartTime = 0:00:08.9
+Path = LYRES Jaune 4s prog.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_6]
 TimeLineIndex = 6
 StartTime = 0:00:08.9
 Path = LYRES plafond.scex
 Length = 0:00:01.5
 Speed = 100
 SpeedType = 2
-[Event_6]
+[Event_7]
 TimeLineIndex = 3
 StartTime = 0:00:08.9
-Path = LYRES Dimmer progressif 4s.scex
-Length = 0:00:05.0
-Speed = 100
-SpeedType = 2
-[Event_7]
-TimeLineIndex = 4
-StartTime = 0:00:08.9
-Path = LYRES Jaune.scex
+Path = LYRES Dimmer Salle.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
@@ -86,17 +86,17 @@ Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_9]
-TimeLineIndex = 3
+TimeLineIndex = 4
 StartTime = 0:00:14.5
-Path = LYRES Dimmer progressif 2s.scex
-Length = 0:00:05.0
+Path = LYRES Jaune 2s prog.scex
+Length = 0:00:02.0
 Speed = 100
 SpeedType = 2
 [Event_10]
-TimeLineIndex = 3
+TimeLineIndex = 4
 StartTime = 0:00:15.5
-Path = LYRES Dimmer progressif 2s.scex
-Length = 0:00:05.0
+Path = LYRES Jaune 2s prog.scex
+Length = 0:00:02.0
 Speed = 100
 SpeedType = 2
 [Event_11]
@@ -123,7 +123,7 @@ SpeedType = 2
 [Event_14]
 TimeLineIndex = 4
 StartTime = 0:00:24.4
-Path = Lyres 8 Orange Feu.scex
+Path = LYRES Orange.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
