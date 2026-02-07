@@ -296,44 +296,44 @@ Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_45]
-TimeLineIndex = 12
-StartTime = 0:01:16.7
-Path = LIVEKOLOR Dimmer droite.scex
-Length = 0:00:05.0
-Speed = 100
-SpeedType = 2
-[Event_46]
 TimeLineIndex = 7
 StartTime = 0:01:16.7
 Path = LYRES Dimmer 1-3-5-6.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_47]
+[Event_46]
 TimeLineIndex = 7
 StartTime = 0:01:17.3
 Path = LYRES Dimmer 1-2-3-5-6-8.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_48]
+[Event_47]
 TimeLineIndex = 7
 StartTime = 0:01:17.6
 Path = LYRES Dimmer Salle.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_49]
+[Event_48]
 TimeLineIndex = 11
 StartTime = 0:01:17.8
 Path = LIVEKOLOR Chenillard couleurs froides.scex
 Length = 0:00:01.8
 Speed = 100
 SpeedType = 2
-[Event_50]
+[Event_49]
 TimeLineIndex = 12
 StartTime = 0:01:17.8
 Path = LIVEKOLOR Dimmer continu.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_50]
+TimeLineIndex = 12
+StartTime = 0:01:18.4
+Path = LIVEKOLOR Dimmer droite.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
@@ -482,45 +482,51 @@ TimeLineIndex = 8
 StartTime = 0:02:18.3
 Path = OFF
 [Event_75]
-TimeLineIndex = 12
-StartTime = 0:02:18.3
-Path = OFF
-[Event_76]
 TimeLineIndex = 6
 StartTime = 0:02:18.3
 Path = LYRES Effet croisées 2 par 2.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_77]
+[Event_76]
 TimeLineIndex = 9
 StartTime = 0:02:18.3
 Path = LYRES Zoom min.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_78]
+[Event_77]
 TimeLineIndex = 7
 StartTime = 0:02:18.3
 Path = LYRES Dimmer 1-6.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_79]
+[Event_78]
 TimeLineIndex = 5
 StartTime = 0:02:18.3
 Path = LYRES Couleurs chaudes.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_80]
+[Event_79]
 TimeLineIndex = 14
 StartTime = 0:02:18.3
 Path = OFF
-[Event_81]
+[Event_80]
 TimeLineIndex = 11
 StartTime = 0:02:18.3
-Path = OFF
+Path = LIVEKOLOR Orange.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_81]
+TimeLineIndex = 13
+StartTime = 0:02:18.3
+Path = LIVEKOLOR Zoom max.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
 [Event_82]
 TimeLineIndex = 7
 StartTime = 0:02:19.4
@@ -550,12 +556,9 @@ Length = 0:00:01.8
 Speed = 100
 SpeedType = 2
 [Event_86]
-TimeLineIndex = 12
+TimeLineIndex = 13
 StartTime = 0:02:20.5
-Path = LIVEKOLOR Dimmer continu.scex
-Length = 0:00:05.0
-Speed = 100
-SpeedType = 2
+Path = OFF
 [Event_87]
 TimeLineIndex = 7
 StartTime = 0:02:25.7
@@ -597,7 +600,7 @@ Path = OFF
 [Event_95]
 TimeLineIndex = 11
 StartTime = 0:02:33.9
-Path = LIVEKOLOR Violet.scex
+Path = LIVEKOLOR Jaune.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
@@ -637,238 +640,255 @@ Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_101]
+TimeLineIndex = 12
+StartTime = 0:03:04.2
+Path = LIVEKOLOR Dimmer out fast.scex
+Length = 0:00:01.0
+Speed = 100
+SpeedType = 2
+[Event_102]
 TimeLineIndex = 6
 StartTime = 0:03:05.2
 Path = LYRES Effet croisées 2 par 2.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_102]
+[Event_103]
 TimeLineIndex = 9
 StartTime = 0:03:05.2
 Path = LYRES Zoom min.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_103]
+[Event_104]
 TimeLineIndex = 7
 StartTime = 0:03:05.2
 Path = LYRES Dimmer 1-6.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_104]
+[Event_105]
 TimeLineIndex = 14
 StartTime = 0:03:05.2
 Path = OFF
-[Event_105]
-TimeLineIndex = 11
-StartTime = 0:03:05.2
-Path = OFF
 [Event_106]
+TimeLineIndex = 12
+StartTime = 0:03:05.4
+Path = LIVEKOLOR Dimmer gauche.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_107]
 TimeLineIndex = 7
 StartTime = 0:03:06.3
 Path = LYRES Dimmer 1-3-5-6.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_107]
+[Event_108]
+TimeLineIndex = 12
+StartTime = 0:03:06.4
+Path = LIVEKOLOR Dimmer droite.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_109]
 TimeLineIndex = 7
 StartTime = 0:03:06.9
 Path = LYRES Dimmer 1-2-3-5-6-8.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_108]
+[Event_110]
 TimeLineIndex = 7
 StartTime = 0:03:07.2
 Path = LYRES Dimmer Salle.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_109]
+[Event_111]
 TimeLineIndex = 11
 StartTime = 0:03:07.4
 Path = LIVEKOLOR Chenillard couleurs chaudes.scex
 Length = 0:00:01.8
 Speed = 100
 SpeedType = 2
-[Event_110]
+[Event_112]
 TimeLineIndex = 12
 StartTime = 0:03:07.4
 Path = LIVEKOLOR Dimmer continu.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_111]
+[Event_113]
 TimeLineIndex = 7
 StartTime = 0:03:12.6
 Path = Lyres Chenillard 8 lyres.scex
 Length = 0:00:05.4
 Speed = 100
 SpeedType = 2
-[Event_112]
+[Event_114]
 TimeLineIndex = 11
 StartTime = 0:03:12.6
 Path = LIVEKOLOR Orange.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_113]
+[Event_115]
 TimeLineIndex = 7
 StartTime = 0:03:20.6
 Path = OFF
-[Event_114]
+[Event_116]
 TimeLineIndex = 12
 StartTime = 0:03:20.6
 Path = OFF
-[Event_115]
+[Event_117]
 TimeLineIndex = 11
 StartTime = 0:03:20.6
 Path = OFF
-[Event_116]
+[Event_118]
 TimeLineIndex = 7
 StartTime = 0:03:21.1
 Path = LYRES Dimmer 1-6.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_117]
+[Event_119]
 TimeLineIndex = 11
 StartTime = 0:03:21.2
 Path = LIVEKOLOR Chenillard couleurs chaudes.scex
 Length = 0:00:01.8
 Speed = 100
 SpeedType = 2
-[Event_118]
+[Event_120]
 TimeLineIndex = 12
 StartTime = 0:03:21.2
 Path = LIVEKOLOR Dimmer continu.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_119]
+[Event_121]
 TimeLineIndex = 7
 StartTime = 0:03:22.2
 Path = LYRES Dimmer 1-3-5-6.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_120]
+[Event_122]
 TimeLineIndex = 7
 StartTime = 0:03:22.8
 Path = LYRES Dimmer 1-2-3-5-6-8.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_121]
+[Event_123]
 TimeLineIndex = 7
 StartTime = 0:03:23.1
 Path = LYRES Dimmer Salle.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_122]
+[Event_124]
 TimeLineIndex = 5
 StartTime = 0:03:27.0
 Path = LYRES Couleurs chaudes.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_123]
+[Event_125]
 TimeLineIndex = 7
 StartTime = 0:03:28.5
 Path = Lyres Chenillard 8 lyres.scex
 Length = 0:00:05.4
 Speed = 100
 SpeedType = 2
-[Event_124]
+[Event_126]
 TimeLineIndex = 11
 StartTime = 0:03:28.5
 Path = LIVEKOLOR Jaune.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_125]
+[Event_127]
 TimeLineIndex = 12
 StartTime = 0:03:37.7
 Path = OFF
-[Event_126]
+[Event_128]
 TimeLineIndex = 11
 StartTime = 0:03:37.7
 Path = OFF
-[Event_127]
+[Event_129]
 TimeLineIndex = 9
 StartTime = 0:03:37.7
 Path = OFF
-[Event_128]
+[Event_130]
 TimeLineIndex = 7
 StartTime = 0:03:37.7
 Path = LYRES Dimmer out 2s.scex
 Length = 0:00:03.0
 Speed = 100
 SpeedType = 2
-[Event_129]
+[Event_131]
 TimeLineIndex = 9
-StartTime = 0:03:38.6
+StartTime = 0:03:38.1
 Path = LIVEKOLOR Blanc.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_130]
+[Event_132]
 TimeLineIndex = 10
-StartTime = 0:03:38.6
+StartTime = 0:03:38.1
 Path = LIVEKOLOR Zoom min.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_131]
+[Event_133]
 TimeLineIndex = 11
-StartTime = 0:03:38.6
+StartTime = 0:03:38.1
 Path = LIVEKOLOR Dimmer continu.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_132]
+[Event_134]
 TimeLineIndex = 15
 StartTime = 0:03:41.3
 Path = OFF
-[Event_133]
+[Event_135]
 TimeLineIndex = 11
 StartTime = 0:03:44.2
 Path = LIVEKOLOR fin danse.scex
 Length = 0:00:02.5
 Speed = 100
 SpeedType = 2
-[Event_134]
+[Event_136]
 TimeLineIndex = 7
 StartTime = 0:03:46.4
 Path = OFF
-[Event_135]
+[Event_137]
 TimeLineIndex = 5
 StartTime = 0:03:46.4
 Path = OFF
-[Event_136]
+[Event_138]
 TimeLineIndex = 8
 StartTime = 0:03:46.4
 Path = OFF
-[Event_137]
+[Event_139]
 TimeLineIndex = 6
 StartTime = 0:03:46.4
 Path = OFF
-[Event_138]
-TimeLineIndex = 9
-StartTime = 0:03:46.4
-Path = OFF
-[Event_139]
-TimeLineIndex = 11
-StartTime = 0:03:46.4
-Path = OFF
 [Event_140]
-TimeLineIndex = 10
-StartTime = 0:03:46.4
-Path = OFF
-[Event_141]
 TimeLineIndex = 17
 StartTime = 0:03:46.5
+Path = OFF
+[Event_141]
+TimeLineIndex = 9
+StartTime = 0:03:46.9
+Path = OFF
+[Event_142]
+TimeLineIndex = 11
+StartTime = 0:03:46.9
+Path = OFF
+[Event_143]
+TimeLineIndex = 10
+StartTime = 0:03:46.9
 Path = OFF
