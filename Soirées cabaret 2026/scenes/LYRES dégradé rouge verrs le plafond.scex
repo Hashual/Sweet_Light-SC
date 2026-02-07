@@ -19,6 +19,7 @@
         <Channel index="2" name="tilt" value="61" fade="1"/>
         <Channel index="3" name="utilt" value="0" fade="1"/>
         <Channel index="5" name="dimmer" value="0" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7"/>
         <Channel index="8" name="red" value="240" fade="1"/>
         <Channel index="9" name="green" value="220" fade="1"/>
         <Channel index="10" name="blue" value="150" fade="1"/>
@@ -29,7 +30,7 @@
         <Channel index="2" name="tilt" value="190" fade="1"/>
         <Channel index="3" name="utilt" value="0" fade="1"/>
         <Channel index="5" name="dimmer" value="0" fade="1"/>
-        <Channel index="6" name="strobe_effect" value="0"/>
+        <Channel index="6" name="strobe_effect" value="7"/>
         <Channel index="8" name="red" value="240" fade="1"/>
         <Channel index="9" name="green" value="220" fade="1"/>
         <Channel index="10" name="blue" value="150" fade="1"/>
@@ -40,7 +41,7 @@
         <Channel index="2" name="tilt" value="190" fade="1"/>
         <Channel index="3" name="utilt" value="0" fade="1"/>
         <Channel index="5" name="dimmer" value="0" fade="1"/>
-        <Channel index="6" name="strobe_effect" value="0"/>
+        <Channel index="6" name="strobe_effect" value="7"/>
         <Channel index="8" name="red" value="240" fade="1"/>
         <Channel index="9" name="green" value="220" fade="1"/>
         <Channel index="10" name="blue" value="150" fade="1"/>
@@ -51,29 +52,29 @@
         <Channel index="2" name="tilt" value="61" fade="1"/>
         <Channel index="3" name="utilt" value="0" fade="1"/>
         <Channel index="5" name="dimmer" value="0" fade="1"/>
-        <Channel index="6" name="strobe_effect" value="0"/>
+        <Channel index="6" name="strobe_effect" value="7"/>
         <Channel index="8" name="red" value="240" fade="1"/>
         <Channel index="9" name="green" value="220" fade="1"/>
         <Channel index="10" name="blue" value="150" fade="1"/>
       </Fixture>
       <Fixture id="1766346200">
         <Channel index="5" name="dimmer" value="0"/>
-        <Channel index="6" name="strobe_effect" value="0"/>
+        <Channel index="6" name="strobe_effect" value="7"/>
         <Channel index="8" name="red" value="255" fade="1"/>
       </Fixture>
       <Fixture id="1766346201">
         <Channel index="5" name="dimmer" value="0"/>
-        <Channel index="6" name="strobe_effect" value="0"/>
+        <Channel index="6" name="strobe_effect" value="7"/>
         <Channel index="8" name="red" value="0" fade="1"/>
       </Fixture>
       <Fixture id="1671368260">
         <Channel index="5" name="dimmer" value="0"/>
-        <Channel index="6" name="strobe_effect" value="0"/>
+        <Channel index="6" name="strobe_effect" value="7"/>
         <Channel index="8" name="red" value="255" fade="1"/>
       </Fixture>
       <Fixture id="1671368261">
         <Channel index="5" name="dimmer" value="0"/>
-        <Channel index="6" name="strobe_effect" value="0"/>
+        <Channel index="6" name="strobe_effect" value="7"/>
         <Channel index="8" name="red" value="0" fade="1"/>
       </Fixture>
     </Step>
@@ -84,7 +85,7 @@
         <Channel index="2" name="tilt" value="61" fade="1"/>
         <Channel index="3" name="utilt" value="0" fade="1"/>
         <Channel index="5" name="dimmer" value="0" fade="1"/>
-        <Channel index="6" name="strobe_effect" value="165" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7" fade="1"/>
         <Channel index="8" name="red" value="240" fade="1"/>
         <Channel index="9" name="green" value="220" fade="1"/>
         <Channel index="10" name="blue" value="150" fade="1"/>
@@ -96,7 +97,7 @@
         <Channel index="2" name="tilt" value="190" fade="1"/>
         <Channel index="3" name="utilt" value="0" fade="1"/>
         <Channel index="5" name="dimmer" value="0" fade="1"/>
-        <Channel index="6" name="strobe_effect" value="165" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7" fade="1"/>
         <Channel index="8" name="red" value="240" fade="1"/>
         <Channel index="9" name="green" value="220" fade="1"/>
         <Channel index="10" name="blue" value="150" fade="1"/>
@@ -108,7 +109,7 @@
         <Channel index="2" name="tilt" value="190" fade="1"/>
         <Channel index="3" name="utilt" value="0" fade="1"/>
         <Channel index="5" name="dimmer" value="0" fade="1"/>
-        <Channel index="6" name="strobe_effect" value="165" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7" fade="1"/>
         <Channel index="8" name="red" value="240" fade="1"/>
         <Channel index="9" name="green" value="220" fade="1"/>
         <Channel index="10" name="blue" value="150" fade="1"/>
@@ -120,7 +121,7 @@
         <Channel index="2" name="tilt" value="61" fade="1"/>
         <Channel index="3" name="utilt" value="0" fade="1"/>
         <Channel index="5" name="dimmer" value="0" fade="1"/>
-        <Channel index="6" name="strobe_effect" value="165" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7" fade="1"/>
         <Channel index="8" name="red" value="240" fade="1"/>
         <Channel index="9" name="green" value="220" fade="1"/>
         <Channel index="10" name="blue" value="150" fade="1"/>
@@ -128,22 +129,22 @@
       </Fixture>
       <Fixture id="1766346200">
         <Channel index="5" name="dimmer" value="0" fade="1"/>
-        <Channel index="6" name="strobe_effect" value="165" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7" fade="1"/>
         <Channel index="8" name="red" value="255" fade="1"/>
       </Fixture>
       <Fixture id="1766346201">
         <Channel index="5" name="dimmer" value="0" fade="1"/>
-        <Channel index="6" name="strobe_effect" value="165" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7" fade="1"/>
         <Channel index="8" name="red" value="255" fade="1"/>
       </Fixture>
       <Fixture id="1671368260">
         <Channel index="5" name="dimmer" value="0" fade="1"/>
-        <Channel index="6" name="strobe_effect" value="165" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7" fade="1"/>
         <Channel index="8" name="red" value="255" fade="1"/>
       </Fixture>
       <Fixture id="1671368261">
         <Channel index="5" name="dimmer" value="0" fade="1"/>
-        <Channel index="6" name="strobe_effect" value="165" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7" fade="1"/>
         <Channel index="8" name="red" value="255" fade="1"/>
       </Fixture>
     </Step>
@@ -154,7 +155,7 @@
         <Channel index="2" name="tilt" value="61" fade="1"/>
         <Channel index="3" name="utilt" value="0" fade="1"/>
         <Channel index="5" name="dimmer" value="127" fade="1"/>
-        <Channel index="6" name="strobe_effect" value="165" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7" fade="1"/>
         <Channel index="8" name="red" value="240" fade="1"/>
         <Channel index="9" name="green" value="220" fade="1"/>
         <Channel index="10" name="blue" value="150" fade="1"/>
@@ -166,7 +167,7 @@
         <Channel index="2" name="tilt" value="190" fade="1"/>
         <Channel index="3" name="utilt" value="0" fade="1"/>
         <Channel index="5" name="dimmer" value="127" fade="1"/>
-        <Channel index="6" name="strobe_effect" value="165" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7" fade="1"/>
         <Channel index="8" name="red" value="240" fade="1"/>
         <Channel index="9" name="green" value="220" fade="1"/>
         <Channel index="10" name="blue" value="150" fade="1"/>
@@ -178,7 +179,7 @@
         <Channel index="2" name="tilt" value="190" fade="1"/>
         <Channel index="3" name="utilt" value="0" fade="1"/>
         <Channel index="5" name="dimmer" value="127" fade="1"/>
-        <Channel index="6" name="strobe_effect" value="165" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7" fade="1"/>
         <Channel index="8" name="red" value="240" fade="1"/>
         <Channel index="9" name="green" value="220" fade="1"/>
         <Channel index="10" name="blue" value="150" fade="1"/>
@@ -190,7 +191,7 @@
         <Channel index="2" name="tilt" value="61" fade="1"/>
         <Channel index="3" name="utilt" value="0" fade="1"/>
         <Channel index="5" name="dimmer" value="127" fade="1"/>
-        <Channel index="6" name="strobe_effect" value="165" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7" fade="1"/>
         <Channel index="8" name="red" value="240" fade="1"/>
         <Channel index="9" name="green" value="220" fade="1"/>
         <Channel index="10" name="blue" value="150" fade="1"/>
@@ -200,28 +201,28 @@
         <Channel index="2" name="tilt" value="100" fade="1"/>
         <Channel index="3" name="utilt" value="0" fade="1"/>
         <Channel index="5" name="dimmer" value="127" fade="1"/>
-        <Channel index="6" name="strobe_effect" value="165" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7" fade="1"/>
         <Channel index="8" name="red" value="255" fade="1"/>
       </Fixture>
       <Fixture id="1766346201">
         <Channel index="2" name="tilt" value="100" fade="1"/>
         <Channel index="3" name="utilt" value="0" fade="1"/>
         <Channel index="5" name="dimmer" value="127" fade="1"/>
-        <Channel index="6" name="strobe_effect" value="165" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7" fade="1"/>
         <Channel index="8" name="red" value="255" fade="1"/>
       </Fixture>
       <Fixture id="1671368260">
         <Channel index="2" name="tilt" value="100" fade="1"/>
         <Channel index="3" name="utilt" value="0" fade="1"/>
         <Channel index="5" name="dimmer" value="127" fade="1"/>
-        <Channel index="6" name="strobe_effect" value="165" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7" fade="1"/>
         <Channel index="8" name="red" value="255" fade="1"/>
       </Fixture>
       <Fixture id="1671368261">
         <Channel index="2" name="tilt" value="100" fade="1"/>
         <Channel index="3" name="utilt" value="0" fade="1"/>
         <Channel index="5" name="dimmer" value="127" fade="1"/>
-        <Channel index="6" name="strobe_effect" value="165" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7" fade="1"/>
         <Channel index="8" name="red" value="255" fade="1"/>
       </Fixture>
     </Step>
@@ -232,7 +233,7 @@
         <Channel index="2" name="tilt" value="61" fade="1"/>
         <Channel index="3" name="utilt" value="0" fade="1"/>
         <Channel index="5" name="dimmer" value="255" fade="1"/>
-        <Channel index="6" name="strobe_effect" value="165" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7" fade="1"/>
         <Channel index="8" name="red" value="240" fade="1"/>
         <Channel index="9" name="green" value="220" fade="1"/>
         <Channel index="10" name="blue" value="150" fade="1"/>
@@ -244,7 +245,7 @@
         <Channel index="2" name="tilt" value="190" fade="1"/>
         <Channel index="3" name="utilt" value="0" fade="1"/>
         <Channel index="5" name="dimmer" value="255" fade="1"/>
-        <Channel index="6" name="strobe_effect" value="165" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7" fade="1"/>
         <Channel index="8" name="red" value="240" fade="1"/>
         <Channel index="9" name="green" value="220" fade="1"/>
         <Channel index="10" name="blue" value="150" fade="1"/>
@@ -256,7 +257,7 @@
         <Channel index="2" name="tilt" value="190" fade="1"/>
         <Channel index="3" name="utilt" value="0" fade="1"/>
         <Channel index="5" name="dimmer" value="255" fade="1"/>
-        <Channel index="6" name="strobe_effect" value="165" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7" fade="1"/>
         <Channel index="8" name="red" value="240" fade="1"/>
         <Channel index="9" name="green" value="220" fade="1"/>
         <Channel index="10" name="blue" value="150" fade="1"/>
@@ -268,7 +269,7 @@
         <Channel index="2" name="tilt" value="61" fade="1"/>
         <Channel index="3" name="utilt" value="0" fade="1"/>
         <Channel index="5" name="dimmer" value="255" fade="1"/>
-        <Channel index="6" name="strobe_effect" value="165" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7" fade="1"/>
         <Channel index="8" name="red" value="240" fade="1"/>
         <Channel index="9" name="green" value="220" fade="1"/>
         <Channel index="10" name="blue" value="150" fade="1"/>
@@ -278,28 +279,28 @@
         <Channel index="2" name="tilt" value="165" fade="1"/>
         <Channel index="3" name="utilt" value="0" fade="1"/>
         <Channel index="5" name="dimmer" value="255" fade="1"/>
-        <Channel index="6" name="strobe_effect" value="165" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7" fade="1"/>
         <Channel index="8" name="red" value="255" fade="1"/>
       </Fixture>
       <Fixture id="1766346201">
         <Channel index="2" name="tilt" value="165" fade="1"/>
         <Channel index="3" name="utilt" value="0" fade="1"/>
         <Channel index="5" name="dimmer" value="255" fade="1"/>
-        <Channel index="6" name="strobe_effect" value="165" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7" fade="1"/>
         <Channel index="8" name="red" value="255" fade="1"/>
       </Fixture>
       <Fixture id="1671368260">
         <Channel index="2" name="tilt" value="165" fade="1"/>
         <Channel index="3" name="utilt" value="0" fade="1"/>
         <Channel index="5" name="dimmer" value="255" fade="1"/>
-        <Channel index="6" name="strobe_effect" value="165" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7" fade="1"/>
         <Channel index="8" name="red" value="255" fade="1"/>
       </Fixture>
       <Fixture id="1671368261">
         <Channel index="2" name="tilt" value="165" fade="1"/>
         <Channel index="3" name="utilt" value="0" fade="1"/>
         <Channel index="5" name="dimmer" value="255" fade="1"/>
-        <Channel index="6" name="strobe_effect" value="165" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7" fade="1"/>
         <Channel index="8" name="red" value="255" fade="1"/>
       </Fixture>
     </Step>
@@ -310,7 +311,7 @@
         <Channel index="2" name="tilt" value="61" fade="1"/>
         <Channel index="3" name="utilt" value="0" fade="1"/>
         <Channel index="5" name="dimmer" value="255" fade="1"/>
-        <Channel index="6" name="strobe_effect" value="165" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7" fade="1"/>
         <Channel index="8" name="red" value="240" fade="1"/>
         <Channel index="9" name="green" value="220" fade="1"/>
         <Channel index="10" name="blue" value="150" fade="1"/>
@@ -322,7 +323,7 @@
         <Channel index="2" name="tilt" value="190" fade="1"/>
         <Channel index="3" name="utilt" value="0" fade="1"/>
         <Channel index="5" name="dimmer" value="255" fade="1"/>
-        <Channel index="6" name="strobe_effect" value="165" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7" fade="1"/>
         <Channel index="8" name="red" value="240" fade="1"/>
         <Channel index="9" name="green" value="220" fade="1"/>
         <Channel index="10" name="blue" value="150" fade="1"/>
@@ -334,7 +335,7 @@
         <Channel index="2" name="tilt" value="190" fade="1"/>
         <Channel index="3" name="utilt" value="0" fade="1"/>
         <Channel index="5" name="dimmer" value="255" fade="1"/>
-        <Channel index="6" name="strobe_effect" value="165" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7" fade="1"/>
         <Channel index="8" name="red" value="240" fade="1"/>
         <Channel index="9" name="green" value="220" fade="1"/>
         <Channel index="10" name="blue" value="150" fade="1"/>
@@ -346,7 +347,7 @@
         <Channel index="2" name="tilt" value="61" fade="1"/>
         <Channel index="3" name="utilt" value="0" fade="1"/>
         <Channel index="5" name="dimmer" value="255" fade="1"/>
-        <Channel index="6" name="strobe_effect" value="165" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7" fade="1"/>
         <Channel index="8" name="red" value="240" fade="1"/>
         <Channel index="9" name="green" value="220" fade="1"/>
         <Channel index="10" name="blue" value="150" fade="1"/>
@@ -356,28 +357,28 @@
         <Channel index="2" name="tilt" value="165" fade="1"/>
         <Channel index="3" name="utilt" value="0" fade="1"/>
         <Channel index="5" name="dimmer" value="255" fade="1"/>
-        <Channel index="6" name="strobe_effect" value="165" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7" fade="1"/>
         <Channel index="8" name="red" value="255" fade="1"/>
       </Fixture>
       <Fixture id="1766346201">
         <Channel index="2" name="tilt" value="165" fade="1"/>
         <Channel index="3" name="utilt" value="0" fade="1"/>
         <Channel index="5" name="dimmer" value="255" fade="1"/>
-        <Channel index="6" name="strobe_effect" value="165" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7" fade="1"/>
         <Channel index="8" name="red" value="255" fade="1"/>
       </Fixture>
       <Fixture id="1671368260">
         <Channel index="2" name="tilt" value="165" fade="1"/>
         <Channel index="3" name="utilt" value="0" fade="1"/>
         <Channel index="5" name="dimmer" value="255" fade="1"/>
-        <Channel index="6" name="strobe_effect" value="165" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7" fade="1"/>
         <Channel index="8" name="red" value="255" fade="1"/>
       </Fixture>
       <Fixture id="1671368261">
         <Channel index="2" name="tilt" value="165" fade="1"/>
         <Channel index="3" name="utilt" value="0" fade="1"/>
         <Channel index="5" name="dimmer" value="255" fade="1"/>
-        <Channel index="6" name="strobe_effect" value="165" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7" fade="1"/>
         <Channel index="8" name="red" value="255" fade="1"/>
       </Fixture>
     </Step>

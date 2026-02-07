@@ -10,27 +10,27 @@
   <Steps>
     <Step length="500">
       <Fixture id="1671299957">
-        <Channel index="0" name="pan" value="96"/>
-        <Channel index="1" name="upan" value="0"/>
-        <Channel index="2" name="tilt" value="29"/>
-        <Channel index="3" name="utilt" value="0"/>
+        <Channel index="0" name="pan" value="97"/>
+        <Channel index="1" name="upan" value="93"/>
+        <Channel index="2" name="tilt" value="27"/>
+        <Channel index="3" name="utilt" value="78"/>
       </Fixture>
       <Fixture id="1671300460">
-        <Channel index="0" name="pan" value="98"/>
-        <Channel index="1" name="upan" value="0"/>
+        <Channel index="0" name="pan" value="100"/>
+        <Channel index="1" name="upan" value="147"/>
         <Channel index="2" name="tilt" value="29"/>
-        <Channel index="3" name="utilt" value="0"/>
+        <Channel index="3" name="utilt" value="207"/>
       </Fixture>
       <Fixture id="1671300461">
-        <Channel index="0" name="pan" value="16"/>
-        <Channel index="1" name="upan" value="0"/>
+        <Channel index="0" name="pan" value="170"/>
+        <Channel index="1" name="upan" value="177"/>
         <Channel index="2" name="tilt" value="229"/>
-        <Channel index="3" name="utilt" value="0"/>
+        <Channel index="3" name="utilt" value="52"/>
       </Fixture>
       <Fixture id="1671300462">
-        <Channel index="0" name="pan" value="102"/>
+        <Channel index="0" name="pan" value="101"/>
         <Channel index="1" name="upan" value="0"/>
-        <Channel index="2" name="tilt" value="30"/>
+        <Channel index="2" name="tilt" value="26"/>
         <Channel index="3" name="utilt" value="0"/>
       </Fixture>
     </Step>

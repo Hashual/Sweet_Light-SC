@@ -27,8 +27,8 @@ TimeLine_17 = L I G H T   S C E N E   T I M E L I N E   #   15
 [Event_0]
 TimeLineIndex = 5
 StartTime = 0:00:00.0
-Path = LYRES salle Dimmer progressif 18 sec.scex
-Length = 0:00:18.0
+Path = LYRES Dimmer Salle.scex
+Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_1]

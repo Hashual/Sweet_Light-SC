@@ -12,7 +12,7 @@
     <Fixture id="1671368261" name="ServoColor4K #6" model="ServoColor600(16bits)"/>
   </Fixtures>
   <Steps>
-    <Step length="1800">
+    <Step length="400">
       <Fixture id="1671299957">
         <Channel index="5" name="dimmer" value="255" fade="1"/>
       </Fixture>
