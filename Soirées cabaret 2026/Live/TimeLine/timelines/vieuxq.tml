@@ -1409,3 +1409,76 @@ SpeedType = 2
 TimeLineIndex = 3
 StartTime = 0:02:27.7
 Path = OFF
+[Event_250]
+TimeLineIndex = 13
+StartTime = 0:02:27.7
+Path = OFF
+[Event_251]
+TimeLineIndex = 14
+StartTime = 0:02:27.7
+Path = OFF
+[Event_252]
+TimeLineIndex = 4
+StartTime = 0:02:27.7
+Path = OFF
+[Event_253]
+TimeLineIndex = 5
+StartTime = 0:02:27.7
+Path = OFF
+[Event_254]
+TimeLineIndex = 6
+StartTime = 0:02:27.7
+Path = OFF
+[Event_255]
+TimeLineIndex = 11
+StartTime = 0:02:27.7
+Path = OFF
+[Event_256]
+TimeLineIndex = 10
+StartTime = 0:02:27.7
+Path = OFF
+[Event_257]
+TimeLineIndex = 9
+StartTime = 0:02:27.7
+Path = OFF
+[Event_258]
+TimeLineIndex = 7
+StartTime = 0:02:27.7
+Path = OFF
+[Event_259]
+TimeLineIndex = 8
+StartTime = 0:02:27.7
+Path = OFF
+[Event_260]
+TimeLineIndex = 8
+StartTime = 0:02:30.4
+Path = PAR 56 Int-Ext.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_261]
+TimeLineIndex = 8
+StartTime = 0:02:30.6
+Path = OFF
+[Event_262]
+TimeLineIndex = 8
+StartTime = 0:02:30.8
+Path = PAR 56 Int-Ext.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_263]
+TimeLineIndex = 8
+StartTime = 0:02:31.0
+Path = OFF
+[Event_264]
+TimeLineIndex = 8
+StartTime = 0:02:31.2
+Path = PAR 56 Int-Ext.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_265]
+TimeLineIndex = 8
+StartTime = 0:02:31.4
+Path = OFF
