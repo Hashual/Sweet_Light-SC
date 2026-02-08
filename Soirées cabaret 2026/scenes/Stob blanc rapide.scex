@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1768953811" name="Stroboscope Atomic" model="Stroboscope Atomic"/>
+  </Fixtures>
+  <Steps>
+    <Step length="500">
+      <Fixture id="1768953811">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
+        <Channel index="7" name="strobe_or_speed" value="255"/>
+        <Channel index="10" name="white" value="255" fade="1"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

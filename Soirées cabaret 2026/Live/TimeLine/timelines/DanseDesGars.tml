@@ -14,13 +14,13 @@ TimeLine_4 = L I G H T   S C E N E   T I M E L I N E   #   2
 TimeLine_5 = L I G H T   S C E N E   T I M E L I N E   #   3
 TimeLine_6 = L I G H T   S C E N E   T I M E L I N E   #   4
 TimeLine_7 = L I G H T   S C E N E   T I M E L I N E   #   5
-TimeLine_8 = L I G H T   S C E N E   T I M E L I N E   #   6
-TimeLine_9 = L I G H T   S C E N E   T I M E L I N E   #   7
-TimeLine_10 = L I G H T   S C E N E   T I M E L I N E   #   8
-TimeLine_11 = L I G H T   S C E N E   T I M E L I N E   #   9
-TimeLine_12 = L I G H T   S C E N E   T I M E L I N E   #   10
+TimeLine_8 = Dimmer livekolor
+TimeLine_9 = Lyres position
+TimeLine_10 = Lyres couleur
+TimeLine_11 = Lyres dimmer
+TimeLine_12 = Lyres generator
 TimeLine_13 = L I G H T   S C E N E   T I M E L I N E   #   11
-TimeLine_14 = L I G H T   S C E N E   T I M E L I N E   #   12
+TimeLine_14 = PC
 TimeLine_15 = L I G H T   S C E N E   T I M E L I N E   #   13
 TimeLine_16 = L I G H T   S C E N E   T I M E L I N E   #   14
 TimeLine_17 = L I G H T   S C E N E   T I M E L I N E   #   15
@@ -29,3 +29,312 @@ TimeLineIndex = 2
 StartTime = 0:00:00.3
 Path = musiques/danse gars  V4.wav
 Length = 0:03:13.5
+[Event_1]
+TimeLineIndex = 11
+StartTime = 0:00:06.0
+Path = LYRES Dimmer Salle.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_2]
+TimeLineIndex = 3
+StartTime = 0:00:07.8
+Path = PAR 56 Extérieurs.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_3]
+TimeLineIndex = 15
+StartTime = 0:00:11.0
+Path = Brouillard pendant danse.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_4]
+TimeLineIndex = 4
+StartTime = 0:00:12.9
+Path = LIVEKOLOR Blanc.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_5]
+TimeLineIndex = 8
+StartTime = 0:00:12.9
+Path = LIVEKOLOR Dimmer continu.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_6]
+TimeLineIndex = 4
+StartTime = 0:00:14.7
+Path = OFF
+[Event_7]
+TimeLineIndex = 8
+StartTime = 0:00:14.7
+Path = OFF
+[Event_8]
+TimeLineIndex = 12
+StartTime = 0:00:15.4
+Path = LYRES Mouvement crown scène.gpj
+Length = 0:00:08.0
+Speed = 100
+SpeedType = 2
+[Event_9]
+TimeLineIndex = 14
+StartTime = 0:00:16.7
+Path = PC (danses).scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_10]
+TimeLineIndex = 10
+StartTime = 0:00:16.7
+Path = LYRES Rose bleu avec salle.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_11]
+TimeLineIndex = 5
+StartTime = 0:00:16.7
+Path = LIVEKOLOR Rose bleu.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_12]
+TimeLineIndex = 8
+StartTime = 0:00:16.7
+Path = LIVEKOLOR chenillard dimmer 0.5sec.scex
+Length = 0:00:02.0
+Speed = 100
+SpeedType = 2
+[Event_13]
+TimeLineIndex = 3
+StartTime = 0:00:16.9
+Path = OFF
+[Event_14]
+TimeLineIndex = 3
+StartTime = 0:00:23.9
+Path = PAR 56 Int-Ext.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_15]
+TimeLineIndex = 4
+StartTime = 0:00:23.9
+Path = Strob blanc rapide.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_16]
+TimeLineIndex = 3
+StartTime = 0:00:24.7
+Path = OFF
+[Event_17]
+TimeLineIndex = 4
+StartTime = 0:00:24.7
+Path = OFF
+[Event_18]
+TimeLineIndex = 8
+StartTime = 0:00:25.1
+Path = LIVEKOLOR Dimmer continu.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_19]
+TimeLineIndex = 3
+StartTime = 0:00:25.2
+Path = PAR 56 Int-Ext.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_20]
+TimeLineIndex = 3
+StartTime = 0:00:31.0
+Path = OFF
+[Event_21]
+TimeLineIndex = 3
+StartTime = 0:00:32.4
+Path = PAR 56 Défilement 6.scex
+Length = 0:00:07.4
+Speed = 100
+SpeedType = 2
+[Event_22]
+TimeLineIndex = 3
+StartTime = 0:00:35.5
+Path = OFF
+[Event_23]
+TimeLineIndex = 3
+StartTime = 0:00:36.4
+Path = STROB rose.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_24]
+TimeLineIndex = 3
+StartTime = 0:00:39.5
+Path = OFF
+[Event_25]
+TimeLineIndex = 3
+StartTime = 0:00:40.7
+Path = STROB rose.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_26]
+TimeLineIndex = 3
+StartTime = 0:00:43.8
+Path = OFF
+[Event_27]
+TimeLineIndex = 3
+StartTime = 0:00:44.9
+Path = STROB rose.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_28]
+TimeLineIndex = 3
+StartTime = 0:00:48.3
+Path = OFF
+[Event_29]
+TimeLineIndex = 5
+StartTime = 0:00:56.9
+Path = OFF
+[Event_30]
+TimeLineIndex = 10
+StartTime = 0:00:57.2
+Path = OFF
+[Event_31]
+TimeLineIndex = 12
+StartTime = 0:00:57.2
+Path = OFF
+[Event_32]
+TimeLineIndex = 9
+StartTime = 0:00:57.7
+Path = LIVEKOLOR Défilement couleurs froides.scex
+Length = 0:00:00.5
+Speed = 100
+SpeedType = 2
+[Event_33]
+TimeLineIndex = 12
+StartTime = 0:00:57.7
+Path = LYRES tornade 1 2 3 4 5 6 7 8.gpj
+Length = 0:00:10.0
+Speed = 100
+SpeedType = 2
+[Event_34]
+TimeLineIndex = 10
+StartTime = 0:00:57.7
+Path = LYRES Multicouleurs.scex
+Length = 0:00:06.0
+Speed = 100
+SpeedType = 2
+[Event_35]
+TimeLineIndex = 6
+StartTime = 0:01:05.4
+Path = PAR 56 Int-Ext.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_36]
+TimeLineIndex = 6
+StartTime = 0:01:05.8
+Path = OFF
+[Event_37]
+TimeLineIndex = 9
+StartTime = 0:01:20.6
+Path = LIVEKOLOR couleurs chaudes.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_38]
+TimeLineIndex = 9
+StartTime = 0:01:30.1
+Path = LIVEKOLOR Défilement couleurs froides.scex
+Length = 0:00:00.5
+Speed = 100
+SpeedType = 2
+[Event_39]
+TimeLineIndex = 10
+StartTime = 0:01:37.6
+Path = OFF
+[Event_40]
+TimeLineIndex = 9
+StartTime = 0:01:37.6
+Path = OFF
+[Event_41]
+TimeLineIndex = 12
+StartTime = 0:01:37.6
+Path = OFF
+[Event_42]
+TimeLineIndex = 9
+StartTime = 0:01:37.6
+Path = LIVEKOLOR Rouge.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_43]
+TimeLineIndex = 10
+StartTime = 0:01:37.6
+Path = LYRES Rouge.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_44]
+TimeLineIndex = 5
+StartTime = 0:01:45.8
+Path = PAR 56 Int-Ext.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_45]
+TimeLineIndex = 5
+StartTime = 0:01:46.5
+Path = OFF
+[Event_46]
+TimeLineIndex = 5
+StartTime = 0:01:49.7
+Path = PAR 56 Défilement 6.scex
+Length = 0:00:07.4
+Speed = 100
+SpeedType = 2
+[Event_47]
+TimeLineIndex = 12
+StartTime = 0:01:57.5
+Path = LYRES tornade 1 2 3 4 5 6 7 8.gpj
+Length = 0:00:10.0
+Speed = 100
+SpeedType = 2
+[Event_48]
+TimeLineIndex = 10
+StartTime = 0:01:57.5
+Path = LYRES Multicouleurs.scex
+Length = 0:00:06.0
+Speed = 100
+SpeedType = 2
+[Event_49]
+TimeLineIndex = 9
+StartTime = 0:01:57.5
+Path = OFF
+[Event_50]
+TimeLineIndex = 12
+StartTime = 0:02:13.1
+Path = OFF
+[Event_51]
+TimeLineIndex = 5
+StartTime = 0:02:13.1
+Path = OFF
+[Event_52]
+TimeLineIndex = 10
+StartTime = 0:02:13.1
+Path = OFF
+[Event_53]
+TimeLineIndex = 4
+StartTime = 0:02:13.5
+Path = Strob blanc rapide.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_54]
+TimeLineIndex = 4
+StartTime = 0:02:16.1
+Path = OFF
