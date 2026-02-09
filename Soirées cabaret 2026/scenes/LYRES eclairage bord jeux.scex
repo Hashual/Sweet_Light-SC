@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1671300460" name="ServoColor4K #2" model="ServoColor600(16bits)"/>
+    <Fixture id="1671300461" name="ServoColor4K #3" model="ServoColor600(16bits)"/>
+  </Fixtures>
+  <Steps>
+    <Step length="500">
+      <Fixture id="1671300460">
+        <Channel index="0" name="pan" value="112"/>
+        <Channel index="1" name="upan" value="18"/>
+        <Channel index="2" name="tilt" value="32"/>
+        <Channel index="3" name="utilt" value="38"/>
+        <Channel index="5" name="dimmer" value="255" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7"/>
+        <Channel index="8" name="red" value="255"/>
+        <Channel index="9" name="green" value="255"/>
+        <Channel index="11" name="white" value="200" fade="1"/>
+      </Fixture>
+      <Fixture id="1671300461">
+        <Channel index="0" name="pan" value="24"/>
+        <Channel index="1" name="upan" value="254"/>
+        <Channel index="2" name="tilt" value="225"/>
+        <Channel index="3" name="utilt" value="5"/>
+        <Channel index="5" name="dimmer" value="255" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7"/>
+        <Channel index="8" name="red" value="255"/>
+        <Channel index="9" name="green" value="255"/>
+        <Channel index="11" name="white" value="200" fade="1"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

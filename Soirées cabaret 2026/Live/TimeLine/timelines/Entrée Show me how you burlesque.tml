@@ -25,23 +25,23 @@ TimeLine_15 = L I G H T   S C E N E   T I M E L I N E   #   13
 TimeLine_16 = L I G H T   S C E N E   T I M E L I N E   #   14
 TimeLine_17 = L I G H T   S C E N E   T I M E L I N E   #   15
 [Event_0]
-TimeLineIndex = 5
-StartTime = 0:00:00.0
-Path = LYRES Dimmer Salle.scex
-Length = 0:00:05.0
-Speed = 100
-SpeedType = 2
-[Event_1]
 TimeLineIndex = 3
 StartTime = 0:00:00.0
 Path = LYRES dégradé rouge verrs le plafond.scex
 Length = 0:00:20.5
 Speed = 100
 SpeedType = 2
-[Event_2]
+[Event_1]
 TimeLineIndex = 4
 StartTime = 0:00:00.0
 Path = Brouillard pendant danse.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_2]
+TimeLineIndex = 5
+StartTime = 0:00:00.0
+Path = LYRES Dimmer Salle.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
