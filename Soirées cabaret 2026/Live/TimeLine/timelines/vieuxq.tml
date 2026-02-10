@@ -835,551 +835,548 @@ TimeLineIndex = 8
 StartTime = 0:00:56.6
 Path = OFF
 [Event_146]
-TimeLineIndex = 7
+TimeLineIndex = 9
 StartTime = 0:01:06.3
 Path = OFF
 [Event_147]
-TimeLineIndex = 6
+TimeLineIndex = 7
 StartTime = 0:01:06.3
 Path = OFF
 [Event_148]
-TimeLineIndex = 5
+TimeLineIndex = 6
 StartTime = 0:01:06.3
 Path = OFF
 [Event_149]
-TimeLineIndex = 4
+TimeLineIndex = 5
 StartTime = 0:01:06.3
 Path = OFF
 [Event_150]
+TimeLineIndex = 4
+StartTime = 0:01:06.3
+Path = OFF
+[Event_151]
 TimeLineIndex = 6
 StartTime = 0:01:06.8
 Path = LYRES Dimmer Salle.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_151]
+[Event_152]
 TimeLineIndex = 7
 StartTime = 0:01:06.8
 Path = LYRES Couleurs chaudes zoom moyen.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_152]
+[Event_153]
 TimeLineIndex = 9
 StartTime = 0:01:06.8
 Path = LIVEKOLOR Dimmer continu.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_153]
+[Event_154]
 TimeLineIndex = 5
 StartTime = 0:01:06.8
 Path = LYRES Mouvement crown salle (6 appareils) rapide.gpj
 Length = 0:00:07.0
 Speed = 100
 SpeedType = 2
-[Event_154]
+[Event_155]
 TimeLineIndex = 8
 StartTime = 0:01:19.2
 Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_155]
+[Event_156]
 TimeLineIndex = 8
 StartTime = 0:01:19.4
 Path = OFF
-[Event_156]
+[Event_157]
 TimeLineIndex = 8
 StartTime = 0:01:19.6
 Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_157]
+[Event_158]
 TimeLineIndex = 8
 StartTime = 0:01:19.8
 Path = OFF
-[Event_158]
+[Event_159]
 TimeLineIndex = 8
 StartTime = 0:01:20.0
 Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_159]
+[Event_160]
 TimeLineIndex = 8
 StartTime = 0:01:20.2
 Path = OFF
-[Event_160]
+[Event_161]
 TimeLineIndex = 8
 StartTime = 0:01:20.4
 Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_161]
+[Event_162]
 TimeLineIndex = 11
 StartTime = 0:01:20.6
 Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_162]
+[Event_163]
 TimeLineIndex = 9
 StartTime = 0:01:20.6
 Path = OFF
-[Event_163]
+[Event_164]
 TimeLineIndex = 8
 StartTime = 0:01:20.6
 Path = OFF
-[Event_164]
+[Event_165]
 TimeLineIndex = 7
 StartTime = 0:01:20.6
 Path = OFF
-[Event_165]
+[Event_166]
 TimeLineIndex = 6
 StartTime = 0:01:20.6
 Path = OFF
-[Event_166]
+[Event_167]
 TimeLineIndex = 5
 StartTime = 0:01:20.6
 Path = LYRES tornade 1 2 3 4 5 6 7 8.gpj
 Length = 0:00:10.0
 Speed = 100
 SpeedType = 2
-[Event_167]
+[Event_168]
 TimeLineIndex = 11
 StartTime = 0:01:20.8
 Path = OFF
-[Event_168]
+[Event_169]
 TimeLineIndex = 9
 StartTime = 0:01:20.8
 Path = LIVEKOLOR Dimmer continu.scex
-Length = 0:00:05.0
-Speed = 100
-SpeedType = 2
-[Event_169]
-TimeLineIndex = 7
-StartTime = 0:01:20.8
-Path = LYRES Couleurs chaudes zoom moyen.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_170]
+TimeLineIndex = 7
+StartTime = 0:01:20.8
+Path = LYRES Couleurs chaudes zoom moyen.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_171]
 TimeLineIndex = 6
 StartTime = 0:01:20.8
 Path = LYRES Strob_dimmer.scex
 Length = 0:00:10.0
 Speed = 100
 SpeedType = 2
-[Event_171]
+[Event_172]
 TimeLineIndex = 11
 StartTime = 0:01:21.0
 Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_172]
-TimeLineIndex = 9
-StartTime = 0:01:21.0
-Path = OFF
 [Event_173]
-TimeLineIndex = 7
+TimeLineIndex = 9
 StartTime = 0:01:21.0
 Path = OFF
 [Event_174]
-TimeLineIndex = 6
+TimeLineIndex = 7
 StartTime = 0:01:21.0
 Path = OFF
 [Event_175]
+TimeLineIndex = 6
+StartTime = 0:01:21.0
+Path = OFF
+[Event_176]
 TimeLineIndex = 9
 StartTime = 0:01:21.2
 Path = LIVEKOLOR Dimmer continu.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_176]
+[Event_177]
 TimeLineIndex = 11
 StartTime = 0:01:21.2
 Path = OFF
-[Event_177]
+[Event_178]
 TimeLineIndex = 6
 StartTime = 0:01:21.2
 Path = LYRES Strob_dimmer.scex
 Length = 0:00:10.0
 Speed = 100
 SpeedType = 2
-[Event_178]
+[Event_179]
 TimeLineIndex = 7
 StartTime = 0:01:21.2
 Path = LYRES Couleurs chaudes zoom moyen.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_179]
+[Event_180]
 TimeLineIndex = 9
 StartTime = 0:01:21.4
 Path = OFF
-[Event_180]
+[Event_181]
 TimeLineIndex = 7
 StartTime = 0:01:21.4
 Path = OFF
-[Event_181]
+[Event_182]
 TimeLineIndex = 6
 StartTime = 0:01:21.4
 Path = OFF
-[Event_182]
+[Event_183]
 TimeLineIndex = 11
 StartTime = 0:01:21.4
 Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_183]
+[Event_184]
 TimeLineIndex = 6
 StartTime = 0:01:21.6
 Path = LYRES Strob_dimmer.scex
 Length = 0:00:10.0
 Speed = 100
 SpeedType = 2
-[Event_184]
+[Event_185]
 TimeLineIndex = 7
 StartTime = 0:01:21.6
 Path = LYRES Couleurs chaudes zoom moyen.scex
-Length = 0:00:05.0
-Speed = 100
-SpeedType = 2
-[Event_185]
-TimeLineIndex = 9
-StartTime = 0:01:21.6
-Path = LIVEKOLOR Dimmer continu.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_186]
+TimeLineIndex = 9
+StartTime = 0:01:21.6
+Path = LIVEKOLOR Dimmer continu.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_187]
 TimeLineIndex = 11
 StartTime = 0:01:21.6
 Path = OFF
-[Event_187]
+[Event_188]
 TimeLineIndex = 7
 StartTime = 0:01:21.8
 Path = OFF
-[Event_188]
+[Event_189]
 TimeLineIndex = 6
 StartTime = 0:01:21.8
 Path = OFF
-[Event_189]
+[Event_190]
 TimeLineIndex = 9
 StartTime = 0:01:21.8
 Path = OFF
-[Event_190]
+[Event_191]
 TimeLineIndex = 11
 StartTime = 0:01:21.8
 Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_191]
+[Event_192]
 TimeLineIndex = 7
 StartTime = 0:01:22.0
 Path = LYRES Couleurs chaudes zoom moyen.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_192]
+[Event_193]
 TimeLineIndex = 6
 StartTime = 0:01:22.0
 Path = LYRES Dimmer Salle.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_193]
+[Event_194]
 TimeLineIndex = 9
 StartTime = 0:01:22.0
 Path = LIVEKOLOR Dimmer continu.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_194]
+[Event_195]
 TimeLineIndex = 11
 StartTime = 0:01:22.0
 Path = OFF
-[Event_195]
+[Event_196]
 TimeLineIndex = 9
 StartTime = 0:01:25.8
 Path = OFF
-[Event_196]
+[Event_197]
 TimeLineIndex = 6
 StartTime = 0:01:25.8
 Path = OFF
-[Event_197]
+[Event_198]
 TimeLineIndex = 7
 StartTime = 0:01:25.8
 Path = OFF
-[Event_198]
+[Event_199]
 TimeLineIndex = 11
 StartTime = 0:01:25.8
 Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_199]
+[Event_200]
 TimeLineIndex = 9
 StartTime = 0:01:26.0
 Path = LIVEKOLOR Dimmer continu.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_200]
+[Event_201]
 TimeLineIndex = 7
 StartTime = 0:01:26.0
 Path = LYRES Couleurs chaudes zoom moyen.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_201]
+[Event_202]
 TimeLineIndex = 6
 StartTime = 0:01:26.0
 Path = LYRES Strob_dimmer.scex
 Length = 0:00:10.0
 Speed = 100
 SpeedType = 2
-[Event_202]
+[Event_203]
 TimeLineIndex = 11
 StartTime = 0:01:26.0
 Path = OFF
-[Event_203]
+[Event_204]
 TimeLineIndex = 9
 StartTime = 0:01:26.2
 Path = OFF
-[Event_204]
+[Event_205]
 TimeLineIndex = 6
 StartTime = 0:01:26.2
 Path = OFF
-[Event_205]
+[Event_206]
 TimeLineIndex = 7
 StartTime = 0:01:26.2
 Path = OFF
-[Event_206]
+[Event_207]
 TimeLineIndex = 11
 StartTime = 0:01:26.2
 Path = PAR 56 Int-Ext.scex
-Length = 0:00:05.0
-Speed = 100
-SpeedType = 2
-[Event_207]
-TimeLineIndex = 7
-StartTime = 0:01:26.4
-Path = LYRES Couleurs chaudes zoom moyen.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_208]
+TimeLineIndex = 7
+StartTime = 0:01:26.4
+Path = LYRES Couleurs chaudes zoom moyen.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_209]
 TimeLineIndex = 6
 StartTime = 0:01:26.4
 Path = LYRES Dimmer Salle.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_209]
+[Event_210]
 TimeLineIndex = 9
 StartTime = 0:01:26.4
 Path = LIVEKOLOR Dimmer continu.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_210]
+[Event_211]
 TimeLineIndex = 11
 StartTime = 0:01:26.4
 Path = OFF
-[Event_211]
+[Event_212]
 TimeLineIndex = 11
 StartTime = 0:01:28.5
 Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_212]
+[Event_213]
 TimeLineIndex = 9
 StartTime = 0:01:28.5
 Path = OFF
-[Event_213]
+[Event_214]
 TimeLineIndex = 6
 StartTime = 0:01:28.5
 Path = OFF
-[Event_214]
+[Event_215]
 TimeLineIndex = 7
 StartTime = 0:01:28.5
 Path = OFF
-[Event_215]
+[Event_216]
 TimeLineIndex = 6
 StartTime = 0:01:29.0
 Path = LYRES Dimmer Salle.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_216]
+[Event_217]
 TimeLineIndex = 7
 StartTime = 0:01:29.0
 Path = LYRES Couleurs chaudes zoom moyen.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_217]
+[Event_218]
 TimeLineIndex = 9
 StartTime = 0:01:29.0
 Path = LIVEKOLOR Dimmer continu.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_218]
+[Event_219]
 TimeLineIndex = 11
 StartTime = 0:01:29.0
 Path = OFF
-[Event_219]
+[Event_220]
 TimeLineIndex = 5
 StartTime = 0:01:32.4
 Path = OFF
-[Event_220]
+[Event_221]
 TimeLineIndex = 7
 StartTime = 0:01:32.4
 Path = OFF
-[Event_221]
+[Event_222]
 TimeLineIndex = 8
 StartTime = 0:01:32.4
 Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_222]
+[Event_223]
 TimeLineIndex = 8
 StartTime = 0:01:32.9
 Path = OFF
-[Event_223]
+[Event_224]
 TimeLineIndex = 5
 StartTime = 0:01:32.9
 Path = LYRES tornade 1 2 3 4 5 6 7 8.gpj
 Length = 0:00:10.0
 Speed = 100
 SpeedType = 2
-[Event_224]
+[Event_225]
 TimeLineIndex = 7
 StartTime = 0:01:32.9
 Path = LYRES Couleurs chaudes zoom moyen.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_225]
+[Event_226]
 TimeLineIndex = 11
 StartTime = 0:01:34.9
 Path = LIVEKOLOR couleurs chaudes rapide.scex
 Length = 0:00:04.1
 Speed = 100
 SpeedType = 2
-[Event_226]
+[Event_227]
 TimeLineIndex = 8
 StartTime = 0:01:37.0
 Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_227]
+[Event_228]
 TimeLineIndex = 7
 StartTime = 0:01:37.0
 Path = OFF
-[Event_228]
+[Event_229]
 TimeLineIndex = 8
 StartTime = 0:01:37.2
 Path = OFF
-[Event_229]
+[Event_230]
 TimeLineIndex = 7
 StartTime = 0:01:37.2
 Path = LYRES Couleurs chaudes zoom moyen.scex
-Length = 0:00:05.0
-Speed = 100
-SpeedType = 2
-[Event_230]
-TimeLineIndex = 8
-StartTime = 0:01:37.4
-Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_231]
-TimeLineIndex = 7
-StartTime = 0:01:37.4
-Path = OFF
-[Event_232]
 TimeLineIndex = 8
-StartTime = 0:01:37.6
-Path = OFF
-[Event_233]
-TimeLineIndex = 7
-StartTime = 0:01:37.6
-Path = LYRES Couleurs chaudes zoom moyen.scex
+StartTime = 0:01:37.4
+Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_234]
+[Event_232]
+TimeLineIndex = 7
+StartTime = 0:01:37.4
+Path = OFF
+[Event_233]
 TimeLineIndex = 8
-StartTime = 0:01:37.8
-Path = PAR 56 Int-Ext.scex
+StartTime = 0:01:37.6
+Path = OFF
+[Event_234]
+TimeLineIndex = 7
+StartTime = 0:01:37.6
+Path = LYRES Couleurs chaudes zoom moyen.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_235]
+TimeLineIndex = 8
+StartTime = 0:01:37.8
+Path = PAR 56 Int-Ext.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_236]
 TimeLineIndex = 7
 StartTime = 0:01:37.8
 Path = OFF
-[Event_236]
+[Event_237]
 TimeLineIndex = 8
 StartTime = 0:01:38.0
 Path = OFF
-[Event_237]
-TimeLineIndex = 7
-StartTime = 0:01:38.0
-Path = LYRES Couleurs chaudes zoom moyen.scex
-Length = 0:00:05.0
-Speed = 100
-SpeedType = 2
 [Event_238]
 TimeLineIndex = 7
-StartTime = 0:01:38.2
-Path = OFF
-[Event_239]
-TimeLineIndex = 8
-StartTime = 0:01:38.2
-Path = PAR 56 Int-Ext.scex
+StartTime = 0:01:38.0
+Path = LYRES Couleurs chaudes zoom moyen.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
+[Event_239]
+TimeLineIndex = 7
+StartTime = 0:01:38.2
+Path = OFF
 [Event_240]
 TimeLineIndex = 8
-StartTime = 0:01:38.4
-Path = OFF
-[Event_241]
-TimeLineIndex = 7
-StartTime = 0:01:38.4
-Path = LYRES Couleurs chaudes zoom moyen.scex
-Length = 0:00:05.0
-Speed = 100
-SpeedType = 2
-[Event_242]
-TimeLineIndex = 7
-StartTime = 0:01:38.6
-Path = OFF
-[Event_243]
-TimeLineIndex = 8
-StartTime = 0:01:38.6
+StartTime = 0:01:38.2
 Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_244]
+[Event_241]
+TimeLineIndex = 8
+StartTime = 0:01:38.4
+Path = OFF
+[Event_242]
 TimeLineIndex = 7
-StartTime = 0:01:38.8
+StartTime = 0:01:38.4
 Path = LYRES Couleurs chaudes zoom moyen.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_243]
+TimeLineIndex = 7
+StartTime = 0:01:38.6
+Path = OFF
+[Event_244]
+TimeLineIndex = 8
+StartTime = 0:01:38.6
+Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
@@ -1406,79 +1403,90 @@ Length = 0:00:08.0
 Speed = 100
 SpeedType = 2
 [Event_249]
+TimeLineIndex = 8
+StartTime = 0:01:46.0
+Path = OFF
+[Event_250]
+TimeLineIndex = 7
+StartTime = 0:01:46.0
+Path = LYRES Couleurs chaudes zoom moyen.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_251]
 TimeLineIndex = 3
 StartTime = 0:02:27.7
 Path = OFF
-[Event_250]
+[Event_252]
 TimeLineIndex = 13
 StartTime = 0:02:27.7
 Path = OFF
-[Event_251]
+[Event_253]
 TimeLineIndex = 14
 StartTime = 0:02:27.7
 Path = OFF
-[Event_252]
+[Event_254]
 TimeLineIndex = 4
 StartTime = 0:02:27.7
 Path = OFF
-[Event_253]
+[Event_255]
 TimeLineIndex = 5
 StartTime = 0:02:27.7
 Path = OFF
-[Event_254]
+[Event_256]
 TimeLineIndex = 6
 StartTime = 0:02:27.7
 Path = OFF
-[Event_255]
+[Event_257]
 TimeLineIndex = 11
 StartTime = 0:02:27.7
 Path = OFF
-[Event_256]
+[Event_258]
 TimeLineIndex = 10
 StartTime = 0:02:27.7
 Path = OFF
-[Event_257]
+[Event_259]
 TimeLineIndex = 9
 StartTime = 0:02:27.7
 Path = OFF
-[Event_258]
+[Event_260]
 TimeLineIndex = 7
 StartTime = 0:02:27.7
 Path = OFF
-[Event_259]
+[Event_261]
 TimeLineIndex = 8
 StartTime = 0:02:27.7
 Path = OFF
-[Event_260]
+[Event_262]
 TimeLineIndex = 8
 StartTime = 0:02:30.4
 Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_261]
+[Event_263]
 TimeLineIndex = 8
 StartTime = 0:02:30.6
 Path = OFF
-[Event_262]
+[Event_264]
 TimeLineIndex = 8
 StartTime = 0:02:30.8
 Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_263]
+[Event_265]
 TimeLineIndex = 8
 StartTime = 0:02:31.0
 Path = OFF
-[Event_264]
+[Event_266]
 TimeLineIndex = 8
 StartTime = 0:02:31.2
 Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
-[Event_265]
+[Event_267]
 TimeLineIndex = 8
 StartTime = 0:02:31.4
 Path = OFF
