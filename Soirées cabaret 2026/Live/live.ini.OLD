@@ -7,7 +7,7 @@ fade_time = 102
 hide_auto_bpm = yes
 [Params]
 ActiveTab = 3
-MMFilesPath = C:\Users\dodo2\Documents\Perso\Sweet_Light-SC\Soirées cabaret 2026\musiques\
+MMFilesPath = C:\Users\simon\Documents\Foyer des jeunes\Git Hub 2\Sweet_Light-SC\Soirées cabaret 2026\musiques\
 [master_faders]
 type_fader0 = 1
 caption_fader0 = Vitesse générale
@@ -134,7 +134,7 @@ title = STROB
 masterspeedfader = 0
 release_all = yes
 fader = yes
-preset_step = 255
+preset_step = 218
 [page3]
 name = Canaux (danses)
 nb_buttons = 4
@@ -218,7 +218,7 @@ title = Stroboscope
 masterspeedfader = 0
 release_all = yes
 fader = yes
-preset_step = 128
+preset_step = 116
 [page4_button7]
 line = 1
 column = 2
@@ -238,7 +238,7 @@ title = Strob scène
 masterspeedfader = 0
 release_all = yes
 fader = yes
-preset_step = 219
+preset_step = 130
 [page5]
 name = Eclairage salle (lyres)
 swap = yes
