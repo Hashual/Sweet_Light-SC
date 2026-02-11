@@ -438,3 +438,18 @@ Path = OFF
 TimeLineIndex = 15
 StartTime = 0:03:05.6
 Path = OFF
+[Event_74]
+TimeLineIndex = 4
+StartTime = 0:03:05.7
+Path = PAR 56 Int-Ext.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_75]
+TimeLineIndex = 5
+StartTime = 0:03:13.7
+Path = OFF
+[Event_76]
+TimeLineIndex = 4
+StartTime = 0:03:13.7
+Path = OFF

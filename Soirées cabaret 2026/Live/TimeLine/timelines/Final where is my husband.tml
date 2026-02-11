@@ -1,0 +1,564 @@
+﻿
+[Params]
+Version = 0.2
+CommentTimeLine = 0
+LightTimeLines = 15
+MediaTimeLines = 1
+ShowWaveForm = 1
+MaxTime = 0:30:00
+Zoom = 0
+TimeLine_1 = V I D E O   P I C T U R E   T I M E L I N E
+TimeLine_2 = A U D I O   T I M E L I N E
+TimeLine_3 = L I G H T   S C E N E   T I M E L I N E   #   1
+TimeLine_4 = LIVEKOLOR Mouvement
+TimeLine_5 = LIVEKOLOR couleur
+TimeLine_6 = LIVEKOLOR dimmer
+TimeLine_7 = Lyres mouvement
+TimeLine_8 = Lyres couleur
+TimeLine_9 = Lyres dimmer
+TimeLine_10 = Lyres mouvement 2
+TimeLine_11 = PAR 56
+TimeLine_12 = PC 
+TimeLine_13 = Brouillard
+TimeLine_14 = L I G H T   S C E N E   T I M E L I N E   #   12
+TimeLine_15 = L I G H T   S C E N E   T I M E L I N E   #   13
+TimeLine_16 = L I G H T   S C E N E   T I M E L I N E   #   14
+TimeLine_17 = L I G H T   S C E N E   T I M E L I N E   #   15
+[Marks]
+Mark_1 = 0:00:16.0
+[Event_0]
+TimeLineIndex = 5
+StartTime = 0:00:00.0
+Path = LIVEKOLOR couleur vieux jaune cabaret.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_1]
+TimeLineIndex = 8
+StartTime = 0:00:00.0
+Path = Lyres couleur cabaret.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_2]
+TimeLineIndex = 13
+StartTime = 0:00:00.0
+Path = Brouillard pendant danse.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_3]
+TimeLineIndex = 2
+StartTime = 0:00:00.0
+Path = musiques/final-1.wav
+Length = 0:01:46.0
+[Event_4]
+TimeLineIndex = 10
+StartTime = 0:00:02.7
+Path = PAR 56 Int-Ext.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_5]
+TimeLineIndex = 6
+StartTime = 0:00:03.4
+Path = LIVEKOLOR Dimmer continu.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_6]
+TimeLineIndex = 12
+StartTime = 0:00:03.4
+Path = PC (danses).scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_7]
+TimeLineIndex = 10
+StartTime = 0:00:03.4
+Path = OFF
+[Event_8]
+TimeLineIndex = 10
+StartTime = 0:00:05.4
+Path = PAR 56 Int-Ext.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_9]
+TimeLineIndex = 7
+StartTime = 0:00:06.0
+Path = LYRES plafond.scex
+Length = 0:00:01.5
+Speed = 100
+SpeedType = 2
+[Event_10]
+TimeLineIndex = 10
+StartTime = 0:00:06.5
+Path = OFF
+[Event_11]
+TimeLineIndex = 10
+StartTime = 0:00:07.4
+Path = PAR 56 Int-Ext.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_12]
+TimeLineIndex = 10
+StartTime = 0:00:08.5
+Path = OFF
+[Event_13]
+TimeLineIndex = 10
+StartTime = 0:00:09.4
+Path = PAR 56 Int-Ext.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_14]
+TimeLineIndex = 10
+StartTime = 0:00:10.5
+Path = OFF
+[Event_15]
+TimeLineIndex = 9
+StartTime = 0:00:11.5
+Path = Lyres dimmer 85%.scex
+Length = 0:00:05.0
+FadeIn = 200
+Speed = 100
+SpeedType = 2
+[Event_16]
+TimeLineIndex = 10
+StartTime = 0:00:11.5
+Path = PAR 56 Int-Ext.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_17]
+TimeLineIndex = 10
+StartTime = 0:00:12.6
+Path = OFF
+[Event_18]
+TimeLineIndex = 10
+StartTime = 0:00:13.6
+Path = PAR 56 Int-Ext.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_19]
+TimeLineIndex = 10
+StartTime = 0:00:14.7
+Path = OFF
+[Event_20]
+TimeLineIndex = 10
+StartTime = 0:00:15.7
+Path = PAR 56 Int-Ext.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_21]
+TimeLineIndex = 7
+StartTime = 0:00:16.0
+Path = OFF
+[Event_22]
+TimeLineIndex = 7
+StartTime = 0:00:16.0
+Path = Lyres salle placement sol crescendo 5 sec.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_23]
+TimeLineIndex = 10
+StartTime = 0:00:16.8
+Path = OFF
+[Event_24]
+TimeLineIndex = 7
+StartTime = 0:00:21.0
+Path = OFF
+[Event_25]
+TimeLineIndex = 6
+StartTime = 0:00:21.0
+Path = OFF
+[Event_26]
+TimeLineIndex = 5
+StartTime = 0:00:21.0
+Path = OFF
+[Event_27]
+TimeLineIndex = 8
+StartTime = 0:00:21.0
+Path = OFF
+[Event_28]
+TimeLineIndex = 9
+StartTime = 0:00:21.0
+Path = OFF
+[Event_29]
+TimeLineIndex = 10
+StartTime = 0:00:21.5
+Path = Lyres plafond salle.scex
+Length = 0:00:01.5
+Speed = 100
+SpeedType = 2
+[Event_30]
+TimeLineIndex = 7
+StartTime = 0:00:21.5
+Path = LYRES Mouvement crown scène.gpj
+Length = 0:00:08.0
+Speed = 100
+SpeedType = 2
+[Event_31]
+TimeLineIndex = 8
+StartTime = 0:00:21.5
+Path = Lyres couleur cabaret.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_32]
+TimeLineIndex = 9
+StartTime = 0:00:21.5
+Path = Lyres dimmer 85%.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_33]
+TimeLineIndex = 5
+StartTime = 0:00:21.5
+Path = Livekolor cabaret.scex
+Length = 0:00:04.5
+Speed = 100
+SpeedType = 2
+[Event_34]
+TimeLineIndex = 6
+StartTime = 0:00:21.5
+Path = LIVEKOLOR dimmer 85%.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_35]
+TimeLineIndex = 5
+StartTime = 0:00:29.9
+Path = LIVEKOLOR cabaret 2.scex
+Length = 0:00:04.5
+FadeIn = 200
+Speed = 100
+SpeedType = 2
+[Event_36]
+TimeLineIndex = 8
+StartTime = 0:00:29.9
+Path = LYRES CABARET plus clair.scex
+Length = 0:00:05.0
+FadeIn = 200
+Speed = 100
+SpeedType = 2
+[Event_37]
+TimeLineIndex = 11
+StartTime = 0:00:29.9
+Path = PAR 56 Int-Ext.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_38]
+TimeLineIndex = 11
+StartTime = 0:00:30.4
+Path = OFF
+[Event_39]
+TimeLineIndex = 7
+StartTime = 0:00:38.3
+Path = LYRES placement devant bloc noir.scex
+Length = 0:00:05.0
+FadeIn = 200
+Speed = 100
+SpeedType = 2
+[Event_40]
+TimeLineIndex = 8
+StartTime = 0:00:38.3
+Path = LYRES CABARET mchangement.scex
+Length = 0:00:06.0
+FadeIn = 200
+Speed = 100
+SpeedType = 2
+[Event_41]
+TimeLineIndex = 6
+StartTime = 0:00:53.3
+Path = OFF
+[Event_42]
+TimeLineIndex = 9
+StartTime = 0:00:53.3
+Path = OFF
+[Event_43]
+TimeLineIndex = 10
+StartTime = 0:00:53.3
+Path = OFF
+[Event_44]
+TimeLineIndex = 7
+StartTime = 0:00:53.3
+Path = OFF
+[Event_45]
+TimeLineIndex = 5
+StartTime = 0:00:53.3
+Path = OFF
+[Event_46]
+TimeLineIndex = 8
+StartTime = 0:00:53.3
+Path = OFF
+[Event_47]
+TimeLineIndex = 8
+StartTime = 0:00:53.3
+Path = Lyres cabaret dorée final.scex
+Length = 0:00:05.0
+FadeIn = 800
+Speed = 100
+SpeedType = 2
+[Event_48]
+TimeLineIndex = 11
+StartTime = 0:00:53.8
+Path = PAR 56 Int-Ext.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_49]
+TimeLineIndex = 6
+StartTime = 0:00:53.8
+Path = LIVEKOLOR dimmer 85%.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_50]
+TimeLineIndex = 7
+StartTime = 0:00:53.8
+Path = LYRES plafond.scex
+Length = 0:00:01.5
+FadeIn = 200
+Speed = 100
+SpeedType = 2
+[Event_51]
+TimeLineIndex = 9
+StartTime = 0:00:53.8
+Path = Lyres dimmer 85%.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_52]
+TimeLineIndex = 5
+StartTime = 0:00:53.8
+Path = LIVEKOLOR couleur vieux jaune cabaret.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_53]
+TimeLineIndex = 11
+StartTime = 0:00:54.5
+Path = OFF
+[Event_54]
+TimeLineIndex = 11
+StartTime = 0:00:55.7
+Path = PAR 56 Int-Ext.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_55]
+TimeLineIndex = 11
+StartTime = 0:00:56.4
+Path = OFF
+[Event_56]
+TimeLineIndex = 11
+StartTime = 0:00:57.6
+Path = PAR 56 Int-Ext.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_57]
+TimeLineIndex = 11
+StartTime = 0:00:58.3
+Path = OFF
+[Event_58]
+TimeLineIndex = 11
+StartTime = 0:00:59.4
+Path = PAR 56 Int-Ext.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_59]
+TimeLineIndex = 11
+StartTime = 0:01:00.0
+Path = OFF
+[Event_60]
+TimeLineIndex = 11
+StartTime = 0:01:00.2
+Path = PAR 56 Int-Ext.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_61]
+TimeLineIndex = 11
+StartTime = 0:01:00.6
+Path = OFF
+[Event_62]
+TimeLineIndex = 11
+StartTime = 0:01:00.8
+Path = PAR 56 Int-Ext.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_63]
+TimeLineIndex = 11
+StartTime = 0:01:01.2
+Path = OFF
+[Event_64]
+TimeLineIndex = 11
+StartTime = 0:01:01.8
+Path = PAR 56 Int-Ext.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_65]
+TimeLineIndex = 11
+StartTime = 0:01:02.5
+Path = OFF
+[Event_66]
+TimeLineIndex = 11
+StartTime = 0:01:03.5
+Path = PAR 56 Int-Ext.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_67]
+TimeLineIndex = 11
+StartTime = 0:01:04.2
+Path = OFF
+[Event_68]
+TimeLineIndex = 11
+StartTime = 0:01:05.4
+Path = PAR 56 Int-Ext.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_69]
+TimeLineIndex = 11
+StartTime = 0:01:06.1
+Path = OFF
+[Event_70]
+TimeLineIndex = 7
+StartTime = 0:01:08.8
+Path = OFF
+[Event_71]
+TimeLineIndex = 5
+StartTime = 0:01:08.8
+Path = OFF
+[Event_72]
+TimeLineIndex = 6
+StartTime = 0:01:08.8
+Path = OFF
+[Event_73]
+TimeLineIndex = 8
+StartTime = 0:01:08.8
+Path = OFF
+[Event_74]
+TimeLineIndex = 9
+StartTime = 0:01:08.8
+Path = OFF
+[Event_75]
+TimeLineIndex = 11
+StartTime = 0:01:09.1
+Path = PAR 56 Int-Ext.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_76]
+TimeLineIndex = 11
+StartTime = 0:01:10.6
+Path = OFF
+[Event_77]
+TimeLineIndex = 5
+StartTime = 0:01:10.8
+Path = LIVEKOLOR couleur vieux jaune cabaret.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_78]
+TimeLineIndex = 6
+StartTime = 0:01:10.8
+Path = LIVEKOLOR dimmer 85%.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_79]
+TimeLineIndex = 9
+StartTime = 0:01:10.8
+Path = Lyres dimmer 85%.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_80]
+TimeLineIndex = 8
+StartTime = 0:01:10.8
+Path = Lyres couleur cabaret.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_81]
+TimeLineIndex = 7
+StartTime = 0:01:10.8
+Path = LYRES tornade 4s 1 2 3 4 5 6 7 8.gpj
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_82]
+TimeLineIndex = 11
+StartTime = 0:01:18.5
+Path = PAR 56 Défilement.scex
+Length = 0:00:14.3
+Speed = 100
+SpeedType = 2
+[Event_83]
+TimeLineIndex = 11
+StartTime = 0:01:24.0
+Path = OFF
+[Event_84]
+TimeLineIndex = 7
+StartTime = 0:01:27.4
+Path = OFF
+[Event_85]
+TimeLineIndex = 8
+StartTime = 0:01:27.4
+Path = OFF
+[Event_86]
+TimeLineIndex = 9
+StartTime = 0:01:27.4
+Path = OFF
+[Event_87]
+TimeLineIndex = 11
+StartTime = 0:01:27.4
+Path = PAR 56 Int-Ext.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_88]
+TimeLineIndex = 6
+StartTime = 0:01:27.4
+Path = OFF
+[Event_89]
+TimeLineIndex = 5
+StartTime = 0:01:27.4
+Path = OFF
+[Event_90]
+TimeLineIndex = 12
+StartTime = 0:01:27.8
+Path = OFF
+[Event_91]
+TimeLineIndex = 13
+StartTime = 0:01:30.5
+Path = OFF
+[Event_92]
+TimeLineIndex = 11
+StartTime = 0:01:32.4
+Path = OFF
+[Event_93]
+TimeLineIndex = 7
+StartTime = 0:01:32.4
+Path = OFF
+[Event_94]
+TimeLineIndex = 8
+StartTime = 0:01:32.4
+Path = OFF
+[Event_95]
+TimeLineIndex = 9
+StartTime = 0:01:32.4
+Path = OFF
