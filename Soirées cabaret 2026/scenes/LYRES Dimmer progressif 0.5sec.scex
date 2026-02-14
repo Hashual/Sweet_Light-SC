@@ -46,7 +46,7 @@
         <Channel index="6" name="strobe_effect" value="7"/>
       </Fixture>
     </Step>
-    <Step length="200">
+    <Step length="50">
       <Fixture id="1671299957">
         <Channel index="5" name="dimmer" value="255" fade="1"/>
         <Channel index="6" name="strobe_effect" value="7"/>
