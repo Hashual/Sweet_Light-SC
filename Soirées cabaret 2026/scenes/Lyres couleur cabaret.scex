@@ -35,21 +35,15 @@
       </Fixture>
       <Fixture id="1766346200">
         <Channel index="8" name="red" value="140"/>
-        <Channel index="10" name="blue" value="20"/>
       </Fixture>
       <Fixture id="1766346201">
         <Channel index="8" name="red" value="140"/>
-        <Channel index="10" name="blue" value="20"/>
       </Fixture>
       <Fixture id="1671368260">
-        <Channel index="8" name="red" value="110"/>
-        <Channel index="9" name="green" value="10"/>
-        <Channel index="10" name="blue" value="25"/>
+        <Channel index="8" name="red" value="255"/>
       </Fixture>
       <Fixture id="1671368261">
-        <Channel index="8" name="red" value="110"/>
-        <Channel index="9" name="green" value="10"/>
-        <Channel index="10" name="blue" value="25"/>
+        <Channel index="8" name="red" value="255"/>
       </Fixture>
     </Step>
   </Steps>

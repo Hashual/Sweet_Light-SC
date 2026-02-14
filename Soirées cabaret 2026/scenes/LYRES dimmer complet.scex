@@ -14,35 +14,35 @@
   <Steps>
     <Step length="500">
       <Fixture id="1671299957">
-        <Channel index="5" name="dimmer" value="216"/>
+        <Channel index="5" name="dimmer" value="255"/>
         <Channel index="6" name="strobe_effect" value="7"/>
       </Fixture>
       <Fixture id="1671300460">
-        <Channel index="5" name="dimmer" value="216"/>
+        <Channel index="5" name="dimmer" value="255"/>
         <Channel index="6" name="strobe_effect" value="7"/>
       </Fixture>
       <Fixture id="1671300461">
-        <Channel index="5" name="dimmer" value="216"/>
+        <Channel index="5" name="dimmer" value="255"/>
         <Channel index="6" name="strobe_effect" value="7"/>
       </Fixture>
       <Fixture id="1671300462">
-        <Channel index="5" name="dimmer" value="216"/>
+        <Channel index="5" name="dimmer" value="255"/>
         <Channel index="6" name="strobe_effect" value="7"/>
       </Fixture>
       <Fixture id="1766346200">
-        <Channel index="5" name="dimmer" value="216"/>
+        <Channel index="5" name="dimmer" value="255"/>
         <Channel index="6" name="strobe_effect" value="7"/>
       </Fixture>
       <Fixture id="1766346201">
-        <Channel index="5" name="dimmer" value="216"/>
+        <Channel index="5" name="dimmer" value="255"/>
         <Channel index="6" name="strobe_effect" value="7"/>
       </Fixture>
       <Fixture id="1671368260">
-        <Channel index="5" name="dimmer" value="216"/>
+        <Channel index="5" name="dimmer" value="255"/>
         <Channel index="6" name="strobe_effect" value="7"/>
       </Fixture>
       <Fixture id="1671368261">
-        <Channel index="5" name="dimmer" value="216"/>
+        <Channel index="5" name="dimmer" value="255"/>
         <Channel index="6" name="strobe_effect" value="7"/>
       </Fixture>
     </Step>

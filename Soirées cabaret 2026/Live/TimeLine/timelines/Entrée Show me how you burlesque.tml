@@ -25,17 +25,18 @@ TimeLine_15 = L I G H T   S C E N E   T I M E L I N E   #   13
 TimeLine_16 = L I G H T   S C E N E   T I M E L I N E   #   14
 TimeLine_17 = L I G H T   S C E N E   T I M E L I N E   #   15
 [Event_0]
-TimeLineIndex = 3
-StartTime = 0:00:00.0
-Path = LYRES dégradé rouge verrs le plafond.scex
-Length = 0:00:20.5
-Speed = 100
-SpeedType = 2
-[Event_1]
 TimeLineIndex = 4
 StartTime = 0:00:00.0
 Path = Brouillard pendant danse.scex
 Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_1]
+TimeLineIndex = 3
+StartTime = 0:00:01.4
+Path = LYRES dégradé rouge verrs le plafond.scex
+Length = 0:00:20.5
+FadeIn = 500
 Speed = 100
 SpeedType = 2
 [Event_2]
@@ -48,6 +49,7 @@ TimeLineIndex = 5
 StartTime = 0:00:01.8
 Path = LYRES Dimmer Salle.scex
 Length = 0:00:05.0
+FadeIn = 300
 Speed = 100
 SpeedType = 2
 [Event_4]
@@ -404,117 +406,117 @@ StartTime = 0:01:03.6
 Path = OFF
 [Event_68]
 TimeLineIndex = 9
-StartTime = 0:01:05.1
+StartTime = 0:01:04.9
 Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_69]
 TimeLineIndex = 9
-StartTime = 0:01:05.5
+StartTime = 0:01:05.3
 Path = OFF
 [Event_70]
 TimeLineIndex = 9
-StartTime = 0:01:05.8
+StartTime = 0:01:05.6
 Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_71]
 TimeLineIndex = 9
-StartTime = 0:01:06.3
+StartTime = 0:01:06.1
 Path = OFF
 [Event_72]
 TimeLineIndex = 9
-StartTime = 0:01:07.8
+StartTime = 0:01:07.4
 Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_73]
 TimeLineIndex = 9
-StartTime = 0:01:08.3
+StartTime = 0:01:07.9
 Path = OFF
 [Event_74]
 TimeLineIndex = 9
-StartTime = 0:01:08.6
+StartTime = 0:01:08.2
 Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_75]
 TimeLineIndex = 9
-StartTime = 0:01:09.1
+StartTime = 0:01:08.7
 Path = OFF
 [Event_76]
 TimeLineIndex = 9
-StartTime = 0:01:12.2
+StartTime = 0:01:11.4
 Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_77]
 TimeLineIndex = 9
-StartTime = 0:01:12.7
+StartTime = 0:01:11.9
 Path = OFF
 [Event_78]
 TimeLineIndex = 9
-StartTime = 0:01:13.0
+StartTime = 0:01:12.2
 Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_79]
 TimeLineIndex = 9
-StartTime = 0:01:13.5
+StartTime = 0:01:12.7
 Path = OFF
 [Event_80]
 TimeLineIndex = 9
-StartTime = 0:01:14.7
+StartTime = 0:01:13.7
 Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_81]
 TimeLineIndex = 9
-StartTime = 0:01:15.2
+StartTime = 0:01:14.2
 Path = OFF
 [Event_82]
 TimeLineIndex = 9
-StartTime = 0:01:15.5
+StartTime = 0:01:14.5
 Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_83]
 TimeLineIndex = 9
-StartTime = 0:01:16.0
+StartTime = 0:01:15.0
 Path = OFF
 [Event_84]
 TimeLineIndex = 9
-StartTime = 0:01:17.4
+StartTime = 0:01:15.9
 Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_85]
 TimeLineIndex = 9
-StartTime = 0:01:17.9
+StartTime = 0:01:16.4
 Path = OFF
 [Event_86]
 TimeLineIndex = 9
-StartTime = 0:01:18.2
+StartTime = 0:01:16.7
 Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_87]
 TimeLineIndex = 9
-StartTime = 0:01:18.7
+StartTime = 0:01:17.2
 Path = OFF
 [Event_88]
 TimeLineIndex = 10
-StartTime = 0:01:19.9
+StartTime = 0:01:18.9
 Path = Lyres placement devant bloc noir de gauche.scex
 Length = 0:00:05.0
 Speed = 100
@@ -538,140 +540,140 @@ Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_92]
-TimeLineIndex = 10
-StartTime = 0:01:52.9
-Path = OFF
-[Event_93]
 TimeLineIndex = 9
-StartTime = 0:01:52.9
+StartTime = 0:01:52.8
 Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
+[Event_93]
+TimeLineIndex = 10
+StartTime = 0:01:52.9
+Path = OFF
 [Event_94]
 TimeLineIndex = 9
-StartTime = 0:01:53.3
+StartTime = 0:01:53.2
 Path = OFF
 [Event_95]
 TimeLineIndex = 9
-StartTime = 0:01:53.6
+StartTime = 0:01:53.5
 Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_96]
 TimeLineIndex = 9
-StartTime = 0:01:54.0
+StartTime = 0:01:53.9
 Path = OFF
 [Event_97]
 TimeLineIndex = 9
-StartTime = 0:01:55.5
+StartTime = 0:01:55.2
 Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_98]
 TimeLineIndex = 9
-StartTime = 0:01:55.9
+StartTime = 0:01:55.6
 Path = OFF
 [Event_99]
 TimeLineIndex = 9
-StartTime = 0:01:56.2
+StartTime = 0:01:55.9
 Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_100]
 TimeLineIndex = 9
-StartTime = 0:01:56.7
+StartTime = 0:01:56.5
 Path = OFF
 [Event_101]
 TimeLineIndex = 9
-StartTime = 0:01:58.2
+StartTime = 0:01:57.4
 Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_102]
 TimeLineIndex = 9
-StartTime = 0:01:58.7
+StartTime = 0:01:57.9
 Path = OFF
 [Event_103]
 TimeLineIndex = 9
-StartTime = 0:01:59.0
+StartTime = 0:01:58.2
 Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_104]
 TimeLineIndex = 9
-StartTime = 0:01:59.5
+StartTime = 0:01:58.7
 Path = OFF
 [Event_105]
 TimeLineIndex = 9
-StartTime = 0:02:02.6
+StartTime = 0:02:01.7
 Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_106]
 TimeLineIndex = 9
-StartTime = 0:02:03.1
+StartTime = 0:02:02.2
 Path = OFF
 [Event_107]
 TimeLineIndex = 9
-StartTime = 0:02:03.4
+StartTime = 0:02:02.5
 Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_108]
 TimeLineIndex = 9
-StartTime = 0:02:03.9
+StartTime = 0:02:03.0
 Path = OFF
 [Event_109]
 TimeLineIndex = 9
-StartTime = 0:02:05.1
+StartTime = 0:02:04.0
 Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_110]
 TimeLineIndex = 9
-StartTime = 0:02:05.6
+StartTime = 0:02:04.5
 Path = OFF
 [Event_111]
 TimeLineIndex = 9
-StartTime = 0:02:05.9
+StartTime = 0:02:04.8
 Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_112]
 TimeLineIndex = 9
-StartTime = 0:02:06.4
+StartTime = 0:02:05.3
 Path = OFF
 [Event_113]
 TimeLineIndex = 9
-StartTime = 0:02:07.8
+StartTime = 0:02:06.5
 Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_114]
 TimeLineIndex = 9
-StartTime = 0:02:08.3
+StartTime = 0:02:07.0
 Path = OFF
 [Event_115]
 TimeLineIndex = 9
-StartTime = 0:02:08.6
+StartTime = 0:02:07.3
 Path = PAR 56 Int-Ext.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_116]
 TimeLineIndex = 9
-StartTime = 0:02:09.1
+StartTime = 0:02:07.8
 Path = OFF
 [Event_117]
 TimeLineIndex = 16
@@ -730,7 +732,7 @@ SpeedType = 2
 [Event_126]
 TimeLineIndex = 15
 StartTime = 0:02:24.0
-Path = LYRES Strob_dimmer.scex
+Path = LYRES Dimmer(6).scex
 Length = 0:00:10.0
 Speed = 100
 SpeedType = 2
@@ -779,107 +781,118 @@ Speed = 100
 SpeedType = 2
 [Event_134]
 TimeLineIndex = 6
-StartTime = 0:02:36.3
+StartTime = 0:02:35.9
 Path = OFF
 [Event_135]
 TimeLineIndex = 13
-StartTime = 0:02:36.3
+StartTime = 0:02:35.9
 Path = OFF
 [Event_136]
 TimeLineIndex = 7
-StartTime = 0:02:36.5
+StartTime = 0:02:36.1
 Path = OFF
 [Event_137]
 TimeLineIndex = 14
-StartTime = 0:02:36.5
+StartTime = 0:02:36.1
 Path = OFF
 [Event_138]
 TimeLineIndex = 12
-StartTime = 0:02:36.5
+StartTime = 0:02:36.1
 Path = LIVEKOLOR Dimmer continu.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_139]
 TimeLineIndex = 8
-StartTime = 0:02:36.5
+StartTime = 0:02:36.1
 Path = LYRES Blanc.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_140]
 TimeLineIndex = 11
-StartTime = 0:02:36.5
+StartTime = 0:02:36.1
 Path = OFF
 [Event_141]
 TimeLineIndex = 8
-StartTime = 0:02:40.7
+StartTime = 0:02:40.3
 Path = OFF
 [Event_142]
 TimeLineIndex = 12
-StartTime = 0:02:40.7
+StartTime = 0:02:40.3
 Path = OFF
 [Event_143]
 TimeLineIndex = 9
-StartTime = 0:02:40.7
+StartTime = 0:02:40.3
 Path = OFF
 [Event_144]
 TimeLineIndex = 10
-StartTime = 0:02:40.7
+StartTime = 0:02:40.3
 Path = OFF
 [Event_145]
 TimeLineIndex = 12
-StartTime = 0:02:41.2
+StartTime = 0:02:40.8
 Path = LIVEKOLOR Dimmer continu.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_146]
 TimeLineIndex = 10
-StartTime = 0:02:41.2
+StartTime = 0:02:40.8
 Path = LYRES Mouvement circle salle (8 appareils).gpj
 Length = 0:00:10.0
 Speed = 100
 SpeedType = 2
 [Event_147]
 TimeLineIndex = 8
-StartTime = 0:02:41.2
+StartTime = 0:02:40.8
 Path = LYRES Couleurs chaudes zoom moyen.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_148]
 TimeLineIndex = 9
-StartTime = 0:02:41.2
+StartTime = 0:02:40.8
 Path = LIVEKOLOR couleurs chaude 120 BPM.scex
 Length = 0:00:01.4
 Speed = 100
 SpeedType = 2
 [Event_149]
-TimeLineIndex = 9
-StartTime = 0:03:00.3
-Path = OFF
+TimeLineIndex = 7
+StartTime = 0:02:59.3
+Path = PAR 56 Int-Ext.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
 [Event_150]
-TimeLineIndex = 10
-StartTime = 0:03:00.3
+TimeLineIndex = 9
+StartTime = 0:02:59.5
 Path = OFF
 [Event_151]
-TimeLineIndex = 2
-StartTime = 0:03:00.3
+TimeLineIndex = 10
+StartTime = 0:02:59.5
 Path = OFF
 [Event_152]
 TimeLineIndex = 12
-StartTime = 0:03:00.3
+StartTime = 0:02:59.5
 Path = OFF
 [Event_153]
 TimeLineIndex = 15
-StartTime = 0:03:00.3
+StartTime = 0:02:59.5
 Path = OFF
 [Event_154]
 TimeLineIndex = 16
-StartTime = 0:03:00.3
+StartTime = 0:02:59.5
 Path = OFF
 [Event_155]
 TimeLineIndex = 8
+StartTime = 0:02:59.5
+Path = OFF
+[Event_156]
+TimeLineIndex = 2
 StartTime = 0:03:00.3
+Path = OFF
+[Event_157]
+TimeLineIndex = 7
+StartTime = 0:03:01.2
 Path = OFF
