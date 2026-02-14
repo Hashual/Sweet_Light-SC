@@ -114,16 +114,101 @@ Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_13]
+TimeLineIndex = 3
+StartTime = 0:00:24.1
+Path = LYRES Dimmer progressif 2s.scex
+Length = 0:00:02.1
+Speed = 100
+SpeedType = 2
+[Event_14]
 TimeLineIndex = 6
 StartTime = 0:00:24.1
 Path = LYRES plafond.scex
 Length = 0:00:01.5
 Speed = 100
 SpeedType = 2
-[Event_14]
+[Event_15]
 TimeLineIndex = 4
-StartTime = 0:00:24.4
+StartTime = 0:00:24.1
 Path = LYRES Orange.scex
 Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_16]
+TimeLineIndex = 3
+StartTime = 0:00:25.7
+Path = LYRES Dimmer progressif 0.5sec.scex
+Length = 0:00:00.6
+Speed = 100
+SpeedType = 2
+[Event_17]
+TimeLineIndex = 3
+StartTime = 0:00:26.3
+Path = LYRES Dimmer progressif 0.5sec.scex
+Length = 0:00:00.6
+Speed = 100
+SpeedType = 2
+[Event_18]
+TimeLineIndex = 3
+StartTime = 0:00:26.9
+Path = LYRES Dimmer progressif 2s.scex
+Length = 0:00:02.1
+Speed = 100
+SpeedType = 2
+[Event_19]
+TimeLineIndex = 3
+StartTime = 0:00:29.3
+Path = LYRES Dimmer progressif 0.5sec.scex
+Length = 0:00:00.6
+Speed = 100
+SpeedType = 2
+[Event_20]
+TimeLineIndex = 3
+StartTime = 0:00:38.5
+Path = OFF
+[Event_21]
+TimeLineIndex = 5
+StartTime = 0:00:38.5
+Path = OFF
+[Event_22]
+TimeLineIndex = 4
+StartTime = 0:00:38.5
+Path = LYRES Couleurs chaudes.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_23]
+TimeLineIndex = 3
+StartTime = 0:00:40.6
+Path = Lyres Chenillard 8 lyres.scex
+Length = 0:00:05.4
+Speed = 100
+SpeedType = 2
+[Event_24]
+TimeLineIndex = 3
+StartTime = 0:00:49.1
+Path = LYRES Strob_dimmer.scex
+Length = 0:00:10.0
+Speed = 100
+SpeedType = 2
+[Event_25]
+TimeLineIndex = 6
+StartTime = 0:00:53.4
+Path = LYRES Mouvement circle salle (8 appareils).gpj
+Length = 0:00:10.0
+Speed = 100
+SpeedType = 2
+[Event_26]
+TimeLineIndex = 3
+StartTime = 0:00:53.4
+Path = LYRES Dimmer Salle.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_27]
+TimeLineIndex = 4
+StartTime = 0:00:53.4
+Path = LYRES Multicouleurs.scex
+Length = 0:00:06.0
 Speed = 100
 SpeedType = 2
