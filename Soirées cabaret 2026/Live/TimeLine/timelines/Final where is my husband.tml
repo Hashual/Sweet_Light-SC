@@ -467,35 +467,35 @@ StartTime = 0:01:11.0
 Path = OFF
 [Event_77]
 TimeLineIndex = 5
-StartTime = 0:01:11.2
+StartTime = 0:01:11.1
 Path = LIVEKOLOR couleur vieux jaune cabaret.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_78]
 TimeLineIndex = 6
-StartTime = 0:01:11.2
+StartTime = 0:01:11.1
 Path = LIVEKOLOR dimmer 85%.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_79]
 TimeLineIndex = 9
-StartTime = 0:01:11.2
+StartTime = 0:01:11.1
 Path = Lyres dimmer 85%.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_80]
 TimeLineIndex = 8
-StartTime = 0:01:11.2
+StartTime = 0:01:11.1
 Path = Lyres couleur cabaret.scex
 Length = 0:00:05.0
 Speed = 100
 SpeedType = 2
 [Event_81]
 TimeLineIndex = 7
-StartTime = 0:01:11.2
+StartTime = 0:01:11.1
 Path = LYRES tornade 4s 1 2 3 4 5 6 7 8.gpj
 Length = 0:00:05.0
 Speed = 100

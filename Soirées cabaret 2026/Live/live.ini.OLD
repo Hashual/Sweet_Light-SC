@@ -89,6 +89,7 @@ line = 1
 column = 7
 name = Lyres sur la sono.scex
 title = Lyres sur la sono
+color = 14492122
 masterspeedfader = 0
 [page2]
 name = Canaux (after)
@@ -702,6 +703,7 @@ line = 1
 column = 4
 name = Final where is my husband.tml
 title = Final where is my husband
+color = 10509957
 speed = auto_bpm
 beats = 0.000000
 masterspeedfader = 0

@@ -72,24 +72,22 @@
         <Channel index="10" name="blue" value="60" fade="1"/>
       </Fixture>
       <Fixture id="1766346200">
+        <Channel index="5" name="dimmer" value="255" fade="1"/>
+        <Channel index="6" name="strobe_effect" value="7"/>
         <Channel index="8" name="red" value="140" fade="1"/>
         <Channel index="9" name="green" value="0" fade="1"/>
-        <Channel index="10" name="blue" value="20" fade="1"/>
       </Fixture>
       <Fixture id="1766346201">
         <Channel index="8" name="red" value="140" fade="1"/>
         <Channel index="9" name="green" value="0" fade="1"/>
-        <Channel index="10" name="blue" value="20" fade="1"/>
       </Fixture>
       <Fixture id="1671368260">
         <Channel index="8" name="red" value="165" fade="1"/>
         <Channel index="9" name="green" value="0" fade="1"/>
-        <Channel index="10" name="blue" value="25" fade="1"/>
       </Fixture>
       <Fixture id="1671368261">
         <Channel index="8" name="red" value="165" fade="1"/>
         <Channel index="9" name="green" value="0" fade="1"/>
-        <Channel index="10" name="blue" value="25" fade="1"/>
       </Fixture>
     </Step>
   </Steps>
